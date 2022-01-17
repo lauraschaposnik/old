@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Project 365- 2017
+description: One photo for every day in 2017
+img: assets/img/12.jpg
+importance: 1
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

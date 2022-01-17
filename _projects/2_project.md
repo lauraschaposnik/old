@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
+title: Project 365- 2019
+description: One photo for every day in 2019
+img: assets/img/12.jpg
+importance: 1
 category: work
 ---
 
