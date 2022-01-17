@@ -4,7 +4,7 @@ title: Ene and the Magic Tree
 description: Children's book teaching bilingual Spanish and English vocabulary about mathematics
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Children's Books
 ---
 
 Every project has a beautiful feature showcase page.

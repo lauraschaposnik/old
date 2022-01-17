@@ -4,7 +4,7 @@ title: Gallery- Summers in Vietnam
 description: Taken during a few summers in Hanoi
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Photography
 ---
 
 Every project has a beautiful feature showcase page.

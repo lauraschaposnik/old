@@ -4,7 +4,7 @@ title: Project 365- 2020
 description: One photo for every day in 2020
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Project 365
 ---
 
 Every project has a beautiful feature showcase page.

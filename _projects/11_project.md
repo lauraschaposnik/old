@@ -4,7 +4,7 @@ title: Gallery- Africa
 description: Taken during a visit to Kruger Park before heading to the African institute of Mathematical Sciences
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Photography
 ---
 
 Every project has a beautiful feature showcase page.
