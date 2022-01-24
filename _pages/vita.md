@@ -18,7 +18,7 @@ Please follow <a href="assets/pdf/Schaposnik_CV_2021.pdf">this link</a> to acces
 Below you will find a brief summary of my education and some of the positions I have held.
 <br>
 
-<h4>Education</h4>
+<h2>Education</h2>
 
 <table width="100%">
   <tr><th colspan="2"><h5>University of Oxford</h5></th></tr>
@@ -37,7 +37,7 @@ Below you will find a brief summary of my education and some of the positions I 
         <img src="assets/img/laplata.png" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/><br>
     </td>
     <td width="85%">
-        <b>Lic. en Matematica</b>, 2008 (advised by Jorge Solomin</a>)<br>
+        <b>Lic. en Matematica</b>, 2008 (advised by Jorge Solomin)<br>
     </td>
   </tr>
   <tr><th colspan="2"><h5>Conservatory Gilardo Gilardi</h5></th></tr>
@@ -46,12 +46,13 @@ Below you will find a brief summary of my education and some of the positions I 
         <img src="assets/img/conservatorio.jpg" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/><br>
     </td>
     <td width="85%">
-        <b>Formacion Basica</b>, 2007<br>
+        <b>Formacion Basica (FOBA)</b>, 2007<br>
     </td>
   </tr>
+<br>
+<hr>
 
-
-<h4>Academic Positions</h4>
+<h2>Academic Positions</h2>
 <table width="100%">
   <tr><th colspan="2"><h5>University of Illinois at Chicago</h5></th></tr>
   <tr>
@@ -85,8 +86,10 @@ Below you will find a brief summary of my education and some of the positions I 
        <u>Wissenschaftlicher Assistant</u>, 2012-2013
     </td>
   </tr>
+<br>
+<hr>
 
-<h4>Visiting Positions</h4>
+<h2>Visiting Positions</h2>
 <table width="100%">
 <tr><th colspan="2"><h5>Mathematical Institute, University of Oxford</h5></th></tr>
   <tr>
