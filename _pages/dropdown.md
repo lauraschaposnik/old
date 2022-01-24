@@ -9,4 +9,6 @@ children:
     - title: divider
     - title: projects
       permalink: /projects/
+    - title: vita
+      permalink: /vita/
 ---
