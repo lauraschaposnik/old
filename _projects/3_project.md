@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 365- 2019
+title: Project 365- 2018
 description: One photo for every day in 2018
 img: assets/img/365-2018.jpg
 importance: 1
