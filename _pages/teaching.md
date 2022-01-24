@@ -22,7 +22,7 @@ nav: true
 <h3>Past students:</h3>
 
 <b>Vishaal Ram</b> |  Soon to become an undergraduate at ...
-Supervised through PRIMES-USA (MIT) during 2020 (High School)
+- Supervised through PRIMES-USA (MIT) during 2020 (High School)
 - 2020 S.-T. Yau High School Science Bronze Award.
 - Regeneron Science Talent Search Scholar 2020.
 
@@ -43,7 +43,7 @@ Supervised through PRIMES-USA (MIT) during 2020 (High School)
 - Regeneron Science Talent Search Scholar (2016).
 
 <b>Jessica Li</b> |  Currently undergraduate at Harvard University.
-Supervised during 2014 through MIT's PRIMES-USA program.
+- Supervised during 2014 through MIT's PRIMES-USA program.
 - Siemens Semifinalist (2014).
 - Intel Competition Semifinalist (2014). 
 
