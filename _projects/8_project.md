@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Project 365- 2013
+title: EXAMPLE
 description: One photo for every day in 2013
 img: assets/img/12.jpg
 importance: 1
-category: Project 365
+category: None
 ---
 
 Every project has a beautiful feature showcase page.
