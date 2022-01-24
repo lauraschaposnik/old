@@ -21,3 +21,5 @@ After receiving her degree of Licenciada en Matemáticas from the University of 
 
 Laura's research focuses on the study of the geometry and topology of the moduli spaces of decorated bundles, especially Higgs bundles and Hitchin systems, and geometric structures they parametrize.  Research on 
 the moduli spaces of Higgs bundles has yielded connections between fundamental areas of mathematics and theoretical physics, blending ideas from algebraic and differential geometry, Lie theory, representation theory, and string theory. Her work has appeared in the Journal of Differential Geometry, Transactions of the AMS, Communications in Mathematical Physics, Advances in Theoretical and Mathematical Physics,  Proceedings of the Royal Society A, among other outlets. 
+
+Source: [Lathisms 2020](https://www.lathisms.org/calendar-2020/laura-p-schaposnik)
