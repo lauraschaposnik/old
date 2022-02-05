@@ -106,9 +106,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  events:
-    output: true
-    permalink: /events/:path/
+  # events:
+  #   output: true
+  #   permalink: /events/:path/
 
 news_limit: 5
 
