@@ -1,18 +1,23 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Schaposnik":
+  - firstname: ["Laura", "L.", "L"]
+    url: https://schapos.people.uic.edu/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Baraglia":
+  - firstname: ["David", "D.", "D"]
+    url: http://www.maths.adelaide.edu.au/david.baraglia/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Biswas": 
+  - firstname: ["Indranil", "I.", "I"]
+    url: https://en.wikipedia.org/wiki/Indranil_Biswas
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Yang":
+  - firstname: ["Mengxue", "M.", "M"]
+    url: http://homepages.math.uic.edu/~myang59/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Heller":
+  - firstname: ["Sebastian", "S.", "S"]
+    url: https://www.differentialgeometrie.uni-hannover.de/en/institut/personenverzeichnis/pd-dr-sebastian-heller/
+
+"Rayan":
+  - firstname: ["Steve", "Steven", "S.", "S"]
+    url: https://math.usask.ca/~rayan/
