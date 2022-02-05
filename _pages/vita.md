@@ -19,20 +19,20 @@ Below you will find a brief summary of my education and some of the positions I 
 
 ##### University of Oxford
 
-![](img/oxford.png)
+![](/{{site.baseurl}}/assets/img/oxford.png)
 
 * **D. Phil. in Mathematics**, 2013 (advised by [Nigel Hitchin](https://people.maths.ox.ac.uk/hitchin/) )
 * funded by the Clarendon Award, 2008-2011
 
 ##### National University of La Plata
 
-![](/assets/img/laplata.png)
+![](/{{site.baseurl}}/assets/img/laplata.png)
 
 * **Lic. en Matematica**, 2008 (advised by Jorge Solomin)
 
 ###### Conservatory Gilardo Gilardi
 
-![](/assets/img/conservatorio.jpg)
+![](/{{site.baseurl}}/assets/img/conservatorio.jpg)
 
 * **Formacion Basica (FOBA)**, 2007
 

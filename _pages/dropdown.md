@@ -11,4 +11,6 @@ children:
       permalink: /projects/
     - title: vita
       permalink: /vita/
+    - title: visits
+      permalink: /visits/
 ---
