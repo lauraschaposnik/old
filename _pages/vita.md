@@ -9,7 +9,7 @@ heading: vita
 
 ## Full CV
 
-Please follow [this link](/assets/pdf/Schaposnik_CV_2021.pdf) to access my full vita.
+Please follow [this link](pdf/Schaposnik_CV_2021.pdf) to access my full vita.
 
 ## Short CV
 
@@ -19,7 +19,7 @@ Below you will find a brief summary of my education and some of the positions I 
 
 ##### University of Oxford
 
-![](assets/img/oxford.png)
+![](img/oxford.png)
 
 * **D. Phil. in Mathematics**, 2013 (advised by [Nigel Hitchin](https://people.maths.ox.ac.uk/hitchin/) )
 * funded by the Clarendon Award, 2008-2011
