@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Associate Professor</a>. Department of <a href="http://mscs.uic.edu">Mathematics, Statistics, and Computer Science</a>, <a href="http://uic.edu">University of Illinois Chicago</a>
+subtitle: <a href="http://mscs.uic.edu">Associate Professor</a>. Department of Mathematics, Statistics, and Computer Science, University of Illinois Chicago
 
 profile:
   align: right
