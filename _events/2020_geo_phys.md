@@ -2,7 +2,7 @@
 layout: page
 title: Geometry and Physics of Higgs bundles (2020)
 description: 
-img: assets/img/geo_phys_2020.jpg
+img: assets/img/geo_phys_2020.png
 importance: 1
 category: RTG Workshops
 ---
