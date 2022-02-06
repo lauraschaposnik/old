@@ -13,4 +13,6 @@ children:
       permalink: /vita/
     - title: visits
       permalink: /visits/
+    - title: events
+      permalink: /events/
 ---
