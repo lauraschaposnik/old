@@ -2,11 +2,9 @@
 layout: page
 permalink: /teaching-prosp/
 title: 'teaching: prospective students'
-description: Information for prospective students.
+description: information for prospective students and post-docs
 nav: false
 ---
-
-<h2>Information for students and post-docs</h2>
 
 <b>Post-doc positions for German based researchers:</b> If you are based in Germany and would like to work as a post-doctoral researcher with me, please send me an email at schapos@uic.edu. The Alexander von Humboldt foundation has a program through which you could come to UIC for 1~2 years. 
 

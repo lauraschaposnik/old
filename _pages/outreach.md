@@ -1,6 +1,17 @@
+---
+layout: page
+title: outreach
+permalink: /outreach/
+description: engaging pre-college students into mathematics
+nav: false
+horizontal: false
+---
 
+### Sonia Kovalevsky Days
 
-### Material for Sonia Kovalevsky days.
+These days are part of series of the [Association of Women in Mathematics (AWM)](https://sites.google.com/site/awmmath/home). For more than twenty years Sonia Kovalevsky Days have been organized and sponsored by AWM and held at colleges and universities throughout the country. Sonia Kovalevsky Days (SK Days) consist of a program of workshops, talks, and problem-solving competitions for female high school and middle school students and their teachers, both women and men. 
+
+##### Material for Sonia Kovalevsky days.
 
 9. [Billiards](https://drive.google.com/file/d/1MwFiFEbUCeWj9VDtDh4BhbAoyoAKikKO/view?usp=sharing), with James A. Unwin (2018).
 8. [Non-orientable surfaces](https://drive.google.com/file/d/1HvY4P5eqB6u4JTL5qkKMiYfP8U4zLS9b/view?usp=sharing), with James A. Unwin (2018).
@@ -12,7 +23,7 @@
 2. [Knots](https://drive.google.com/file/d/1T7Yu_CKj4lSxN90LGq8rZoggD69oOJt4/view?usp=sharing), with James A. Unwin (2016). 
 1. [Bridges of Konigsberg](https://drive.google.com/file/d/1WWqKgmSZPW3U7qkErum4ax77o6hRFPfb/view?usp=sharing), with James A. Unwin (2016). 
 
-### Pages for past Sonia Kovalevsky days
+##### Pages for past Sonia Kovalevsky days
 
 * 2020 []()
 * 2019 []()

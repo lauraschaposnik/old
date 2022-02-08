@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching-students/
 title: 'teaching: past students'
-description: Information about past and current students.
+description: information about past and current students
 nav: false
 ---
 
@@ -32,17 +32,24 @@ nav: false
 
 <b>Rinni Bhansali</b>  | Currently undergraduate at Stanford University.
 - Supervised during 2018 through MIT's PRIMES-USA program
+- Project: A trust model for bootstrap percolation
 - Regeneron Science Talent Search Scholar (2018).
 
 <b>Anlin Zhang</b>   |  Currently undergraduate at Princeton University.
 - Supervised during 2017 through MIT's PRIMES-USA program
+- Project: Virus spread in symmetric networks
 - Siemens National Finalist (2017).
+- [Paper](https://www.tandfonline.com/doi/pdf/10.1080/23737867.2017.1419080)
 
 <b>Kai Siang-Ang</b> | Currently undergraduate at Stanford University.
 - Supervised during 2016 through MIT's PRIMES-USA program. 
+- Project: On the geometry of regular icosahedral capsids containing disymmetrons
 - Regeneron Science Talent Search Scholar (2016).
+- [Paper](https://arxiv.org/abs/1608.08271)
 
 <b>Jessica Li</b> |  Currently undergraduate at Harvard University.
 - Supervised during 2014 through MIT's PRIMES-USA program.
+- Interface control and snow crystal growth
 - Siemens Semifinalist (2014).
 - Intel Competition Semifinalist (2014). 
+- [Paper](https://arxiv.org/abs/1505.02042)

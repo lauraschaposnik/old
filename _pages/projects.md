@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: a growing collection of non-math projects
 nav: true
-display_categories: [Project 365, Photography, Children's Books]
+display_categories: [Project 365, Photography, Children's Books, Cooking, Travel]
 horizontal: false
 ---
 

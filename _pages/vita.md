@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: vita
-description: 
+description: my education and academic work history
 nav: true
 heading: vita
 ---
