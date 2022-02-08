@@ -3,7 +3,7 @@ layout: page
 title: events
 permalink: /events/
 description: A growing collection of your events.
-nav: true
+nav: false
 display_categories: ['RTG Workshops', 'Spectral Workshops', 'Sonia Kovalevsky Days']
 horizontal: false
 ---
