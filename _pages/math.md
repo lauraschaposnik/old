@@ -8,4 +8,6 @@ children:
       permalink: /events/
     - title: visits
       permalink: /visits/
+    - title: outreach
+      permalink: /outreach/
 ---
