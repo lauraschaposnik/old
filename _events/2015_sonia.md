@@ -2,12 +2,12 @@
 layout: page
 title: Sonia Kovalevsky Day (2015)
 description: Math outreach days
-img: assets/img/sonia-2015.jpg
+img: 
 importance: 1
 category: 'Sonia Kovalevsky Days'
 ---
 
-![]({{site.baseurl}}/assets/img/sonia-2015.jpg)
+![]({{site.baseurl}}/assets/img/sonia-2015.png){: width="300" }
 
 # Maths and Magic
 

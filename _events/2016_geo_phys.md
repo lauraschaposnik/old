@@ -2,12 +2,12 @@
 layout: page
 title: Geometry and Physics of Higgs bundles (2016)
 description: 
-img: assets/img/geo_phys_2016.jpg
+img: 
 importance: 1
 category: 'RTG Workshops'
 ---
 
-![]({{site.baseurl}}/assets/img/geo_phys_2016.jpg)
+![]({{site.baseurl}}/assets/img/geo_phys_2016.jpg){: width="300" }
 
 **University of Illinois at Chicago (UIC)**
 

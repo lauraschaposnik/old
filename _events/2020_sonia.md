@@ -2,12 +2,12 @@
 layout: page
 title: Sonia Kovalevsky Day (2020)
 description: Math outreach days
-img: assets/img/sonia-2020.jpg
+img: 
 importance: 1
 category: 'Sonia Kovalevsky Days'
 ---
 
-![]({{site.baseurl}}/assets/img/sonia-2020.jpg)
+![]({{site.baseurl}}/assets/img/sonia-2020.jpg){: width="300" }
 
 # Math Day
 

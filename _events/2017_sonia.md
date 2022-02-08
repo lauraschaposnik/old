@@ -2,12 +2,12 @@
 layout: page
 title: Sonia Kovalevsky Day (2017)
 description: Math outreach days
-img: assets/img/sonia-2017.jpg
+img: 
 importance: 1
 category: 'Sonia Kovalevsky Days'
 ---
 
-![]({{site.baseurl}}/assets/img/sonia-2017.jpg)
+![]({{site.baseurl}}/assets/img/sonia-2017.jpg){: width="300" }
 
 # Games of Chance
 

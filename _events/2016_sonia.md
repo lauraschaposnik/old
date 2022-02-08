@@ -2,12 +2,12 @@
 layout: page
 title: Sonia Kovalevsky Day (2016)
 description: Math outreach days
-img: assets/img/sonia-2016.jpg
+img: 
 importance: 1
 category: 'Sonia Kovalevsky Days'
 ---
 
-![]({{site.baseurl}}/assets/img/sonia-2016.jpg)
+![]({{site.baseurl}}/assets/img/sonia-2016.png){: width="300" }
 
 # Knots and Graphs
 

@@ -2,12 +2,12 @@
 layout: page
 title: Spectral data for Higgs bundles (2018)
 description: Current trends on spectral data for Higgs bundles
-img: assets/img/spectral-2018.jpg
+img: 
 importance: 1
 category: 'Spectral Workshops'
 ---
 
-![]({{site.baseurl}}/assets/img/spectral-2018.jpg)
+![]({{site.baseurl}}/assets/img/spectral-2018.jpg){: width="300" }
 
 # Current trends on spectral data for Higgs bundles IV
 

@@ -2,12 +2,12 @@
 layout: page
 title: Geometry and Physics of Higgs bundles (2020)
 description: 
-img: assets/img/geo_phys_2020.png
+img: 
 importance: 1
 category: 'RTG Workshops'
 ---
 
-![]({{site.baseurl}}/assets/img/geo_phys_2020.png)
+![]({{site.baseurl}}/assets/img/geo_phys_2020.png){: width="300" }
 
 # Geometry and Physics of Hitchin systems V
 

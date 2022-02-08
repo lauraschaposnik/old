@@ -2,12 +2,12 @@
 layout: page
 title: Geometry and Physics of Higgs bundles (2018)
 description: 
-img: assets/img/geo_phys_2018.jpg
+img: 
 importance: 1
 category: 'RTG Workshops'
 ---
 
-![]({{site.baseurl}}/assets/img/geo_phys_2018.jpg)
+![]({{site.baseurl}}/assets/img/geo_phys_2018.jpg){: width="300" }
 
 # RTG Workshop on the Geometry and Physics of Higgs bundles III
 

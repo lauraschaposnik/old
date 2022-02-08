@@ -2,12 +2,12 @@
 layout: page
 title: Sonia Kovalevsky Day (2018)
 description: Math outreach days
-img: assets/img/sonia-2018.jpg
+img: 
 importance: 1
 category: 'Sonia Kovalevsky Days'
 ---
 
-![]({{site.baseurl}}/assets/img/sonia-2018.jpg)
+![]({{site.baseurl}}/assets/img/sonia-2018.jpg){: width="300" }
 
 # Games on Surfaces
 
