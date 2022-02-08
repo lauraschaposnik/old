@@ -36,6 +36,8 @@ Below you will find a brief summary of my education and some of the positions I 
 
 ![]({{ site.url }}/assets/img/oxford.png)
 
+![]({{ site.baseurl }}/assets/img/oxford.png)
+
 * **D. Phil. in Mathematics**, 2013 (advised by [Nigel Hitchin](https://people.maths.ox.ac.uk/hitchin/) )
 * funded by the Clarendon Award, 2008-2011
 
