@@ -15,7 +15,11 @@ Please follow [this link]({{ site.url }}/assets/pdf/Schaposnik_CV_2021.pdf) to a
 
 Please follow [this link]({{ site.url }}) to access my full vita.
 
+Please follow [this link]({{ site.baseurl }}) to access my full vita.
+
 Please follow [this link]({{site.baseurl}}/pdf/Schaposnik_CV_2021.pdf) to access my full vita.
+
+Please follow [this link]({{site.baseurl}}/assets/pdf/Schaposnik_CV_2021.pdf) to access my full vita.
 
 Please follow [this link](/assets/pdf/Schaposnik_CV_2021.pdf) to access my full vita.
 
