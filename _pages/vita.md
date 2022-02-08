@@ -17,16 +17,14 @@ Below you will find a brief summary of my education and some of the positions I 
 
 ### education
 
-##### University of Oxford
-
-![]({{site.baseurl}}/assets/img/oxford.png){: width="100" }
+##### ![]({{site.baseurl}}/assets/img/oxford.png){: width="100" } University of Oxford
 
 * **D. Phil. in Mathematics**, 2013 (advised by [Nigel Hitchin](https://people.maths.ox.ac.uk/hitchin/) )
 * funded by the Clarendon Award, 2008-2011
 
-##### National University of La Plata
+##### ![](/{{site.baseurl}}/assets/img/laplata.jpg){: width="100" } National University of La Plata
 
-![](/{{site.baseurl}}/assets/img/laplata.jpg){: width="100" }
+
 
 * **Lic. en Matematica**, 2008 (advised by Jorge Solomin)
 
