@@ -4,7 +4,7 @@ title: events
 permalink: /events/
 description: A growing collection of your events.
 nav: true
-display_categories: [RTG Workshops, Spectral Workshops, Sonia Kovalevsky Days]
+display_categories: ['RTG Workshops', 'Spectral Workshops', 'Sonia Kovalevsky Days']
 horizontal: false
 ---
 

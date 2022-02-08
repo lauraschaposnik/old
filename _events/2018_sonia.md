@@ -4,7 +4,7 @@ title: Sonia Kovalevsky Day (2018)
 description: Math outreach days
 img: assets/img/sonia-2018.jpg
 importance: 1
-category: Sonia Kovalevsky Days
+category: 'Sonia Kovalevsky Days'
 ---
 
 # Games on Surfaces

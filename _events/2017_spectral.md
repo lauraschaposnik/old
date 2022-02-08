@@ -4,7 +4,7 @@ title: Spectral data for Higgs bundles (2017)
 description: Current trends on spectral data for Higgs bundles
 img: assets/img/spectral-2017.jpg
 importance: 1
-category: Spectral Workshops
+category: 'Spectral Workshops'
 ---
 
 # Current trends on spectral data for Higgs bundles III

@@ -4,7 +4,7 @@ title: Sonia Kovalevsky Day (2016)
 description: Math outreach days
 img: assets/img/sonia-2016.jpg
 importance: 1
-category: Sonia Kovalevsky Days
+category: 'Sonia Kovalevsky Days'
 ---
 
 # Knots and Graphs

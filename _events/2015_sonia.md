@@ -4,7 +4,7 @@ title: Sonia Kovalevsky Day (2015)
 description: Math outreach days
 img: assets/img/sonia-2015.jpg
 importance: 1
-category: Sonia Kovalevsky Days
+category: 'Sonia Kovalevsky Days'
 ---
 
 # Maths and Magic

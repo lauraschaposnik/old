@@ -4,7 +4,7 @@ title: Geometry and Physics of Higgs bundles (2019)
 description: 
 img: assets/img/geo_phys_2019.jpg
 importance: 1
-category: RTG Workshops
+category: 'RTG Workshops'
 ---
 
 **Simons Center for Geometry and Physics (SCGP)**

@@ -30,7 +30,7 @@ Please follow [this link](/assets/pdf/Schaposnik_CV_2021.pdf) to access my full 
 
 Below you will find a brief summary of my education and some of the positions I have held.
 
-## Education
+### Education
 
 ##### University of Oxford
 
@@ -53,7 +53,7 @@ Below you will find a brief summary of my education and some of the positions I 
 
 * **Formacion Basica (FOBA)**, 2007
 
-## Academic Positions 
+### Academic Positions 
 
 ###### University of Illinois at Chicago
 Department of Mathematics, Statistics, & Computer Science
@@ -78,7 +78,7 @@ Department of Mathematics, Statistics, & Computer Science
 * *Wissenschaftlicher Assistant*, 2012-2013
 
 
-## Visiting Positions
+### Visiting Positions
 
 ##### University of Oxford
 Mathematical Institute

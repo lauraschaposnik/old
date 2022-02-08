@@ -4,7 +4,7 @@ title: Sonia Kovalevsky Day (2019)
 description: Math outreach days
 img: assets/img/sonia-2019.jpg
 importance: 1
-category: Sonia Kovalevsky Days
+category: 'Sonia Kovalevsky Days'
 ---
 
 # Mathematics in the Sea

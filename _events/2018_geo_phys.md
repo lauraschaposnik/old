@@ -4,7 +4,7 @@ title: Geometry and Physics of Higgs bundles (2018)
 description: 
 img: assets/img/geo_phys_2018.jpg
 importance: 1
-category: RTG Workshops
+category: 'RTG Workshops'
 ---
 
 # RTG Workshop on the Geometry and Physics of Higgs bundles III
