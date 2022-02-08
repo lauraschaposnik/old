@@ -7,15 +7,15 @@ nav: true
 heading: vita
 ---
 
-## full CV
+## full vita
 
 Please follow [this link]({{site.baseurl}}/assets/pdf/Schaposnik_CV_2021.pdf) to access my full vita.
 
-## short CV
+## short vita
 
 Below you will find a brief summary of my education and some of the positions I have held.
 
-### Education
+### education
 
 ##### University of Oxford
 
@@ -26,7 +26,7 @@ Below you will find a brief summary of my education and some of the positions I 
 
 ##### National University of La Plata
 
-![](/{{site.baseurl}}/assets/img/laplata.png){: width="100" }
+![](/{{site.baseurl}}/assets/img/laplata.jpg){: width="100" }
 
 * **Lic. en Matematica**, 2008 (advised by Jorge Solomin)
 
@@ -61,7 +61,7 @@ Department of Mathematics, Statistics, & Computer Science
 * *Wissenschaftlicher Assistant*, 2012-2013
 
 
-### Visiting Positions
+### visiting positions
 
 ##### University of Oxford
 Mathematical Institute
@@ -86,7 +86,7 @@ Mathematical Institute
 
 ##### Simons Center for Geometry and Physics
 
-![]({{site.baseurl}}/assets/img/simons.jpg){: width="100" }
+![]({{site.baseurl}}/assets/img/simons.jfif){: width="100" }
 
 * *Visiting Associate Professor*, Spring 2019
 
