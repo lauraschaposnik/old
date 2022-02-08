@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-01-01 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+<b>Sabattical 2022-2023</b> | During Fall 2022-Spring 2023 I will be on sabattical at MSRI and the University of Oxford.

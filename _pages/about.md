@@ -4,8 +4,6 @@ title: about
 permalink: /
 subtitle: <a href="http://mscs.uic.edu">Associate Professor</a>. Department of Mathematics, Statistics, and Computer Science, University of Illinois Chicago
 
-img: assets/img/schapos_website_profile.png
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -18,6 +16,8 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+![]({{site.baseurl}}/assets/schapos_website_profile.png)
 
 ``After receiving her degree of Licenciada en Matemáticas from the University of La Plata, she obtained her DPhil from the University of Oxford. After graduation she was post-doctoral researcher at the University of Heidelberg and the University of Illinois at Urbana Champaign.  She moved to Chicago to take up a faculty position at the University of Illinois at Chicago (UIC) in 2015, where she is currently an Associate Professor. 
 

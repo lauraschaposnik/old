@@ -7,7 +7,7 @@ importance: 1
 category: Children's Books
 ---
 
-[Amazon link](https://www.amazon.com/Ene-Magic-boxes-Artisans-Adventures/dp/1737058456)
+[![]({{site.baseurl}}/assets/img/ene_boxes.jpg)](https://www.amazon.com/Ene-Magic-boxes-Artisans-Adventures/dp/1737058456)
 
 Ene and the magic boxes is a beautifully illustrated tale about a little mouse called Ene in the quest to find music for their friends. Ene has to overcome the challenge of not having instruments, and so comes up with a novel design to bring music to the house. With creativity and curiosity, Ene is able to bring happiness to the house whilst learning all about carpenters, chefs, and artists.
 

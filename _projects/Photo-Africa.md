@@ -7,4 +7,6 @@ importance: 1
 category: Photography
 ---
 
+[![]({{site.baseurl}}/assets/img/africa.jpg)](https://schapos.people.uic.edu/Galleries.html)
+
 Photos taken during my second visit to Kruger Park, in December 2015 before heading to the African institute of Mathematical Sciences.
