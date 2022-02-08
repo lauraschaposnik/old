@@ -15,7 +15,9 @@ Please follow [this link]({{site.baseurl}}/assets/pdf/Schaposnik_CV_2021.pdf) to
 
 Below you will find a brief summary of my education and some of the positions I have held.
 
-### education
+***
+
+### Education
 
 ##### ![]({{site.baseurl}}/assets/img/oxford.png){: width="70" } University of Oxford
 
@@ -26,13 +28,15 @@ Below you will find a brief summary of my education and some of the positions I 
 
 * **Lic. en Matematica**, 2008 (advised by Jorge Solomin)
 
-###### ![]({{site.baseurl}}/assets/img/conservatorio.jpg){: width="70" } Conservatory Gilardo Gilardi
+##### ![]({{site.baseurl}}/assets/img/conservatorio.jpg){: width="70" } Conservatory Gilardo Gilardi
 
 * **Formacion Basica (FOBA)**, 2007
 
+***
+
 ### Academic Positions 
 
-###### ![]({{site.baseurl}}/assets/img/UIC.png){: width="70" } University of Illinois at Chicago
+##### ![]({{site.baseurl}}/assets/img/UIC.png){: width="70" } University of Illinois at Chicago
 Department of Mathematics, Statistics, & Computer Science
 
 * *Associate Professor*, since 2018
@@ -48,8 +52,9 @@ Department of Mathematics, Statistics, & Computer Science
 * Department of Mathematics
 * *Wissenschaftlicher Assistant*, 2012-2013
 
+***
 
-### visiting positions
+### Visiting Positions
 
 ##### ![]({{site.baseurl}}/assets/img/oxford.png){: width="70" } University of Oxford
 Mathematical Institute
