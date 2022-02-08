@@ -10,7 +10,7 @@ horizontal: false
 
 <!-- pages/events.md -->
 <div class="events">
-{%- if site.enable_event_categories and page.display_categories %}
+{%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized events -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
