@@ -7,6 +7,8 @@ importance: 1
 category: 'Sonia Kovalevsky Days'
 ---
 
+![]({{site.baseurl}}/assets/img/sonia-2018.jpg)
+
 # Games on Surfaces
 
 **Organized with [James Unwin](http://unwin.people.uic.edu/James_Unwin.html)**

@@ -7,6 +7,8 @@ importance: 1
 category: 'Spectral Workshops'
 ---
 
+![]({{site.baseurl}}/assets/img/spectral-2016.jpg)
+
 # Current trends on spectral data for Higgs bundles II
 
 **Simons Center for Geometry and Physics, Stony Brooke, New York, USA.**

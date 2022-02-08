@@ -7,6 +7,8 @@ importance: 1
 category: 'RTG Workshops'
 ---
 
+![]({{site.baseurl}}/assets/img/geo_phys_2018.jpg)
+
 # RTG Workshop on the Geometry and Physics of Higgs bundles III
 
 **University of Illinois at Chicago (UIC)**

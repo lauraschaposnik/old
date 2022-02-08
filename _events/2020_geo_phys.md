@@ -7,6 +7,8 @@ importance: 1
 category: 'RTG Workshops'
 ---
 
+![]({{site.baseurl}}/assets/img/geo_phys_2020.png)
+
 # Geometry and Physics of Hitchin systems V
 
 **University of Illinois at Chicago**

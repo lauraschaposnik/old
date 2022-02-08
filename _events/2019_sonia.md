@@ -7,6 +7,8 @@ importance: 1
 category: 'Sonia Kovalevsky Days'
 ---
 
+![]({{site.baseurl}}/assets/img/sonia-2019.jpg)
+
 # Mathematics in the Sea
 
 **Organized with [James Unwin](http://unwin.people.uic.edu/James_Unwin.html)**

@@ -7,6 +7,8 @@ importance: 1
 category: 'RTG Workshops'
 ---
 
+![]({{site.baseurl}}/assets/img/geo_phys_2017.jpg)
+
 **University of Illinois at Chicago (UIC)**
 
 *November 11-12, 2017*

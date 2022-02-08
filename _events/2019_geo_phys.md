@@ -7,6 +7,8 @@ importance: 1
 category: 'RTG Workshops'
 ---
 
+![]({{site.baseurl}}/assets/img/geo_phys_2019.jpg)
+
 **Simons Center for Geometry and Physics (SCGP)**
 
 *March 2019*

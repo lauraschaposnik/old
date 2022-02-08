@@ -7,6 +7,8 @@ importance: 1
 category: 'Spectral Workshops'
 ---
 
+![]({{site.baseurl}}/assets/img/spectral-2015.jpg)
+
 # Current trends on spectral data for Higgs bundles I
 
 **American Institute of Mathematics, Palo Alto, California, USA.**

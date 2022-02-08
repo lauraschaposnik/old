@@ -7,6 +7,8 @@ importance: 1
 category: 'Spectral Workshops'
 ---
 
+![]({{site.baseurl}}/assets/img/spectral-2020.jpg)
+
 # Current trends on spectral data for Higgs bundles VI
 
 **University of Illinois at Chicago**
