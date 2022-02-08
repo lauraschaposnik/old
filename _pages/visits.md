@@ -9,18 +9,34 @@ nav: true
 
 <h2>Visits and updates</h2>
 
-<b>Sabattical 2022-2023</b> | During 2022-2023 I will be on sabattical at MSRI and the University of Oxford.
+<h4> Sabattical 2022-2023 </h4>
 
-<b> MSRI 2022</b> | In 2022 I will co-organize an MSRI semester on analytic and geometric aspects of gauge theories together with Laura Fredrickson, Rafe Mazzeo, Tomasz Mrowka and Thomas Walpuski.   
+During 2022-2023 I will be on sabattical at MSRI and the University of Oxford.
 
-<b> IHP 2022</b> | In the summer 2022 ( COVID-19 permitting) I will be visiting IHP with S. Rayan and E. Macri as part of their research in pairs program.
+<h4> MSRI 2022 </h4> 
 
-<b> June 2022</b> | With Brian Collier we will organize a large event at UIC - Geometry (re)United.
+In 2022 I will co-organize an MSRI semester on analytic and geometric aspects of gauge theories together with Laura Fredrickson, Rafe Mazzeo, Tomasz Mrowka and Thomas Walpuski. 
 
-<b> Spring 2021</b> | I am on maternity, with reduced duties from UIC.
+<h4> IHP 2022 </h4>
 
-<b> MSRI 2019</b> | During the Fall 2019 I was a Research Member at MSRI as part of the program Holomorphic Differentials in Mathematics and Physics.
+In the summer 2022 ( COVID-19 permitting) I will be visiting IHP with S. Rayan and E. Macri as part of their research in pairs program.
 
-<b> SCGP 2019</b> | During Spring 2019 Lara Anderson and I organized a semester long program at the Simons Center for Geometry and Physics: "Geometry and Physics of Hitchin systems".
+<h4> June 2022 </h4> 
 
-<b> Oxford 2018</b> | During the Fall 2018 I was a Visiting Professor at the Mathematics Institute of the University of Oxford, and a visiting fellow at New College (whilst on maternity from UIC). 
+With Brian Collier we will organize a large event at UIC - Geometry (re)United.
+
+<h4> Spring 2021 </h4>
+
+I am on maternity, with reduced duties from UIC.
+
+<h4> MSRI 2019 </h4> 
+
+During the Fall 2019 I was a Research Member at MSRI as part of the program Holomorphic Differentials in Mathematics and Physics.
+
+<h4> SCGP 2019 </h4> 
+
+During Spring 2019 Lara Anderson and I organized a semester long program at the Simons Center for Geometry and Physics: "Geometry and Physics of Hitchin systems".
+
+<h4> Oxford 2018 </h4> 
+
+During the Fall 2018 I was a Visiting Professor at the Mathematics Institute of the University of Oxford, and a visiting fellow at New College (whilst on maternity from UIC). 
