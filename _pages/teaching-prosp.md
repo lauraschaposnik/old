@@ -19,7 +19,7 @@ nav: false
 
 For some global as well as particular open problems in my area, students may enjoy reading about [spectral Higgs bundles](http://aimpl.org/spectralhiggs/1/) from one of the [workshops](https://schapos.people.uic.edu/Research.html) that I organized.
 
-<h2>Funding for students and post-docs</h2>
+## Funding for students and post-docs
 
 * for US students: [NSF graduate fellowships](https://www.nsfgrfp.org/).
 * for US and non-US students: [Fulbright fellowships](http://us.fulbrightonline.org/applicants).
