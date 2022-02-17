@@ -1,5 +1,6 @@
 ---
 layout: page
+order: 2
 permalink: /publications/
 title: Publications
 description: my research publications
