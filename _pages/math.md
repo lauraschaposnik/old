@@ -1,13 +1,16 @@
 ---
 layout: page
-title: mathematics
+title: Mathematics
 nav: true
 dropdown: true
 children: 
-    - title: events
+    - title: Talks
+      permalink: /talks/
+    - title: Events
       permalink: /events/
-    - title: visits
-      permalink: /visits/
-    - title: outreach
+    - title: Visitors
+      permalink: /visitors/
+    - title: Outreach
       permalink: /outreach/
+      
 ---
