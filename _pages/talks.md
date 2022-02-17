@@ -9,10 +9,8 @@ nav: false
 <!-- _pages/publications.md -->
 <div class="publications">
 
-My research spans the study of the geometry and topology of moduli spaces of decorated bundles, Hitchin systems, mirror symmetry and hyperpolygons.  My papers are listed below in reverse chronological order by year. Note that authors on all of my publications appear alphabetically except in our Nature Scientific Reports paper, where authors are by contribution.
-Citations to my papers can be found on <a href="https://scholar.google.com/citations?user=5cLd6dIAAAAJ&hl=en">Google Scholar</a>.
-Paper tags are colored as follows:
-<span class="badge badge-danger">journal article</span> <span class="badge badge-primary">conference article</span> <span class="badge badge-warning">editorial work</span> <span class="badge badge-light">manuscript</span> .
+I have given talks on my research area as well as outreach talks over the years. Below you can find a quasi complete list of them where I have classified them as
+<span class="badge badge-danger">Conference</span> <span class="badge badge-primary">Seminar</span> <span class="badge badge-warning">Colloquia or Plenary talk</span> <span class="badge badge-light">Outreach</span> .
 
 
 {%- for y in page.years %}
