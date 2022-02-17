@@ -8,7 +8,7 @@ nav: false
 heading: Courses
 ---
 
-Below are listed all the courses that I have taught as the primary instructor (or co-instructor), with
+Below are listed all the courses that I have taught as the primary instructor since arriving to the US in 2013, with
 links to their respective websites.  
 
 <div class="publications">
