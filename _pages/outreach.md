@@ -11,7 +11,8 @@ horizontal: false
 
 These days are part of series of the [Association of Women in Mathematics (AWM)](https://sites.google.com/site/awmmath/home). For more than twenty years Sonia Kovalevsky Days have been organized and sponsored by AWM and held at colleges and universities throughout the country. Sonia Kovalevsky Days (SK Days) consist of a program of workshops, talks, and problem-solving competitions for female high school and middle school students and their teachers, both women and men. 
 
-##### Material for Sonia Kovalevsky days.
+</br>
+### Material for Sonia Kovalevsky days.
 
 9. [Billiards](https://drive.google.com/file/d/1MwFiFEbUCeWj9VDtDh4BhbAoyoAKikKO/view?usp=sharing), with James A. Unwin (2018).
 8. [Non-orientable surfaces](https://drive.google.com/file/d/1HvY4P5eqB6u4JTL5qkKMiYfP8U4zLS9b/view?usp=sharing), with James A. Unwin (2018).
@@ -23,7 +24,9 @@ These days are part of series of the [Association of Women in Mathematics (AWM)]
 2. [Knots](https://drive.google.com/file/d/1T7Yu_CKj4lSxN90LGq8rZoggD69oOJt4/view?usp=sharing), with James A. Unwin (2016). 
 1. [Bridges of Konigsberg](https://drive.google.com/file/d/1WWqKgmSZPW3U7qkErum4ax77o6hRFPfb/view?usp=sharing), with James A. Unwin (2016). 
 
-##### Pages for past Sonia Kovalevsky days
+
+</br>
+###  Sonia Kovalevsky days at UIC
 
 
 <table cellpadding="8" width="100%">
@@ -39,7 +42,7 @@ These days are part of series of the [Association of Women in Mathematics (AWM)]
 Mathematics in Nature<br>
 </td>
 
-<td width="10%"> **2020**
+<td width="10%"> 2020
 </td>
 </tr>
 
@@ -55,12 +58,71 @@ Mathematics in Nature<br>
 Mathematics in the Sea<br>
  
 </td>
-<td width="10%"> **2019**
+<td width="10%"> 2019
 </td>
 
 </tr>
 
 
+<tr>
+<td width="20%">
+<img src="/assets/img/sonia-2018.jpg" height="200px" width="150px">
+</td>
+<td width="60%">
+<h5><a href="https://schapos.people.uic.edu/Sonia2018.html"><b>Sonia Kovalevsky day IV
+</b></a></h5>
+Mathematics in the Sea<br>
+ 
+</td>
+<td width="10%"> 2018
+</td>
+
+</tr>
+
+<tr>
+<td width="20%">
+<img src="/assets/img/sonia-2017.jpeg" height="200px" width="150px">
+</td>
+<td width="60%">
+<h5><a href="https://schapos.people.uic.edu/Sonia2017.html"><b>Sonia Kovalevsky day IIV
+</b></a></h5>
+Mathematics in the Sea<br>
+ 
+</td>
+<td width="10%"> 2017
+</td>
+
+</tr>
+
+<tr>
+<td width="20%">
+<img src="/assets/img/sonia-2017.jpg" height="200px" width="150px">
+</td>
+<td width="60%">
+<h5><a href="https://schapos.people.uic.edu/Sonia2019.html"><b>Sonia Kovalevsky day II 
+</b></a></h5>
+Mathematics in the Sea<br>
+ 
+</td>
+<td width="10%"> 2016
+</td>
+
+</tr>
+
+<tr>
+<td width="20%">
+<img src="/assets/img/sonia-2016.png" height="200px" width="150px">
+</td>
+<td width="60%">
+<h5><a href="https://schapos.people.uic.edu/Sonia2015.html"><b>Sonia Kovalevsky day I
+</b></a></h5>
+Mathematics in the Sea<br>
+ 
+</td>
+<td width="10%"> 2015
+</td>
+
+</tr>
  
 </table>
  
