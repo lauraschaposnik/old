@@ -71,7 +71,7 @@ Mathematics in the Sea<br>
 <td width="60%">
 <h5><a href="https://schapos.people.uic.edu/Sonia2018.html"><b>Sonia Kovalevsky day IV
 </b></a></h5>
-Mathematics in the Sea<br>
+Geometric Day<br>
  
 </td>
 <td width="10%"> 2018
@@ -86,7 +86,7 @@ Mathematics in the Sea<br>
 <td width="60%">
 <h5><a href="https://schapos.people.uic.edu/Sonia2017.html"><b>Sonia Kovalevsky day III
 </b></a></h5>
-Mathematics in the Sea<br>
+Games of Chance<br>
  
 </td>
 <td width="10%"> 2017
@@ -96,12 +96,12 @@ Mathematics in the Sea<br>
 
 <tr>
 <td width="20%">
-<img src="/assets/img/sonia-2017.jpg" height="200px" width="150px">
+<img src="/assets/img/sonia-2016.png" height="200px" width="150px">
 </td>
 <td width="60%">
 <h5><a href="https://schapos.people.uic.edu/Sonia2019.html"><b>Sonia Kovalevsky day II 
 </b></a></h5>
-Mathematics in the Sea<br>
+Knots and Graphs<br>
  
 </td>
 <td width="10%"> 2016
@@ -111,12 +111,12 @@ Mathematics in the Sea<br>
 
 <tr>
 <td width="20%">
-<img src="/assets/img/sonia-2016.png" height="200px" width="150px">
+<img src="/assets/img/sonia-2015.jpeg" height="200px" width="150px">
 </td>
 <td width="60%">
 <h5><a href="https://schapos.people.uic.edu/Sonia2015.html"><b>Sonia Kovalevsky day I
 </b></a></h5>
-Mathematics in the Sea<br>
+Maths & Magic<br>
  
 </td>
 <td width="10%"> 2015
