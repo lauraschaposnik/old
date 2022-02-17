@@ -4,6 +4,7 @@ permalink: /cv/
 title: vita
 description: my education and academic work history
 nav: true
+order: 6
 heading: vita
 ---
 
