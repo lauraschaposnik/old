@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mathematics
+order: 3
 nav: true
 dropdown: true
 children: 
