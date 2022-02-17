@@ -1,6 +1,6 @@
 ---
 layout: page
-title: outreach
+title: Outreach
 permalink: /outreach/
 description: engaging pre-college students into mathematics
 nav: false
