@@ -44,7 +44,7 @@ Mathematics in Nature<br>
 
 <tr>
 <td width="20%">
-<img src="/assets/img/sonia2019.png" height="150px" width="150px">
+<img src="/assets/img/sonia2019.jpeg" height="150px" width="150px">
 </td>
 <td width="70%">
 <h5><a href="https://schapos.people.uic.edu/Sonia2019.html"><b>Sonia Kovalevsky day V
