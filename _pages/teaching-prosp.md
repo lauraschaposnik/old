@@ -2,9 +2,13 @@
 layout: page
 permalink: /teaching-prosp/
 title: 'teaching: prospective students'
-description: information for prospective students and post-docs
+description:  
 nav: false
 ---
+
+If you are considering joining my university and are looking for opportunities to work in geometry, here is some information which you might find useful. For some broad as well as particular open problems in my area, students may enjoy reading about [Higgs bundles](http://aimpl.org/spectralhiggs/1/) from one of the [workshops](https://schapos.people.uic.edu/Research.html) that I organized.
+
+## Prospective post-docs 
 
 <b>Post-doc positions for German based researchers:</b> If you are based in Germany and would like to work as a post-doctoral researcher with me, please send me an email at schapos@uic.edu. The Alexander von Humboldt foundation has a program through which you could come to UIC for 1~2 years. 
 
@@ -12,14 +16,17 @@ nav: false
 <b>Post-doc positions opening:</b> In 2021/2022 I will be hiring one or two post-docs to work in my research group at UIC. If you're interested in joining me here, please send me an email. 
 
 
+## Prospective students 
+
+
 <b>Students at UIC:</b> If you’re a student at UIC and looking for research in my area, don’t hesitate to get in touch by emailing me at schapos@uic.edu. 
 
 
 <b>Student openings:</b> If you're interested in joining UIC to work in my research group, do get in touch! I can walk you through the application process and help you prepare your material. 
 
-For some global as well as particular open problems in my area, students may enjoy reading about [spectral Higgs bundles](http://aimpl.org/spectralhiggs/1/) from one of the [workshops](https://schapos.people.uic.edu/Research.html) that I organized.
 
-## Funding for students and post-docs
+
+## Sources of funding for students and post-docs
 
 * for US students: [NSF graduate fellowships](https://www.nsfgrfp.org/).
 * for US and non-US students: [Fulbright fellowships](http://us.fulbrightonline.org/applicants).
