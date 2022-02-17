@@ -32,11 +32,14 @@ These days are part of series of the [Association of Women in Mathematics (AWM)]
 <td width="20%">
 <img src="/assets/img/sonia2020.png" height="200px" width="150px">
 </td>
-<td width="70%">
+
+<td width="60%">
 <h5><a href="https://schapos.people.uic.edu/Sonia2020.html"><b>Sonia Kovalevsky day VI
 </b></a></h5>
 Mathematics in Nature<br>
- 
+</td>
+
+<td width="10%"> **2020**
 </td>
 </tr>
 
@@ -46,12 +49,15 @@ Mathematics in Nature<br>
 <td width="20%">
 <img src="/assets/img/sonia2019.jpeg" height="200px" width="150px">
 </td>
-<td width="70%">
+<td width="60%">
 <h5><a href="https://schapos.people.uic.edu/Sonia2019.html"><b>Sonia Kovalevsky day V
 </b></a></h5>
 Mathematics in the Sea<br>
  
 </td>
+<td width="10%"> **2019**
+</td>
+
 </tr>
 
 
