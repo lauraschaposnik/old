@@ -25,54 +25,36 @@ These days are part of series of the [Association of Women in Mathematics (AWM)]
 
 ##### Pages for past Sonia Kovalevsky days
 
-* 2020 []()
-* 2019 []()
-* 2018 []()
-* 2017 []()
-* 2016 []()
-* 2015 []()
 
-### MIT PRIMES-USA
+<table cellpadding="8" width="100%">
 
-Since 2014, I have been wirking with MIT through their [PRIMES program]().
+<tr>
+<td width="20%">
+<img src="/assets/img/sonia2020.png" height="150px" width="150px">
+</td>
+<td width="70%">
+<h5><a href="https://schapos.people.uic.edu/Sonia2020.html"><b>Sonia Kovalevsky day VI
+</b></a></h5>
+Mathematics in Nature<br>
+ 
+</td>
+</tr>
 
-<b>Vishaal Ram</b> |  Soon to become an undergraduate at ...
-- Supervised through PRIMES-USA (MIT) during 2020 (High School)
-- 2020 S.-T. Yau High School Science Bronze Award.
-- Regeneron Science Talent Search Scholar 2020.
+ 
 
-<b>Yuyuan Luo</b> |   Currently undergraduate at MIT.
-- Supervised through PRIMES-USA (MIT) during 2019 (High School)
-- JMM Outstanding Poster Presentation Award (2020). 
+<tr>
+<td width="20%">
+<img src="/assets/img/sonia2019.png" height="150px" width="150px">
+</td>
+<td width="70%">
+<h5><a href="https://schapos.people.uic.edu/Sonia2019.html"><b>Sonia Kovalevsky day V
+</b></a></h5>
+Mathematics in the Sea<br>
+ 
+</td>
+</tr>
 
-<b>Rinni Bhansali</b>  | Currently undergraduate at Stanford University.
-- Supervised during 2018 through MIT's PRIMES-USA program
-- Project: A trust model for bootstrap percolation
-- Regeneron Science Talent Search Scholar (2018).
 
-We develop a trust model which when considered together with bootstrap percolation, allows one to study ways in which gossip (and fake news) spread in social networks. 
-
-<b>Anlin Zhang</b>   |  Currently undergraduate at Princeton University.
-- Supervised during 2017 through MIT's PRIMES-USA program
-- Project: Virus spread in symmetric networks
-- Siemens National Finalist (2017).
-- [Paper](https://www.tandfonline.com/doi/pdf/10.1080/23737867.2017.1419080)
-
-Symmetries in nature have been long studied by mathematicians, and in this project we shall be looking at particular cases of natural symmetries: the ones appearing in viral infections....
-
-<b>Kai Siang-Ang</b> | Currently undergraduate at Stanford University.
-- Supervised during 2016 through MIT's PRIMES-USA program. 
-- Project: On the geometry of regular icosahedral capsids containing disymmetrons
-- Regeneron Science Talent Search Scholar (2016).
-- [Paper](https://arxiv.org/abs/1608.08271)
-
-Icosahedral virus capsids are composed of symmetrons, organized arrangements of capsomers. In the present paper we incorporate disymmetrons to obtain a geometric classification of icosahedral viruses formed by regular penta-, tri-, and disymmetrons.  
-
-<b>Jessica Li</b> |  Currently undergraduate at Harvard University.
-- Supervised during 2014 through MIT's PRIMES-USA program.
-- Interface control and snow crystal growth
-- Siemens Semifinalist (2014).
-- Intel Competition Semifinalist (2014). 
-- [Paper](https://arxiv.org/abs/1505.02042)
-
-The growth of snow crystals is dependent on the temperature and saturation of the environment. By defining two new variables, growth latency and growth direction, our improved model gives a realistic model not only for dendrite but also for plate forms.
+ 
+</table>
+ 
