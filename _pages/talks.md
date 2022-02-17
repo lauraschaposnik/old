@@ -2,11 +2,11 @@
 layout: page
 permalink: /talks/
 title: Talks
-description: my research publications
+description:  
 years: [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013]
 nav: false
 ---
-<!-- _pages/publications.md -->
+
 <div class="publications">
 
 I have given talks on my research area as well as outreach talks over the years. Below you can find a quasi complete list of them where I have classified them as
