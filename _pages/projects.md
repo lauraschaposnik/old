@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 nav: true
+order: 5
 dropdown: true
 children: 
     - title: Project 365
