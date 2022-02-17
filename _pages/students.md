@@ -2,7 +2,7 @@
 layout: page
 permalink: /students/
 title: Advising
-nav: true
+nav: false
 heading: Students
 ---
 
