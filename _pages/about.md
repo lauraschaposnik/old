@@ -1,5 +1,6 @@
 ---
 layout: about
+order: 1
 title: About
 permalink: /
 subtitle: <a href="http://mscs.uic.edu">Associate Professor</a>. Department of Mathematics, Statistics, and Computer Science, University of Illinois Chicago
