@@ -2,7 +2,7 @@
 layout: page
 title: Outreach
 permalink: /outreach/
-description: engaging pre-college students into mathematics
+description:  
 nav: false
 horizontal: false
 ---
@@ -11,7 +11,7 @@ horizontal: false
 
 These days are part of series of the [Association of Women in Mathematics (AWM)](https://sites.google.com/site/awmmath/home). For more than twenty years Sonia Kovalevsky Days have been organized and sponsored by AWM and held at colleges and universities throughout the country. Sonia Kovalevsky Days (SK Days) consist of a program of workshops, talks, and problem-solving competitions for female high school and middle school students and their teachers, both women and men. 
 
-</br>
+ 
 ### Material for Sonia Kovalevsky days.
 
 9. [Billiards](https://drive.google.com/file/d/1MwFiFEbUCeWj9VDtDh4BhbAoyoAKikKO/view?usp=sharing), with James A. Unwin (2018).
@@ -25,7 +25,7 @@ These days are part of series of the [Association of Women in Mathematics (AWM)]
 1. [Bridges of Konigsberg](https://drive.google.com/file/d/1WWqKgmSZPW3U7qkErum4ax77o6hRFPfb/view?usp=sharing), with James A. Unwin (2016). 
 
 
-</br>
+ 
 ###  Sonia Kovalevsky days at UIC
 
 
@@ -81,10 +81,10 @@ Mathematics in the Sea<br>
 
 <tr>
 <td width="20%">
-<img src="/assets/img/sonia-2017.jpeg" height="200px" width="150px">
+<img src="/assets/img/sonia-2017.jpg" height="200px" width="150px">
 </td>
 <td width="60%">
-<h5><a href="https://schapos.people.uic.edu/Sonia2017.html"><b>Sonia Kovalevsky day IIV
+<h5><a href="https://schapos.people.uic.edu/Sonia2017.html"><b>Sonia Kovalevsky day III
 </b></a></h5>
 Mathematics in the Sea<br>
  
