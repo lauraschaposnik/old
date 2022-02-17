@@ -6,7 +6,7 @@ nav: true
 dropdown: true
 children: 
     - title: Students
-      permalink: /teaching-students/
+      permalink: /students/
     - title: Courses
       permalink: /teaching-courses/
     - title: Prospective
