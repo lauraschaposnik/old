@@ -9,7 +9,7 @@ horizontal: false
 
 ### Sonia Kovalevsky Days
 
-These days are part of series of the [Association of Women in Mathematics (AWM)](https://sites.google.com/site/awmmath/home). For more than twenty years Sonia Kovalevsky Days have been organized and sponsored by AWM and held at colleges and universities throughout the country. Sonia Kovalevsky Days (SK Days) consist of a program of workshops, talks, and problem-solving competitions for female high school and middle school students and their teachers, both women and men. 
+These days are part of series of the [Association of Women in Mathematics (AWM)](https://sites.google.com/site/awmmath/home). For more than twenty years Sonia Kovalevsky Days have been organized and sponsored by AWM and held at colleges and universities throughout the country. Sonia Kovalevsky Days (SK Days) consist of a program of workshops, talks, and problem-solving competitions for female high school and middle school students and their teachers, both women and men. At UIC together with [James Unwin](https://unwin.people.uic.edu/) we run anual Sonia Kovalevsky days, for which we have prepared the material listed below which we are currently converting into a book. 
 
  
 ### Material for Sonia Kovalevsky days.
