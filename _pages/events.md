@@ -1,6 +1,6 @@
 ---
 layout: page
-title: events
+title: Events
 permalink: /events/
 description: a growing collection of workshops and events
 nav: false
