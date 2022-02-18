@@ -11,8 +11,6 @@ children:
       permalink: /talks/
     - title: Events
       permalink: /events/
-      - title: Outreach
-      permalink: /outreach/
 
 ---
 
