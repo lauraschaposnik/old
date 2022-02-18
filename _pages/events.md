@@ -2,57 +2,19 @@
 layout: page
 title: Events
 permalink: /events/
-description: a growing collection of workshops and events
+description:  
 nav: false
-display_categories: ['RTG Workshops', 'Spectral Workshops', 'Sonia Kovalevsky Days']
+years: [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013]
 horizontal: false
+header: Events
 ---
 
-<!-- pages/events.md -->
-<div class="events">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized events -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_events = site.events | where: "category", category -%}
-  {%- assign sorted_events = categorized_events | sort: "importance" %}
-  <!-- Generate cards for each event -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for event in sorted_events -%}
-      {% include events_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for event in sorted_events -%}
-      {% include events.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+I draw a lot of inspiration for my research and teaching through interactions with people across fields, and because of this I keep an active role organizing international events, graduate schools and outreach events. Below you can find a quasi complete list of the different events I have organized.  
 
-{%- else -%}
-<!-- Display events without categories -->
-  {%- assign sorted_events = site.events | sort: "importance" -%}
-  <!-- Generate cards for each event -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for event in sorted_events -%}
-      {% include events_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for event in sorted_events -%}
-      {% include events.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
+
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f events -q @*[year={{y}}]* %}
+{% endfor %}
+
 </div>
-
