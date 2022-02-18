@@ -5,6 +5,7 @@ title: Advising
 nav: false
 heading: Students
 ---
+## Students
 
 In the last decade I have mentored several students at different levels. Below is a list of my former and current students.  To find more information about my broader "academic family" visit my <a href="https://www.mathgenealogy.org/id.php?id=171532">genealogy</a> entry. 
 
