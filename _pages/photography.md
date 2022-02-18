@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Photography
 nav: true
-order: 3
+order: 4
 dropdown: true
 children: 
     - title: Project 365
