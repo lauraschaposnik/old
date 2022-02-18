@@ -3,7 +3,6 @@ layout: page
 permalink: /students/
 title: Advising
 nav: false
-heading: Students
 ---
 ## Students
 
