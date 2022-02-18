@@ -6,7 +6,7 @@ order: 2
 dropdown: true
 children: 
     - title: Publications
-      permalink: /publications/
+      permalink:/publications/
     - title: Talks
       permalink: /talks/
     - title: Events
