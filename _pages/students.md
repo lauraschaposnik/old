@@ -9,8 +9,7 @@ heading: Students
 
 In the last decade I have mentored several students at different levels. Below is a list of my former and current students.  To find more information about my broader "academic family" visit my <a href="https://www.mathgenealogy.org/id.php?id=171532">genealogy</a> entry. 
 
-<h3>Current</h3>
- 
+<h2>Current</h2>
 
 <table cellpadding="8" width="100%">
 
@@ -40,7 +39,7 @@ PRIMES-MIT Project</td>
 
 <br>
 
-<h3>Former</h3>
+<h2>Former</h2>
 In reverse chronological order
 
 <table cellpadding="8" width="100%">
@@ -59,7 +58,7 @@ Current position: University of Heidelberg (Spring 2022) & University of Oxford 
 
 <tr>
 <td>
-<img src="/assets/img/jessica.jpg" height="200px" width="200px">
+<img src="/assets/img/jessica.jpg" height="150px" width="150px">
 </td>
 <td>
 <h5><a href="https://ben.fish/"><b>Jessica Li</b></a></h5>
