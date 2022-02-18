@@ -3,6 +3,7 @@ layout: page
 permalink: /students/
 title: Advising
 nav: false
+year:[2022]
 heading: Students
 ---
 
@@ -22,10 +23,10 @@ In the last decade I have mentored several students at different levels. Below i
 
 <h2>Former</h2>
 In reverse chronological order
+
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f past -q @*[year={{y}}]* %}
 {% endfor %}
 
-</div>
-
+ 
