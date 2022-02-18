@@ -5,6 +5,7 @@ title: 'teaching: past students'
 description: information about past and current students
 nav: false
 ---
+## Students
 
 <h3>Current students:</h3>
 
