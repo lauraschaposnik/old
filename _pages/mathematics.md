@@ -5,11 +5,12 @@ nav: true
 order: 2
 dropdown: true
 children: 
-    - title: Children Books
-      permalink: /books/
-    - title: Cooking
-      permalink: /cooking/
-      
+    - title: Publications
+      permalink: /publications/
+    - title: Talks
+      permalink: /talks/
+    - title: Events
+      permalink: /events/
 ---
 
  
