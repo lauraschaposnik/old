@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Mathematics
-order: 2
 nav: true
+order: 2
 dropdown: true
 children: 
     - title: Publications
