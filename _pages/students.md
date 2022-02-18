@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /students/
-title: Advising
+title: Students
 nav: false
 year:[2022]
 heading: Students
