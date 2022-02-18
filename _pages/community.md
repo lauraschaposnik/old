@@ -1,6 +1,6 @@
 ---
 layout: page
-title: More
+title: Community
 nav: true
 order: 4
 dropdown: true
