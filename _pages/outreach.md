@@ -6,6 +6,9 @@ description:
 nav: false
 horizontal: false
 ---
+## Outreach
+
+Information about different career talks I have given these last years can be found in  [Talks](https://lauraschaposnik.github.io/talks/), and below is information about outreach days I run annually at UIC. 
 
 ### Sonia Kovalevsky Days
 
