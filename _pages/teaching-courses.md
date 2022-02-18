@@ -7,6 +7,7 @@ years: [Spring 2022, Fall 2021, Spring 2021, Fall 2020, Spring 2020, Fall 2019, 
 nav: false
 heading: Courses
 ---
+## Courses 
 
 Below are listed all the courses that I have taught as the primary instructor since arriving to the US in 2013, with
 links to their respective websites.  
