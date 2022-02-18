@@ -1,5 +1,42 @@
 ---
 ---
+
+<div class="row">
+  <div class="col-sm-2 abbr">
+  {% if entry.abbr %}
+    {% if site.data.venues[entry.abbr] %}
+    <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
+    {% else %}
+      {% if entry.color == "gray" %}
+        <abbr class="badge badge-light">{{entry.abbr}}</abbr>
+      {% else %}
+        {% if entry.color == "red" %}
+          <abbr class="badge badge-danger">{{entry.abbr}}</abbr>
+	{% else %}
+	  {% if entry.color == "yellow" %}
+            <abbr class="badge badge-warning">{{entry.abbr}}</abbr>
+          {% else %}
+	    {% if entry.color == "purple" %}
+              <abbr class="badge badge-secondary">{{entry.abbr}}</abbr>
+            {% else %}
+	      <abbr class="badge">{{entry.abbr}}</abbr>
+            {% endif %}
+	  {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+
+  {% if entry.award %}
+    {% if entry.color == "red" %}
+      <span class="award-red badge">{{entry.award}}</span>
+    {% else %}
+      <span class="award badge">{{entry.award}}</span>
+    {% endif %}
+  {% endif %}
+	      
+  </div>
+  
 <!-- _layouts/bib.html -->
       {%- if entry.img -%}
       <div class="row" style="min-height:200px">
