@@ -29,7 +29,3 @@ In reverse chronological order
 
 </div>
 
-
-
- 
-</table>
