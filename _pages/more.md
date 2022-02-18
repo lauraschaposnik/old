@@ -2,7 +2,7 @@
 layout: page
 title: More
 nav: true
-order: 5
+order: 6
 dropdown: true
 children: 
     - title: Children Books
