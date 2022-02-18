@@ -10,6 +10,8 @@ header: Events
 ---
 <div class="publications">
 
+## Events
+
 I draw a lot of inspiration for my research and teaching through interactions with people across fields, and because of this I keep an active role organizing international events, graduate schools and outreach events. Below you can find a quasi complete list of the different events I have organized.  
 
 
