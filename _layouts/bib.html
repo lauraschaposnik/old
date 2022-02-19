@@ -18,9 +18,9 @@
 			{%- else -%}
 			  {%- if entry.abbr -%}
 			    {%- if site.data.venues[entry.abbr] -%}
-			    <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
+			    <a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a>
 			    {%- else -%}
-			    <abbr class="badge">{{entry.abbr}}</abbr>
+			    {{entry.abbr}}
 			    {%- endif -%}
 		      {%- endif -%}
 			{%- endif -%}
