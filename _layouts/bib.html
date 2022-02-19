@@ -4,20 +4,28 @@
       {%- if entry.img -%}
       <div class="row" style="min-height:200px">
 	    <div class="col-sm-2 abbr" style="min-width:200px">
-	      <abbr class="badge"><img src="{{entry.img}}" height="200px" width="150px"></abbr>
-		</div>
 	  {%- else -%}
 	  <div class="row">
 	    <div class="col-sm-2 abbr">
-        {%- if entry.abbr -%}
-          {%- if site.data.venues[entry.abbr] -%}
-          <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
-          {%- else -%}
-          <abbr class="badge">{{entry.abbr}}</abbr>
-          {%- endif -%}
-        {%- endif -%}
-		</div>
 	  {%- endif -%}
+	      {%- if entry.color -%}
+	      <abbr class="{{site.data.badge_colors[entry.color]}}">
+		  {%- else -%}
+		  <abbr class="badge">
+		  {%- endif -%}
+		    {%- if entry.img -%}
+		    <img src="{{entry.img}}" height="200px" width="150px">
+			{%- else -%}
+			  {%- if entry.abbr -%}
+			    {%- if site.data.venues[entry.abbr] -%}
+			    <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
+			    {%- else -%}
+			    <abbr class="badge">{{entry.abbr}}</abbr>
+			    {%- endif -%}
+		      {%- endif -%}
+			{%- endif -%}
+		  </abbr>
+		</div>
 
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
