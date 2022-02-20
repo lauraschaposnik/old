@@ -21,7 +21,7 @@ In the last decade I have mentored several students at different levels. Below i
   {% bibliography -f current -q @*[year={{y}}]* %}
 {% endfor %}
 
-</div>
+ 
  
 
 <h2>Former</h2>
