@@ -30,10 +30,10 @@ I am in the <b>editorial board</b> of Geometriae Dedicata, and together with Lar
 My research at UIC has been supported by the following:
   [Simons Fellowship](https://www.simonsfoundation.org/mathematics-physical-sciences/simons-fellows/
 ) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2022-2023;
-NSF CAREER Award [DMS 1749013](https://nsf.gov/awardsearch/showAward?AWD_ID=1749013) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2018-2023;
- NSF  Award [DMS 1749013](https://nsf.gov/awardsearch/showAward?AWD_ID=1749013) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2019;  
+ [NSF CAREER Award DMS 1749013](https://nsf.gov/awardsearch/showAward?AWD_ID=1749013) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2018-2023;
+[NSF  Award DMS 1749013](https://nsf.gov/awardsearch/showAward?AWD_ID=1749013) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2019;  
 [Alexander von Humboldt Fellowship](https://today.uic.edu/uic-mathematician-physicist-named-humboldt-fellows) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2017-2019;
- NSF  Award [DMS 1611835](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1611835) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2015-2019;  
+[NSF  Award DMS 1611835](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1611835) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2015-2019;  
   <br>
 </span>
 <!--<span style="font-size:13px">
