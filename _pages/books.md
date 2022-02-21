@@ -6,7 +6,7 @@ nav: false
 heading: Children books
 ---
 
-In the last few years my priorities and time allocations shifted slightly, and the <i>human development<i> of little bodies that orbit us has taken one of the first sports in my priority list. In an attempt to combine this with my research and the educator inside me,  I decided to start writing and illustrating children books. 
+In the last few years my priorities and time allocations shifted slightly, and the <i>human development</i> of little bodies that orbit us has taken one of the first sports in my priority list. In an attempt to combine this with my research and the educator inside me,  I decided to start writing and illustrating children books. 
 
 ## Ene and the Magic… Books 
 
@@ -15,7 +15,7 @@ I am working on these books in collaboration with [Cecilia La Rosa](https://www.
 
 ### [Ene and the Magic Boxes](https://www.amazon.com/Ene-Magic-boxes-Artisans-Adventures/dp/1737058456)
 
-Our first book <b> Ene and the Magic Boxes <b>  is a beautifully illustrated tale about a little mouse called Ene in the quest to find music for their friends. With creativity and curiosity, Ene is able to bring happiness to the house whilst learning all about carpenters, chefs, and artists.
+Our first book <b> Ene and the Magic Boxes </b>  is a beautifully illustrated tale about a little mouse called Ene in the quest to find music for their friends. With creativity and curiosity, Ene is able to bring happiness to the house whilst learning all about carpenters, chefs, and artists.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,7 +44,7 @@ Ene and the Magic Boxes teaches vocabulary related to trades (Chefs, Artists, Ca
 
 ### [Ene and the Magic Tree](https://www.amazon.com/Ene-Magic-Tree-Mathematical-Adventures/dp/1737058413)
 
-Our second book <b> Ene and the Magic Tree <b>  is yet another beautifully illustrated tale about the little mouse called Ene in  the quest to find a new friend. Whilst exploring a magic tree in a mathematical adventure, Ene finds the soon to be hatching eggs and a new friendship is born.
+Our second book <b> Ene and the Magic Tree </b>  is yet another beautifully illustrated tale about the little mouse called Ene in  the quest to find a new friend. Whilst exploring a magic tree in a mathematical adventure, Ene finds the soon to be hatching eggs and a new friendship is born.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -58,7 +58,7 @@ Our second book <b> Ene and the Magic Tree <b>  is yet another beautifully illus
     </div>
 </div>
  
-###Ene and the Magic Boxes teaches vocabulary related to mathematics with a three page visual dictionary.  ISBN: 978-1737058410. Publication date: December 5 2021.
+Ene and the Magic Boxes teaches vocabulary related to mathematics with a three page visual dictionary.  ISBN: 978-1737058410. Publication date: December 5 2021.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -80,4 +80,10 @@ Together with illustrator [Martina Rusznak](https://tinarusznak.com/) we are wor
 
 ### Raccoon's difficult day
 
+Our first book <b> Raccoon's difficult day</b> is a book about overcoming difficulties that one encounters daily, changing perspective to turn things our way, and building a <i>map to a better day</i> to be used next time a day seems to start in a difficult way. 
 
+ <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Books/rac1.png" title="Magic Tree" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
