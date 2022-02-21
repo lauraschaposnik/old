@@ -1,6 +1,5 @@
 ---
 layout: about
-order: 1
 title: About
 permalink: /
 subtitle: <b>Associate Professor</b> of <a href="https://mscs.uic.edu">Mathematics, Statistics, and Computer Science</a>, University of Illinois Chicago
