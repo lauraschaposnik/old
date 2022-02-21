@@ -53,7 +53,7 @@ Mathematics in Nature<br>
 
 <tr>
 <td width="20%">
-<img src="/assets/img/sonia2019.jpeg" height="200px" width="150px">
+<img src="/assets/img/sonia2019.jpg" height="200px" width="150px">
 </td>
 <td width="60%">
 <h5><a href="https://schapos.people.uic.edu/Sonia2019.html"><b>Sonia Kovalevsky day V
@@ -114,7 +114,7 @@ Knots and Graphs<br>
 
 <tr>
 <td width="20%">
-<img src="/assets/img/sonia-2015.jpeg" height="200px" width="150px">
+<img src="/assets/img/sonia-2015.jpg" height="200px" width="150px">
 </td>
 <td width="60%">
 <h5><a href="https://schapos.people.uic.edu/Sonia2015.html"><b>Sonia Kovalevsky day I
