@@ -58,7 +58,7 @@ Our second book <b> Ene and the Magic Tree <b>  is yet another beautifully illus
     </div>
 </div>
  
-Ene and the Magic Boxes teaches vocabulary related to mathematics with a three page visual dictionary.  ISBN: 978-1737058410. Publication date: December 5 2021.
+###Ene and the Magic Boxes teaches vocabulary related to mathematics with a three page visual dictionary.  ISBN: 978-1737058410. Publication date: December 5 2021.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -72,3 +72,12 @@ Ene and the Magic Boxes teaches vocabulary related to mathematics with a three p
         {% include figure.html path="assets/img/Books/tree5.png" title="Magic Tree" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+
+## Raccoon's adventures
+
+Together with illustrator [Martina Rusznak](https://tinarusznak.com/) we are working on a couple of projects, the first one of which will lead to our first publication together coming mid 2022.
+
+### Raccoon's difficult day
+
+
