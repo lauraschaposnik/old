@@ -19,6 +19,9 @@ Our first son, <b>Nikolay Andrew Unwin Schaposnik</b>, was born on August 22 201
 <p float="center">
   <img src="/assets/img/niko1.jpeg" width="750" />
 </p>
+<div class="caption">
+    Nikolay during his first week.
+</div>
 
 
 <p float="center">
@@ -26,7 +29,9 @@ Our first son, <b>Nikolay Andrew Unwin Schaposnik</b>, was born on August 22 201
   <img src="/assets/img/niko3.jpeg" width="250" />
   <img src="/assets/img/niko4.jpeg" width="250" />
 </p>
-
+<div class="caption">
+    Nikolay during his first year.
+</div>
 
 <br>
 
@@ -36,13 +41,18 @@ Our second son, <b>Alexander Ivan Unwin Schaposnik</b>, was born on October 8 20
 <p float="center">
   <img src="/assets/img/alex1.jpeg" width="750" />
 </p>
+<div class="caption">
+    Alexander during his first week.
+</div>
 
 <p float="center">
   <img src="/assets/img/alex2.jpeg" width="250" />
   <img src="/assets/img/alex3.jpeg" width="250" />
   <img src="/assets/img/alex4.jpeg" width="250" />
 </p>
-
+<div class="caption">
+    Alexander during his first year.
+</div>
 <br>
 
 My brother [Fidel I. Schaposnik](https://fidel-schaposnik.github.io/) and my father [Fidel A. Schaposnik](https://sites.google.com/site/schaposnik/) are physicists. 
