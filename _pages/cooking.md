@@ -12,9 +12,13 @@ We like trying new recipies, coming up with our own ones, and making our friends
  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Cooking/pastafrola.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <a href="{{assets/img/Cooking/pastafrola.jpeg}}"><  title="pastafrola" class="img-fluid rounded z-depth-1" src="assets/img/Cooking/pastafrola.jpeg" alt="pastafrola"></a>
     </div>
      </div>
+
+ 
+
+
 
 <br>
 
