@@ -6,7 +6,9 @@ nav: false
 heading: My family
 ---
 
-My husband [James A. Unwin](https://unwin.people.uic.edu/James_Unwin.html) is a phycisist.
+My husband [James A. Unwin](https://unwin.people.uic.edu/James_Unwin.html) is a phycisist - we met in grad school at the University of Oxford back in 2008, and since then we have explored the world and built a beautiful family. 
+
+
 
 <br>
 
