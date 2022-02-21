@@ -7,8 +7,10 @@ dropdown: true
 children: 
     - title: Project 365
       permalink: /project365/
-    - title: Galleries
-      permalink: /galleries/
+    - title: Portfolio
+      permalink: /portfolio/
+    - title: Travel
+      permalink: /travel/
       
 ---
 
