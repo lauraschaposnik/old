@@ -24,7 +24,7 @@ Our first son, Nikolay Andrew Unwin Schaposnik, was born on August 22 2018;
 <p float="center">
   <img src="/assets/img/niko2.jpeg" width="250" />
   <img src="/assets/img/niko3.jpeg" width="250" />
-  <img src="/assets/imgniko4.jpeg" width="250" />
+  <img src="/assets/img/niko4.jpeg" width="250" />
 </p>
 
 
