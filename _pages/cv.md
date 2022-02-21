@@ -5,6 +5,7 @@ permalink: /cv/
 title: CV
 description: 
 nav: true
+heading: CV
 ---
 
 <center>
