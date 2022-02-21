@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: page
+permalink: /books/
 title: Ene and the Magic... Books
-date: 2021-9-1 12:00:00-0400
-inline: false
+nav: false
+
 ---
 
 ## Ene and the Magic... Books
