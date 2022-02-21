@@ -1,10 +1,10 @@
 ---
 layout: page
-order=1
 permalink: /cv/
 title: CV
-description: 
+order=1
 nav: true
+description: 
 heading: CV
 ---
 
