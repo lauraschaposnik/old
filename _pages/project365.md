@@ -7,4 +7,3 @@ heading: Project 365
 ---
   
  
-{% include youtubePlayer.html id=M-c_r0byO8c&t=74s %}
