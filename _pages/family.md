@@ -46,8 +46,11 @@ Our second son, Alexander Ivan Unwin Schaposnik, was born on October 8 2020.
 <br>
 
 My brother [Fidel I. Schaposnik](https://fidel-schaposnik.github.io/) and my father [Fidel A. Schaposnik](https://sites.google.com/site/schaposnik/) are physicists. 
-
-<br>
-
 My mother [Patricia Massolo](https://es.wikipedia.org/wiki/Claudia_Patricia_Massolo) was a physicis. 
+
+
+<p float="center">
+  <img src="/assets/img/los4_1990.jpeg" width="750" />
+</p>
+
 
