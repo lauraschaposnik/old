@@ -1,31 +1,24 @@
 ---
 ---
 <!-- _layouts/bib.html -->
+    <div class="row">
       {%- if entry.img -%}
-      <div class="row">
-	    <div class="col-sm-auto">
+	  <div class="col-sm-auto">
 	  {%- else -%}
-	  <div class="row">
-	    <div class="col-sm-2 abbr">
+	  <div class="col-sm-2 abbr">
 	  {%- endif -%}
 	      {%- if entry.color -%}
 	      <abbr class="{{site.data.badge_colors[entry.color]}}">
-		  {%- else -%}
-		  <abbr class="badge">
 		  {%- endif -%}
 		    {%- if entry.img -%}
-		    <img src="{{entry.img}}" width="{{entry.img_width}}px" height="{{entry.img_height}}px">
+		    <img src="{{entry.img}}" width="150px">
 			{%- else -%}
-			  {%- if entry.abbr -%}
-			    {%- if site.data.venues[entry.abbr] -%}
-			    <a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a>
-			    {%- else -%}
-			    {{entry.abbr}}
-			    {%- endif -%}
-		      {%- endif -%}
+			{{entry.abbr}}
 			{%- endif -%}
+		  {%- if entry.color -%}
 		  </abbr>
-		</div>
+		  {%- endif -%}
+      </div>
 
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
@@ -144,6 +137,9 @@
           {%- endif %}
           {%- if entry.code %}
             <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+          {%- endif %}
+          {%- if entry.video %}
+            <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
           {%- endif %}
           {%- if entry.poster %}
             {% if entry.poster contains '://' -%}
