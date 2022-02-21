@@ -24,6 +24,9 @@ Our first son, <b>Nikolay Andrew Unwin Schaposnik</b>, was born on August 22 201
 </div>
 
 
+
+
+
 <p float="center">
   <img src="/assets/img/niko2.jpeg" width="250" />
   <img src="/assets/img/niko3.jpeg" width="250" />
@@ -55,12 +58,31 @@ Our second son, <b>Alexander Ivan Unwin Schaposnik</b>, was born on October 8 20
 </div>
 <br>
 
+<p float="center">
+  <img src="/assets/img/alex2.jpeg" width="250" />
+  <img src="/assets/img/alex3.jpeg" width="250" />
+  <img src="/assets/img/alex4.jpeg" width="250" />
+</p>
+<div class="caption">
+    Alexander during his first year.
+</div>
+<br>
 My brother [Fidel I. Schaposnik](https://fidel-schaposnik.github.io/) and my father [Fidel A. Schaposnik](https://sites.google.com/site/schaposnik/) are physicists. 
 My mother [Patricia Massolo](https://es.wikipedia.org/wiki/Claudia_Patricia_Massolo) was also a physicists. 
 
 
-<p float="center">
-  <img src="/assets/img/los4_1990.jpeg" width="750" />
-</p>
+ 
+
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/los4_1990.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Trieste, August 1991.
+</div>
+
+
 
 
