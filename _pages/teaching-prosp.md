@@ -4,8 +4,9 @@ permalink: /teaching-prosp/
 title: 'teaching: prospective students'
 description:  
 nav: false
+heading: Information for prospective students and post-docs
 ---
-## Information for prospective students and post-docs
+
 
 If you are considering joining my university and are looking for opportunities to work in geometry, here is some information which you might find useful. For some broad as well as particular open problems in my area, students may enjoy reading about [Higgs bundles](http://aimpl.org/spectralhiggs/1/) from one of the [workshops](https://schapos.people.uic.edu/Research.html) that I organized.
 
