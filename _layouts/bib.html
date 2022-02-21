@@ -2,8 +2,8 @@
 ---
 <!-- _layouts/bib.html -->
       {%- if entry.img -%}
-      <div class="row" style="min-height:200px">
-	    <div class="col-sm-2 abbr" style="min-width:200px">
+      <div class="row">
+	    <div class="col-sm-auto">
 	  {%- else -%}
 	  <div class="row">
 	    <div class="col-sm-2 abbr">
@@ -14,7 +14,7 @@
 		  <abbr class="badge">
 		  {%- endif -%}
 		    {%- if entry.img -%}
-		    <img src="{{entry.img}}" height="200px" width="150px">
+		    <img src="{{entry.img}}" width="{{entry.img_width}}px" height="{{entry.img_height}}px">
 			{%- else -%}
 			  {%- if entry.abbr -%}
 			    {%- if site.data.venues[entry.abbr] -%}
@@ -33,7 +33,15 @@
           {{reference}}
         {%- else %}
           <!-- Title -->
-          <div class="title">{{entry.title}}</div>
+          <div class="title">
+		  {%- if entry.title_url -%}
+		    <a href="{{entry.title_url}}">
+		  {%- endif -%}
+		    {{entry.title}}
+		  {%- if entry.title_url -%}
+		    </a>
+		  {%- endif -%}
+		  </div>
           <!-- Author -->
           <div class="author">
           {%- for author in entry.author_array -%}
