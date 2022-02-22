@@ -13,9 +13,9 @@ In the last few years my priorities and time allocations shifted slightly, and t
 <span style="font-size:15px">
 <br>
 
-<div>
+ 
 <section id="ene">
-</div>
+ 
 
 ## Ene and the Magic…  
 
