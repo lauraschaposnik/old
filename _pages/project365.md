@@ -13,7 +13,7 @@ The project started in 2013, and I have now entered the 10th year collecting mom
 
 
 <h1 id="2022"> </h1>
-###Project 365 2022:   </a href="https://sites.google.com/view/project365-2013">Photos here</a>  
+### Project 365 2022:   </a href="https://sites.google.com/view/project365-2013">Photos here</a>  
 
 
 <hr>
@@ -21,7 +21,7 @@ The project started in 2013, and I have now entered the 10th year collecting mom
 
 
 <h1 id="2021"> </h1>
-###Project 365 2021:   [Photos here](https://sites.google.com/view/project365-2021)  
+### Project 365 2021:   [Photos here](https://sites.google.com/view/project365-2021)  
 
 
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
