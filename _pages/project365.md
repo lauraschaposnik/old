@@ -14,7 +14,7 @@ The project started in 2013, and I have now entered the 10th year collecting mom
 
 <center>
 <a href="#2013">Year 2013</a>  -- <a href="#2014">Year 2014</a>  -- <a href="#2015">Year 2015</a> -- <a href="#2016">Year 2016</a>  -- <a href="#2017">Year 2017</a>  
-</center><br>
+</center> 
 <center>
  <a href="#2018">Year 2018</a>  -- <a href="#2019">Year 2019</a>  -- <a href="#2020">Year 2020</a> -- <a href="#2021">Year 2021</a>--  <a href="#2022">Year 2022</a> 
 </center>
@@ -22,7 +22,7 @@ The project started in 2013, and I have now entered the 10th year collecting mom
  
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/map.jpg" title="Krakow" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/map.jpg" title="Krakow" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 
