@@ -336,13 +336,13 @@ gallery:
     Hannoi:
       best_image: hannoi1.jpg
       name: "Hannoi"
-       India:
+    India:
       best_image: india31.jpg
       name: "India"
-        Old:
+    Old:
       best_image: miss.jpg
       name: "Old"
-      Safari:
+    Safari:
       best_image: safari7.jpg
       name: "Safari"
   
