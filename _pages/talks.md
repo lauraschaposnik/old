@@ -12,7 +12,7 @@ heading: Talks
 <div class="publications">
 
 
-I have given <b>100+ talks</b> on my research area as well as outreach talks over the years. Below you can find a quasi complete list of them where I have classified them as
+I have given <b>150+ talks</b> on my research area as well as outreach talks over the years. Below you can find a quasi complete list of them where I have classified them as
 <span class="badge badge-danger">Conference</span> <span class="badge badge-primary">Seminar</span> <span class="badge badge-warning">Colloquia, Plenary talk or mini course </span>  and <span class="badge badge-light">Outreach</span> .
 
 
