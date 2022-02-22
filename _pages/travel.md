@@ -32,6 +32,8 @@ As a mathematician we have made over 300 trips in the last decade, during which 
 Aarhus, bath and Singapore. 
 </div>
 
+
+<center>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Travel/oxford2.jpg" title="Oxford" class="img-fluid rounded z-depth-1" %}
@@ -40,4 +42,4 @@ Aarhus, bath and Singapore.
 <div class="caption">
 Oxford
 </div>
-
+</center>
