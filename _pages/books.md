@@ -15,6 +15,8 @@ In the last few years my priorities and time allocations shifted slightly, and t
 
 <div>
 <section id="ene">
+</div>
+
 ## Ene and the Magic…  
 
 Ene is a curious little mouse who explores magic places and discovers new worlds. Through the adventures of Ene, I hope to teach bilingual words (Spanish-Englis) on different topics. 
@@ -81,7 +83,7 @@ Ene and the Magic Boxes teaches vocabulary related to mathematics with a three p
     </div>
 </div>
 
- </div>
+
  
  
 <br>
@@ -91,6 +93,7 @@ Ene and the Magic Boxes teaches vocabulary related to mathematics with a three p
 
 <div>
 <section id="raccoon">
+ </div>
 ## Raccoon's adventures
 
 Together with illustrator [Martina Rusznak](https://tinarusznak.com/) we are working on a couple of projects, the first one of which will lead to our first publication together coming mid 2022.
@@ -111,7 +114,7 @@ Our first book <b> Raccoon's difficult day</b> is a book about overcoming diffic
 <br>
 <div>
 <section id="azul">
-
+</div>
 ## [Reaching for the stars](https://www.amazon.com/dp/1737058472/ref=cm_sw_em_r_mt_dp_4P5WBNZJMAVM0E3M977K?_encoding=UTF8&psc=1)
 
 My husband [James Unwin](https://unwin.people.uic.edu/James_Unwin.html) wrote his first children's book in 2021 titled  <b>Reaching for the Stars</b> ,  illustrated by mathematician [Maylis Limouzineau](https://lucky8locke.ultra-book.com/). It is an engaging story about a cat that goes through several transformations on their journey to become a star in the sky. Children and adults will love to read and reread this beautiful illustrated tale featuring Cats, Tigers, Zebras and Reindeer. A thrilling journey of self-discovery that teaches children the importance of having the courage to follow their dreams and to become their best selves.
@@ -136,6 +139,6 @@ I had the honor of translating the book to Spanish whilst preserving the beautif
     </div>
 </div>
 
-</div>
+
 
 
