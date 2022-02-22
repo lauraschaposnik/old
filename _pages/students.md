@@ -12,6 +12,7 @@ heading: Students
 
 In the last decade I have mentored several students at different levels. Below is a list of my former and current students.  To find more information about my broader "academic family" visit my <a href="https://www.mathgenealogy.org/id.php?id=171532">genealogy</a> entry. 
  
+ <br>
 
 <h2>Current</h2>
  
@@ -20,7 +21,7 @@ In the last decade I have mentored several students at different levels. Below i
   {% bibliography -f current -q @*[year={{y}}]* %}
 {% endfor %}
 
- 
+  <br>
 
 <h2>Former</h2>
 
