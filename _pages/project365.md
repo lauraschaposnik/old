@@ -12,14 +12,16 @@ The project started in 2013, and I have now entered the 10th year collecting mom
 
 
 
-<h1 id="2022"> Project 365 2022:   </a href="https://sites.google.com/view/project365-2013">Photos here</a>  </h1>
+<h1 id="2022"> </h1>
+###Project 365 2022:   </a href="https://sites.google.com/view/project365-2013">Photos here</a>  
 
 
 <hr>
 <span style="font-size:15px">
 
 
-<h1 id="2021"> Project 365 2021:   [Photos here](https://sites.google.com/view/project365-2021)  </h1>
+<h1 id="2021"> </h1>
+###Project 365 2021:   [Photos here](https://sites.google.com/view/project365-2021)  
 
 
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
@@ -30,7 +32,8 @@ The project started in 2013, and I have now entered the 10th year collecting mom
 <hr>
 <span style="font-size:15px">
 
-<h1 id="2020"> Project 365 2020:   [Photos here](https://sites.google.com/view/project365-2020)  </h1>
+<h1 id="2020"> </h1>
+### Project 365 2020:   [Photos here](https://sites.google.com/view/project365-2020) 
 
  
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
@@ -41,7 +44,8 @@ The project started in 2013, and I have now entered the 10th year collecting mom
 <hr>
 <span style="font-size:15px">
 
-<h1 id="2019"> Project 365 2019:   [Photos here.](https://sites.google.com/view/project365-2019)    </h1>
+<h1 id="2019"> </h1>
+### Project 365 2019:   [Photos here.](https://sites.google.com/view/project365-2019)   
 
  
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
@@ -51,7 +55,8 @@ The project started in 2013, and I have now entered the 10th year collecting mom
 <hr>
 <span style="font-size:15px">
 
-<h1 id="2018"> Project 365 2018:   [Photos here.](https://sites.google.com/view/project365-2018)    </h1>
+<h1 id="2018"> </h1>
+### Project 365 2018:   [Photos here.](https://sites.google.com/view/project365-2018)     
 
  
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
@@ -61,7 +66,8 @@ The project started in 2013, and I have now entered the 10th year collecting mom
 <hr>
 <span style="font-size:15px">
 
-<h1 id="2017"> Project 365 2017:   [Photos here.](https://schapos.people.uic.edu/Project365_2017.html)    </h1>
+<h1 id="2017"> </h1>
+### Project 365 2017:   [Photos here.](https://schapos.people.uic.edu/Project365_2017.html)     
 
  
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
@@ -71,7 +77,8 @@ The project started in 2013, and I have now entered the 10th year collecting mom
 <hr>
 <span style="font-size:15px">
 
-<h1 id="2016"> Project 365 2016:   [Photos here.](https://schapos.people.uic.edu/Project_365_2016.html)    </h1>
+<h1 id="2016"> </h1>
+### Project 365 2016:   [Photos here.](https://schapos.people.uic.edu/Project_365_2016.html)     
 
  
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
@@ -84,7 +91,8 @@ The project started in 2013, and I have now entered the 10th year collecting mom
 <span style="font-size:15px">
 <br>
 
-<h1 id="2015"> Project 365 2015:   [Photos here.](https://schapos.people.uic.edu/Project_365_2015.html)    </h1>
+<h1 id="2015"> </h1>
+### Project 365 2015:   [Photos here.](https://schapos.people.uic.edu/Project_365_2015.html)     
 
  
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
@@ -98,7 +106,8 @@ The project started in 2013, and I have now entered the 10th year collecting mom
 
 <br>
 
-<h1 id="2014"> Project 365 2014:   [Photos here.](https://faculty.math.illinois.edu/%7Eschapos/Project_365_2014.html)  </h1>
+<h1 id="2014"> </h1>
+### Project 365 2014:   [Photos here.](https://faculty.math.illinois.edu/%7Eschapos/Project_365_2014.html)  
 
 The beautiful music is by my friend [Rebecca Rego](http://regorego.com), 
 and you can find more about them here:
@@ -117,7 +126,8 @@ and you can find more about them here:
 
 <br>
 
-<h1 id="2013"> Project 365 2013:   [Photos here.](https://faculty.math.illinois.edu/%7Eschapos/Project_365_2013.html)    </h1>
+<h1 id="2013"> </h1>
+### Project 365 2013:   [Photos here.](https://faculty.math.illinois.edu/%7Eschapos/Project_365_2013.html)     
 
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
 	<object data="https://www.youtube.com/embed/hK5DHOlCEwU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
