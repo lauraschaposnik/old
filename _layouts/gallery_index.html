@@ -1,0 +1,28 @@
+---
+layout: page
+title: Portfolio
+permalink: /portfolio/
+nav: false
+social: false
+heading: Portfolio
+---
+<div class="noborder gallery-wrapper">
+    <table>
+        {% for gallery in page.galleries %}
+            {% assign loopindex = forloop.index | modulo: 2 %}
+            {% if loopindex == 1 %}
+            <tr>
+            {% endif %}
+            <td width="50%">
+                <a href="{{ gallery['gallery'] }}">
+                    <img class="gallery-image" src="{{ gallery['gallery'] }}/thumbs/{{ gallery['best_image'] }}">
+                </a>
+                <h3><a href="{{ gallery['gallery'] }}">{{ gallery["name"] }}</a></h3>
+                {{ gallery["images"] | size }} image{% if gallery["images"].size != 1 %}s{% endif %}
+            </td>
+            {% if loopindex == 0  or forloop.last %}
+            </tr>
+            {% endif %}
+        {% endfor %}
+    </table>
+</div>
