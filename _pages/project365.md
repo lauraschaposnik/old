@@ -19,77 +19,84 @@ The project started in 2013, and I have now entered the 10th year of it. You can
 <span style="font-size:15px">
 
 
-<h1 id="2021"> Project 365 2021:   [Photos here](https://sites.google.com/view/project365-2022)  </h1>
+<h1 id="2021"> Project 365 2021:   [Photos here](https://sites.google.com/view/project365-2021)  </h1>
 
 
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
-	<object data="https://www.youtube.com/embed/hK5DHOlCEwU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
+	<object data="https://www.youtube.com/embed/YlwkH_5BsMM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
 </div>
 
 
 <hr>
 <span style="font-size:15px">
 
-<h1 id="2020"> Project 365 2020:   [Photos here](https://sites.google.com/view/project365-2022)  </h1>
+<h1 id="2020"> Project 365 2020:   [Photos here](https://sites.google.com/view/project365-2020)  </h1>
 
  
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
-	<object data="https://www.youtube.com/embed/hK5DHOlCEwU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
+	<object data="https://www.youtube.com/embed/C8u4bGkcIgE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
 </div>
 
 
 <hr>
 <span style="font-size:15px">
 
-<h1 id="2019"> Project 365 2019:   [Photos here.](https://sites.google.com/view/project365-2013)    </h1>
+<h1 id="2019"> Project 365 2019:   [Photos here.](https://sites.google.com/view/project365-2019)    </h1>
 
  
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
-	<object data="https://www.youtube.com/embed/hK5DHOlCEwU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
+	<object data="https://www.youtube.com/embed/OjSQQzcJ0ck" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
 </div>
 
 <hr>
 <span style="font-size:15px">
 
-<h1 id="2018"> Project 365 2018:   [Photos here.](https://sites.google.com/view/project365-2013)    </h1>
+<h1 id="2018"> Project 365 2018:   [Photos here.](https://sites.google.com/view/project365-2018)    </h1>
 
  
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
-	<object data="https://www.youtube.com/embed/hK5DHOlCEwU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
+	<object data="https://www.youtube.com/embed/AoSmURyvQXg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
 </div>
 
 <hr>
 <span style="font-size:15px">
 
-<h1 id="2017"> Project 365 2017:   [Photos here.](https://sites.google.com/view/project365-2013)    </h1>
+<h1 id="2017"> Project 365 2017:   [Photos here.](https://schapos.people.uic.edu/Project365_2017.html)    </h1>
 
  
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
-	<object data="https://www.youtube.com/embed/hK5DHOlCEwU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
+	<object data="https://www.youtube.com/embed/7nV2P7oSRqQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
 </div>
 
 <hr>
 <span style="font-size:15px">
 
-<h1 id="2016"> Project 365 2016:   [Photos here.](https://sites.google.com/view/project365-2013)    </h1>
+<h1 id="2016"> Project 365 2016:   [Photos here.](https://schapos.people.uic.edu/Project_365_2016.html)    </h1>
 
  
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
-	<object data="https://www.youtube.com/embed/hK5DHOlCEwU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
+	<object data="https://www.youtube.com/embed/zKzWBHj5ZI0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
 </div>
+
+<br>
 
 <hr>
 <span style="font-size:15px">
+<br>
 
-<h1 id="2015"> Project 365 2015:   [Photos here.](https://sites.google.com/view/project365-2013)    </h1>
+<h1 id="2015"> Project 365 2015:   [Photos here.](https://schapos.people.uic.edu/Project_365_2015.html)    </h1>
 
  
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
-	<object data="https://www.youtube.com/embed/hK5DHOlCEwU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
+	<object data="https://www.youtube.com/embed/WoOM0BRbRmI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
 </div>
+
+<br>
 
 <hr>
 <span style="font-size:15px">
+
+<br>
 
 <h1 id="2014"> Project 365 2014:   [Photos here.](https://faculty.math.illinois.edu/%7Eschapos/Project_365_2014.html)  </h1>
 
@@ -102,9 +109,13 @@ and you can find more about them here:
 	<object data="https://www.youtube.com/embed/QZOZaG1Fd-o" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
 </div>
 
+
+<br>
+
 <hr>
 <span style="font-size:15px">
 
+<br>
 
 <h1 id="2013"> Project 365 2013:   [Photos here.](https://faculty.math.illinois.edu/%7Eschapos/Project_365_2013.html)    </h1>
 
