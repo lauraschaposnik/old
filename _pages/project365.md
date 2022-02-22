@@ -91,12 +91,15 @@ The project started in 2013, and I have now entered the 10th year of it. You can
 <hr>
 <span style="font-size:15px">
 
-<h1 id="2014"> Project 365 2014:   [Photos here.](https://sites.google.com/view/project365-2013)  </h1>
+<h1 id="2014"> Project 365 2014:   [Photos here.](https://faculty.math.illinois.edu/%7Eschapos/Project_365_2014.html)  </h1>
+
+The beautiful music is by my friend [Rebecca Rego](http://regorego.com), 
+and you can find more about them here:
 
 
 
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
-	<object data="https://www.youtube.com/embed/hK5DHOlCEwU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
+	<object data="https://www.youtube.com/embed/QZOZaG1Fd-o" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
 </div>
 
 <hr>
