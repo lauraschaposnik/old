@@ -323,10 +323,7 @@ medium_zoom:
 # Build settings
 markdown: kramdown
 
-#Jekyll-Photo-Gallery Settings
-exiftag:
- sources:
-   - images/photography #Set to location of photos. 
+ 
 
 #MiniMagick
 #https://github.com/zroger/jekyll-minimagick
