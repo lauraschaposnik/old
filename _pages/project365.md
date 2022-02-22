@@ -8,11 +8,11 @@ heading: Project 365
   
 This Project 365 is intended to collect one photo each day during each year, reflecting what I believe is an interesting, although possibly un-noticeable, situation - and also sometimes tiny things I hear, read or learn. You’ll find here photos of my everyday life as a mathematician (sometimes traveling around the world), as well as photos from my everyday life. If you’d like any of the photos in better resolution, email me at <a href="mailto:lauraschaposnik@gmail.com">lauraschaposnik@gmail.com</a>, and I’ll be happy to send them for non-commercial use. 
 
-The project started in 2013, and I have now entered the 10th year of it. You can find below the links to each year's Project Website, as well as a 3 minute video compilation with music.  
+The project started in 2013, and I have now entered the 10th year collecting moments in <b>300+ trips</b>. You can find below the links to each year's Project Website, as well as a 3 minute video compilation with music.  
 
 
 
-<h1 id="2022"> Project 365 2022:   [Photos here](https://sites.google.com/view/project365-2013)  </h1>
+<h1 id="2022"> Project 365 2022:   </a href="https://sites.google.com/view/project365-2013">Photos here</a>  </h1>
 
 
 <hr>
