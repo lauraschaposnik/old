@@ -17,10 +17,10 @@ My husband [James A. Unwin](https://unwin.people.uic.edu/James_Unwin.html) is a 
 
 <br>
 
-<br>
+ 
 <hr>
 <span style="font-size:15px">
-<br>
+ 
 
 Our first son, <b>Nikolay Andrew Unwin Schaposnik</b>, was born on August 22 2018; 
 
@@ -55,10 +55,10 @@ Our first son, <b>Nikolay Andrew Unwin Schaposnik</b>, was born on August 22 201
 
 <br>
 
-<br>
+ 
 <hr>
 <span style="font-size:15px">
-<br>
+ 
 
 Our second son, <b>Alexander Ivan Unwin Schaposnik</b>, was born on October 8 2020.
 
@@ -90,11 +90,10 @@ Our second son, <b>Alexander Ivan Unwin Schaposnik</b>, was born on October 8 20
 </div>
 <br>
 
-<br>
+ 
 <hr>
 <span style="font-size:15px">
-<br>
-
+ 
 My brother [Fidel I. Schaposnik](https://fidel-schaposnik.github.io/) and my father [Fidel A. Schaposnik](https://sites.google.com/site/schaposnik/) are physicists. 
 My mother [Patricia Massolo](https://es.wikipedia.org/wiki/Claudia_Patricia_Massolo) was also a physicist. 
 
