@@ -105,7 +105,7 @@ Our first book <b> Raccoon's difficult day</b> is a book about overcoming diffic
         {% include figure.html path="assets/img/Books/rac1.png" title="Magic Tree" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-</div>
+
 <br>
 <hr>
 <span style="font-size:15px">
