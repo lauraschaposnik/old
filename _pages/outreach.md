@@ -2,10 +2,10 @@
 layout: page
 title: Outreach
 permalink: /outreach/
-description:  
+description: 
 nav: false
 horizontal: false
-heading:Outreach
+heading: Outreach
 ---
 
 Information about different career talks I have given these last years can be found in  [Talks](https://lauraschaposnik.github.io/talks/), and below is information about outreach days I run annually at UIC. 
