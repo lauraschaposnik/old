@@ -25,6 +25,9 @@ In the last decade I have mentored several students at different levels. Below i
 
   <br>
 
+ <hr>
+<span style="font-size:15px">
+
 <h2>Former</h2>
 
 In reverse chronological order
