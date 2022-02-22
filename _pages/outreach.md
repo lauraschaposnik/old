@@ -67,6 +67,7 @@ Mathematics in the Sea<br>
 </tr>
 
 
+
 <tr>
 <td width="20%">
 <img src="/assets/img/sonia-2018.jpg" height="200px" width="150px">
