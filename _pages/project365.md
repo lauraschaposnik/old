@@ -11,7 +11,7 @@ This Project 365 is intended to collect one photo each day during each year, ref
 The project started in 2013, and I have now entered the 10th year collecting moments in <b>300+ trips</b>. You can find below the links to each year's Project Website, as well as a 3 minute video compilation with music.  You can find the links to each set of photos and videos below:
 
 <center>
-<a href="#2013">Year 2013</a>  -- <a href="#2014">Year 2014</a>  -- <a href="#2015">Year 2015</a> -- <a href="#2016">Year 20216</a>  -- <a href="#2017">Year 2017</a>  
+<a href="#2013">Year 2013</a>  -- <a href="#2014">Year 2014</a>  -- <a href="#2015">Year 2015</a> -- <a href="#2016">Year 2016</a>  -- <a href="#2017">Year 2017</a>  
 </center><br>
 <center>
  <a href="#2018">Year 2018</a>  -- <a href="#2019">Year 2019</a>  -- <a href="#2020">Year 2020</a> -- <a href="#2021">Year 2021</a>--  <a href="#2022">Year 2022</a> 
