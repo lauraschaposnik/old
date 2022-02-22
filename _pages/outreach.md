@@ -10,10 +10,18 @@ heading:Outreach
 
 Information about different career talks I have given these last years can be found in  [Talks](https://lauraschaposnik.github.io/talks/), and below is information about outreach days I run annually at UIC. 
 
+<br>
+<hr>
+<span style="font-size:15px">
+<br>
+
 ### Sonia Kovalevsky Days
 
 These days are part of series of the [Association of Women in Mathematics (AWM)](https://sites.google.com/site/awmmath/home). For more than twenty years Sonia Kovalevsky Days have been organized and sponsored by AWM and held at colleges and universities throughout the country. Sonia Kovalevsky Days (SK Days) consist of a program of workshops, talks, and problem-solving competitions for female high school and middle school students and their teachers, both women and men. At UIC together with [James Unwin](https://unwin.people.uic.edu/) we run anual Sonia Kovalevsky days, for which we have prepared the material listed below which we are currently converting into a book. 
-
+<br>
+<hr>
+<span style="font-size:15px">
+<br>
  
 ### Material for Sonia Kovalevsky days
 
@@ -27,7 +35,10 @@ These days are part of series of the [Association of Women in Mathematics (AWM)]
 2. [Knots](https://drive.google.com/file/d/1T7Yu_CKj4lSxN90LGq8rZoggD69oOJt4/view?usp=sharing), with James A. Unwin (2016). 
 1. [Bridges of Konigsberg](https://drive.google.com/file/d/1WWqKgmSZPW3U7qkErum4ax77o6hRFPfb/view?usp=sharing), with James A. Unwin (2016). 
 
-
+<br>
+<hr>
+<span style="font-size:15px">
+<br>
  
 ###  Sonia Kovalevsky days at UIC
 
