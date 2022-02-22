@@ -332,7 +332,7 @@ gallery:
   sort_field: "date_time"   # How to sort galleries on the index page.
                             # Possible values are: title, date_time, best_image, name
 
-  galleries:
+galleries:
     Hannoi:
       best_image: hannoi1.jpg
       name: "Hannoi"
