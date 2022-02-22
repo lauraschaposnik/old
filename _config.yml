@@ -333,7 +333,6 @@ gallery:
                             # Possible values are: title, date_time, best_image, name
 
   galleries:
-  
     Hannoi:
       best_image: hannoi1.jpg
       name: "Hannoi"
