@@ -13,7 +13,7 @@ heading: Events organized
 
 
  
-I draw a lot of inspiration for my research and teaching through interactions with people across fields, and because of this I keep an active role organizing international events, graduate schools and outreach events. Below you can find a quasi complete list of the 40+ different events I have organized.  
+I draw a lot of inspiration for my research and teaching through interactions with people across fields, and because of this I keep an active role organizing international events, graduate schools and outreach events. Below you can find a quasi complete list of the <b>40+ different events</b> I have organized.  
 
 
 {%- for y in page.years %}
