@@ -12,6 +12,13 @@ The project started in 2013, and I have now entered the 10th year collecting mom
 
 
 
+<br>
+
+<hr>
+<span style="font-size:15px">
+
+<br>
+
 <h1 id="2022"> </h1>
 ### Project 365 2022:    [Photos here](https://sites.google.com/view/project365-2013) 
 
