@@ -10,7 +10,15 @@ heading: Project 365
   
 This Project 365 is intended to collect one photo each day during each year, reflecting what I believe is an interesting, although possibly un-noticeable, situation - and also sometimes tiny things I hear, read or learn. You’ll find here photos of my everyday life as a mathematician (sometimes traveling around the world), as well as photos from my everyday life. If you’d like any of the photos in better resolution, email me at <a href="mailto:lauraschaposnik@gmail.com">lauraschaposnik@gmail.com</a>, and I’ll be happy to send them for non-commercial use. 
 
-The project started in 2013, and I have now entered the 10th year collecting moments in <b>300+ trips</b>. You can find below the links to each year's Project Website, as well as a 3 minute video compilation with music.  You can find the links to each set of photos and videos below:
+The project started in 2013, and I have now entered the 10th year collecting moments in <b>300+ trips</b>. 
+
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/map.jpg" title="Krakow" class="img-fluid rounded z-depth-0" %}
+    </div>
+</div>
+
+You can find below the links to each year's Project Website, as well as a 3 minute video compilation with music.  You can find the links to each set of photos and videos below:
 
 <center>
 <a href="#2013">Year 2013</a>  -- <a href="#2014">Year 2014</a>  -- <a href="#2015">Year 2015</a> -- <a href="#2016">Year 2016</a>  -- <a href="#2017">Year 2017</a>  
@@ -20,11 +28,7 @@ The project started in 2013, and I have now entered the 10th year collecting mom
 </center>
 
  
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/map.jpg" title="Krakow" class="img-fluid rounded z-depth-0" %}
-    </div>
-</div>
+
 
 
 <br>
