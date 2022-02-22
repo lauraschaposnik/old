@@ -14,10 +14,10 @@ In the last few years my priorities and time allocations shifted slightly, and t
 <br>
 
  
-<section id="ene">
  
-
-## Ene and the Magic…  
+ 
+<h1 id="ene">Ene and the Magic…  </h1>
+ 
 
 Ene is a curious little mouse who explores magic places and discovers new worlds. Through the adventures of Ene, I hope to teach bilingual words (Spanish-Englis) on different topics. 
 I am working on these books in collaboration with [Cecilia La Rosa](https://www.instagram.com/cecilialarosa.ilus/) (Illustrator).
