@@ -19,9 +19,14 @@ The project started in 2013, and I have now entered the 10th year collecting mom
  <a href="#2018">Year 2018</a>  -- <a href="#2019">Year 2019</a>  -- <a href="#2020">Year 2020</a> -- <a href="#2021">Year 2021</a>--  <a href="#2022">Year 2022</a> 
 </center>
 
+ 
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/map.jpg" title="Krakow" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-  ![]({{site.baseurl}}/assets/img/map.jpg)
-  
+
 <br>
 
 <hr>
@@ -30,7 +35,7 @@ The project started in 2013, and I have now entered the 10th year collecting mom
 <br>
 
 <h1 id="2022"> </h1>
-### Project 365 2022:    [Photos here](https://sites.google.com/view/project365-2013) 
+### Project 365 2022:    [Photos here](https://sites.google.com/view/project365-2022) 
 
 <br>
 
