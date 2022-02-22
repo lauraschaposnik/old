@@ -5,8 +5,18 @@ layout: default
 <!-- about.html -->
       <div class="post">
         <style>
-          body {
-            background-image: url('prof_pic.jpg');
+          body::after {
+			content: "";
+			background: url('assets/img/background.webp');
+			background-repeat: no-repeat;
+			background-size: 100%;
+			opacity: 0.3;
+			top: 0;
+			left: 0;
+			bottom: 0;
+			right: 0;
+			position: absolute;
+			z-index: -1;
           }
           </style>
         <p></p>

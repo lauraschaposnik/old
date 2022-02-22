@@ -2,7 +2,7 @@
 layout: page
 title: Travel- 36 Hours in La Plata
 description: 
-img: laplata.png
+img: assets/img/laplata.png
 importance: 1
 category: Travel
 ---
