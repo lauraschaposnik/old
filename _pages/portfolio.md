@@ -10,7 +10,7 @@ heading: Portfolio
 
 <center>
  <a href="#india">India</a>  --  <a href="#vietnam">Vietnam</a> -- <a href="#africa">South Africa</a> -- <a href="#old">Old photos</a>
-<center>
+</center>
 
 <br>
 <hr>
@@ -240,7 +240,7 @@ heading: Portfolio
  
  <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Old/pairs.jpg" title="Luxenbourg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Old/paris.jpg" title="Luxenbourg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
  
