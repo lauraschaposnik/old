@@ -8,7 +8,9 @@ heading: Portfolio
   
  You can find here some of the series of photos I have taken, mostly when traveling. 
 
- <a href="#india">India</a>
+<center>
+ <a href="#india">India</a>  --  <a href="#vietnam">Vietnam</a> -- <a href="#africa">South Africa</a> -- <a href="#old">Old photos</a>
+<center>
 
 <br>
 <hr>
