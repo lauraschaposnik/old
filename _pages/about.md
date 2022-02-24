@@ -23,7 +23,7 @@ My research focuses on the study of the geometry and topology of the moduli spac
 <hr>
 <span style="font-size:15px">
 
-I am in the <b>editorial board</b> of Geometriae Dedicata, and together with Lara B. Anderson we edited a <b>special volume of SIGMA</b> on Hitchin systems.  
+I am on the <b>editorial board</b> of Geometriae Dedicata, and together with Lara B. Anderson we edited a <b>special volume of SIGMA</b> on Hitchin systems.  
 
 <hr>
 <span style="font-size:15px">
