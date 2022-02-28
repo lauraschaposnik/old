@@ -9,6 +9,14 @@
 "Schaposnik Massolo":
   - firstname: ["Fidel I.", "F.I.", "FI"]
     url: https://fidel-schaposnik.github.io/
+    
+"Schaposnik":
+  - firstname: ["Fidel I.", "F.I.", "FI"]
+    url: https://fidel-schaposnik.github.io/
+
+"Hsu": 
+  - firstname: ["Sheryl", "S.", "S"]
+    url: https://primes.mit.edu/
 
 "Biswas": 
   - firstname: ["Indranil", "I.", "I"]
