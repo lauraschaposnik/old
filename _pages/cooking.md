@@ -7,7 +7,7 @@ nav: false
 heading: Cooking
 ---
   
-We like trying new recipies, coming up with our own ones, and making our friends try our cooking! Here are some of our favourites with the photos we took of the dishes -- maybe one day they will turn into a cookbook. And if you are here looking for a cookbook by a Schaposnik, you can look at  <a href="https://sites.google.com/site/schaposnik/libros?authuser=0"><i>"Pato"</i></a> written by father Fidel A. Schaposnik.
+We like trying new recipies, coming up with our own ones, and making our friends try our cooking! Here are some of our favourites with the photos we took of the dishes -- maybe one day they will turn into a cookbook. And if you are here looking for a cookbook by a Schaposnik, you can look at  <a href="https://sites.google.com/site/schaposnik/libros?authuser=0"><i>"Pato" </i></a> written by father Fidel A. Schaposnik.
  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
