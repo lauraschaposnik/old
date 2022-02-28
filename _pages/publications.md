@@ -59,9 +59,8 @@ In a different direction, I am interested in the appearences of  geometric struc
 
 <center>
 <abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('')" style="cursor: pointer;">all</abbr>&ensp;
-<abbr class="{{site.data.badge_colors['yellow']}}" onclick="filterSubject('hep-th')" style="cursor: pointer;">hep-th</abbr>&ensp;
-<abbr class="{{site.data.badge_colors['cyan']}}" onclick="filterSubject('physics.bio-ph')" style="cursor: pointer;">physics.bio-ph</abbr>&ensp;
-<abbr class="{{site.data.badge_colors['green']}}" onclick="filterSubject('cond-mat.stat-mech')" style="cursor: pointer;">cond-mat.stat-mech</abbr>
+<abbr class="{{site.data.badge_colors['cyan']}}" onclick="filterSubject('geometery')" style="cursor: pointer;">geometry</abbr>&ensp;
+<abbr class="{{site.data.badge_colors['green']}}" onclick="filterSubject('applied')" style="cursor: pointer;">applied mathematics</abbr>
 </center>
 
 
