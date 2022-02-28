@@ -10,6 +10,10 @@
   - firstname: ["Fidel I.", "F.I.", "FI"]
     url: https://fidel-schaposnik.github.io/
     
+"Schulz":
+  - firstname: ["Sebastian"]
+    url: https://web.ma.utexas.edu/users/s.schulz/
+    
 "Schaposnik":
   - firstname: ["Fidel I.", "F.I.", "FI"]
     url: https://fidel-schaposnik.github.io/
