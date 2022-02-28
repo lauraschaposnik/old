@@ -18,12 +18,12 @@ My research program is dedicated to the study of the geometry and topology of th
 <br>
 <br>
 
-In a different direction, I am interested in the appearences of  geometric structures and patterns, and in particular symmetries, within different areas of sciences. This secondary side of my research  can be thought of as divided into  three main themes: (A) Patterns and viruses; (B) Patterns within human behaviour; and (C). Patterns within crystals and plants.
+In a different direction, I am interested in the appearences of  geometric structures and patterns, and in particular symmetries, within different areas of sciences. This secondary side of my research  can be thought of as divided into  three main themes:  Patterns and viruses;  Patterns within human behaviour; and Patterns within crystals and plants.
 
 <br>
 <br>
 
-My papers both within geometry as well as on other topics, are listed below in reverse chronological order by year. Note that authors on all of my publications appear alphabetically except in our Nature Scientific Reports paper, where authors are by contribution.
+My <b>45+ pieces<b> both within geometry as well as on other topics are listed below in reverse chronological order by year. Note that authors on all of my publications appear alphabetically except in our Nature Scientific Reports paper, where authors are by contribution.
 Citations to my papers can be found on <a href="https://scholar.google.com/citations?user=5cLd6dIAAAAJ&hl=en">Google Scholar</a>.
 Paper tags are colored as follows:
 <span class="badge badge-danger">journal article</span> <span class="badge badge-primary">conference article</span> <span class="badge badge-warning">editorial work</span> <span class="badge badge-light">manuscript</span> .
