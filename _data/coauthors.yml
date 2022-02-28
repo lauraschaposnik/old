@@ -30,6 +30,14 @@
   - firstname: ["Mengxue", "M.", "M"]
     url: http://homepages.math.uic.edu/~myang59/
 
+"Hausel":
+  - firstname: ["Tamas", "T.", "T"]
+    url: https://ist.ac.at/en/research/hausel-group/
+    
+"Mazzeo":
+  - firstname: ["Rafe", "R.", "R"]
+    url: https://web.stanford.edu/~rmazzeo  
+
 "Heller":
   - firstname: ["Sebastian", "S.", "S"]
     url: https://www.differentialgeometrie.uni-hannover.de/en/institut/personenverzeichnis/pd-dr-sebastian-heller/
@@ -39,7 +47,7 @@
     url: https://math.usask.ca/~rayan/
 
 "Anderson":
-  - firstname: ["Lara B", "L.B.", "LB"]
+  - firstname: ["Lara B.", "L.B.", "LB", "Lara B"]
     url: http://www.phys.vt.edu/~lara137/
 
 "Ang":
