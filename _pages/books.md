@@ -134,7 +134,7 @@ I had the honor of translating the book to Spanish whilst preserving the beautif
 
  <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Books/azul.png" title="stars" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Books/azul.jpg" title="stars" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
