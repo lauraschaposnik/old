@@ -6,7 +6,7 @@ nav: false
 heading: Children books
 ---
 
-In the last few years my priorities and time allocations shifted slightly, and the <i>human development</i> of little bodies that orbit us has taken one of the first sports in my priority list. In an attempt to combine this with my research and the educator inside me,  I decided to start writing and illustrating children books. You can see my work on children's book related to   <a href="#ene">Ene's book series</a>, <a href="#raccoon">Raccoon's book series</a> and <a href="#azul">translation work</a> below.
+In the last few years my priorities and time allocations shifted slightly, and the <i>human development</i> of little bodies that orbit very closely around us has taken one of the first sports in my priority list. In an attempt to combine this with my research and the educator inside me,  I decided to start writing and illustrating children books. You can see my work   related to   <a href="#ene">Ene's book series</a>, <a href="#raccoon">Raccoon's book series</a> and <a href="#azul">translation work</a> below.
 
 <br>
 <hr>
@@ -19,7 +19,7 @@ In the last few years my priorities and time allocations shifted slightly, and t
 <h1 id="ene">Ene and the Magic…  </h1>
  
 
-Ene is a curious little mouse who explores magic places and discovers new worlds. Through the adventures of Ene, I hope to teach bilingual words (Spanish-Englis) on different topics. 
+Ene is a curious little mouse who explores magic places and discovers new worlds. Through the adventures of Ene, I hope to teach bilingual words (Spanish-English) on different topics. 
 I am working on these books in collaboration with [Cecilia La Rosa](https://www.instagram.com/cecilialarosa.ilus/) (Illustrator).
  
 
