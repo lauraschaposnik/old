@@ -12,7 +12,7 @@ profile:
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 socialcontact: true  # includes social icons under photo
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 After receiving my degree of Licenciada en Matemáticas from the University of La Plata (here is a [travel guide to La Plata](https://lauraschaposnik.github.io/laplata/) I wrote), I obtained her DPhil from the University of Oxford under the supervision of [Nigel Hitchin](https://people.maths.ox.ac.uk/hitchin/). I was then a post-doctoral researcher at the University of Heidelberg in [Anna Wiennhard's group](https://www.mathi.uni-heidelberg.de/%7Ewienhard/), and the University of Illinois at Urbana Champaign in [Steve Bradlow's group](https://faculty.math.illinois.edu/%7Ebradlow/bradlow_index2.html).  I moved to Chicago to take up a faculty position at the University of Illinois at Chicago (UIC) in 2015, where I  am currently an Associate Professor.  I live with my [Family](https://lauraschaposnik.github.io/family/) in downtown Chicago. 
