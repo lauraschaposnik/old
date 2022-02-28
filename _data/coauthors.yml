@@ -6,6 +6,10 @@
   - firstname: ["David", "D.", "D"]
     url: http://www.maths.adelaide.edu.au/david.baraglia/
 
+"Schaposnik Massolo":
+  - firstname: ["Fidel I.", "F.I.", "FI"]
+    url: https://fidel-schaposnik.github.io/
+
 "Biswas": 
   - firstname: ["Indranil", "I.", "I"]
     url: https://en.wikipedia.org/wiki/Indranil_Biswas
