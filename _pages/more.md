@@ -11,7 +11,8 @@ children:
       permalink: /books/
     - title: Cooking
       permalink: /cooking/
-      
+    - title: Art
+      permalink: /art/
 ---
 
  

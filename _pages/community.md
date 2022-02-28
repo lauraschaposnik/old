@@ -11,8 +11,6 @@ children:
       permalink: /collaborators/
     - title: Visitors
       permalink: /visitors/
-    - title: Visitors2
-      permalink: /visitors/
 ---
 
  
