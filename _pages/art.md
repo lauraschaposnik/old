@@ -10,7 +10,7 @@ heading: Art
 I grew up in a house full of art, and was taken to museums whenever we had a chance -- and since I was very little I learned art from my aunt <a href="https://www.instagram.com/viviana_schaposnik/?hl=en">Viviana Schaposnik<a/>, who is an artist and architect, and from her daughters <a href="https://scholar.google.com.ar/citations?user=LnpO2GwAAAAJ&hl=es">Clara Gallardo<a/>, an artist and architect too, and <a href="http://www.paulagallardo.it/">Paula Gallardo<a/>, an artist and musician.  
 
 
- When the COVID-19 pandemic started, I found peace in painting. Below you can see some of my <a href="#watercolors">watercolor</a> done following Sarah Cray's   <a href="https://www.letsmakeart.com/">Let's make art</a>,  and some digital art done on Procreate <a href="#digital">digital</a>.
+ When the COVID-19 pandemic started, I found peace in painting. Below you can see some of my <a href="#watercolors">watercolor</a> done following Sarah Cray's   <a href="https://www.letsmakeart.com/">Let's make art</a>,  and some <a href="#digital">digital</a>. art done on Procreate. 
 
 <br>
 <hr>
