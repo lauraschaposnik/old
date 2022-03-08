@@ -53,9 +53,9 @@ function filterSubject(filter) {
 My research program is dedicated to the study of the geometry and topology of the moduli spaces of Higgs bundles, integrable systems and decorated bundles, and the geometric structures they parametrize.   In particular, I am interested in understanding  of branes of Higgs bundles,  dualities within quiver varieties in general, and within generalized hyperpolygons in particular, with views towards applications to the Langlands program for wild Hitchin systems. In a different direction, I am interested in the appearances  of  geometric structures and symmetries within different areas of sciences, which has led to some publications in applied mathematics. You can see my work in each area by clicking on the links below. 
 
 <center>
-<primaryClass class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('')" style="cursor: pointer;">all</primaryClass>&ensp;
-<primaryClass class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('geometry')" style="cursor: pointer;">geometry</primaryClass>&ensp;
-<primaryClass class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('applied')" style="cursor: pointer;">applied mathematics</primaryClass>
+<abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('')" style="cursor: pointer;">all</abbr>&ensp;
+<abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('geometry')" style="cursor: pointer;">geometry</abbr>&ensp;
+<abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('applied')" style="cursor: pointer;">applied mathematics</abbr>
 </center>
 
  
