@@ -18,9 +18,9 @@ function filterSubject(filter) {
   
   // Loop through all rows, hide those which don't match the selected filter
   for (i = 0; i < rows.length; i++) {
-    var primaryClass = rows[i].getElementsByClassName("primaryClass")[0];
-    if (primaryClass) {
-      var txtValue = primaryClass.textContent || primaryClass.innerText;
+    var abbr = rows[i].getElementsByClassName("abbr")[0];
+    if (abbr) {
+      var txtValue = abbr.textContent || abbr.innerText;
       if (txtValue.indexOf(filter) > -1) {
         rows[i].style.display = "";
       } else {
