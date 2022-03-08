@@ -18,7 +18,7 @@ function filterSubject(filter) {
   
   // Loop through all rows, hide those which don't match the selected filter
   for (i = 0; i < rows.length; i++) {
-    var abbr = rows[i].getElementsByClassName("abbr")[0];
+    var abbr = rows[i].getElementsByClassName("primaryClass")[0];
     if (abbr) {
       var txtValue = abbr.textContent || abbr.innerText;
       if (txtValue.indexOf(filter) > -1) {
