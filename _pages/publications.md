@@ -54,7 +54,7 @@ My research program is dedicated to the study of the geometry and topology of th
 
 <center>
 <abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('')" style="cursor: pointer;">all</abbr>&ensp;
-<abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('geometry')" style="cursor: pointer;">geometry</abbr>&ensp;
+<abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('RMS')" style="cursor: pointer;">geometry</abbr>&ensp;
 <abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('applied')" style="cursor: pointer;">interdisciplinary</abbr>
 </center>
 
