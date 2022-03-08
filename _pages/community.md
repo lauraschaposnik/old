@@ -11,6 +11,8 @@ children:
       permalink: /collaborators/
     - title: Visitors
       permalink: /visitors/
+    - title: Media
+      permalink: /media/
 ---
 
  
