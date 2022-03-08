@@ -18,9 +18,9 @@ function filterSubject(filter) {
   
   // Loop through all rows, hide those which don't match the selected filter
   for (i = 0; i < rows.length; i++) {
-    var abbr = rows[i].getElementsByClassName("abbr")[0];
-    if (abbr) {
-      var txtValue = abbr.textContent || abbr.innerText;
+    var primaryClass = rows[i].getElementsByClassName("primaryClass")[0];
+    if (primaryClass) {
+      var txtValue = primaryClass.textContent || primaryClass.innerText;
       if (txtValue.indexOf(filter) > -1) {
         rows[i].style.display = "";
       } else {
@@ -53,9 +53,9 @@ function filterSubject(filter) {
 My research program is dedicated to the study of the geometry and topology of the moduli spaces of Higgs bundles, integrable systems and decorated bundles, and the geometric structures they parametrize.   In particular, I am interested in understanding  of branes of Higgs bundles,  dualities within quiver varieties in general, and within generalized hyperpolygons in particular, with views towards applications to the Langlands program for wild Hitchin systems. In a different direction, I am interested in the appearances  of  geometric structures and symmetries within different areas of sciences, which has led to some publications in applied mathematics. You can see my work in each area by clicking on the links below. 
 
 <center>
-<abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('')" style="cursor: pointer;">all</abbr>&ensp;
-<abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('geometry')" style="cursor: pointer;">geometry</abbr>&ensp;
-<abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('applied')" style="cursor: pointer;">applied mathematics</abbr>
+<primaryClass class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('')" style="cursor: pointer;">all</primaryClass>&ensp;
+<primaryClass class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('geometry')" style="cursor: pointer;">geometry</primaryClass>&ensp;
+<primaryClass class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('applied')" style="cursor: pointer;">applied mathematics</primaryClass>
 </center>
 
  
