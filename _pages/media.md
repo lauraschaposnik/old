@@ -9,7 +9,7 @@ nav: false
 heading: Media
 ---
  
- 
+ My work within geometry as well as on interdisciplinary areas and outreach has been featured in several media outlets. Here you can find a quasi complete list, with information on the topic appearing in the <b>Abs</b> buttons, and links to the media within the title. 
 
 <div id="publicationList" class="publications">
  
