@@ -11,7 +11,8 @@ children:
       permalink: /talks/
     - title: Events
       permalink: /events/
-
+    - title: Media
+      permalink: /media/
 ---
 
  
