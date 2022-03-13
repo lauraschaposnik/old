@@ -43,6 +43,14 @@ You can find below the links to each year's Project Website, as well as a 3 minu
 
 <br>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/January2022.jpeg" title="Project 365 2022" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+ 
+
+
 <hr>
 <span style="font-size:15px">
 <br>
