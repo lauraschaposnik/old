@@ -2,6 +2,10 @@
   - firstname: ["Laura P."]
     url: https://schapos.people.uic.edu/
 
+"Massolo":
+  - firstname: ["Fidel I. Schaposnik"]
+    url: https://fidel-schaposnik.github.io/
+
 "Baraglia":
   - firstname: ["David"]
     url: http://www.maths.adelaide.edu.au/david.baraglia/
@@ -13,10 +17,6 @@
 "Schulz":
   - firstname: ["Sebastian"]
     url: https://web.ma.utexas.edu/users/s.schulz/
-    
-"Schaposnik":
-  - firstname: ["Fidel I.", "F.I.", "FI"]
-    url: https://fidel-schaposnik.github.io/
 
 "Hsu": 
   - firstname: ["Sheryl", "S.", "S"]
