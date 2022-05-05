@@ -3,7 +3,7 @@ layout: page
 permalink: /students/
 title: Students
 description:  
-years: [UIC, PRIMES-MIT]
+years: [UIC, Other]
 nav: false
 heading: Students
 ---
