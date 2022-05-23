@@ -159,7 +159,7 @@ My mother [Patricia Massolo](https://es.wikipedia.org/wiki/Claudia_Patricia_Mass
  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/los4_1990.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/los4_1990.jpeg" title="Family summer in Trieste" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
