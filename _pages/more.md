@@ -13,6 +13,8 @@ children:
       permalink: /cooking/
     - title: Art
       permalink: /art/
+    - title: Woodwork
+      permalink: /woodwork/
 ---
 
  
