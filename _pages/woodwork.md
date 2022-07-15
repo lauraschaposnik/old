@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /books/
+permalink: /woodwork/
 title: Woodwork
 nav: false
 heading: Woodwork
