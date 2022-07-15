@@ -33,8 +33,31 @@ We begun the project trying to plan our ideal "Ikea Hack", and soon realized we 
     </div>
 </div>
 
-Here is how it all started...
-  
+It all started when we bought our family home in June 2022, and had a large room on the second floor which we hope will be our daily play area next to a large office space and a nugget room. 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/woodwork/Ikea1.jpg" title="How the room started" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+We decided to buy the following Billy bookcases and Kallax cubes from Ikea to complement pine wooden frames we made. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/woodwork/buy1.PNG" title="Things we bought" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/woodwork/buy2.PNG" title="Things we bought" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/woodwork/buy3.PNG" title="Things we bought" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+ 
+ 
+ 
+  
+ 
  
 
