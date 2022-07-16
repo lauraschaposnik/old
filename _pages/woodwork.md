@@ -16,7 +16,7 @@ I started doing small woodwork projects as a child, during woodwork projects at 
  
  
  
-<h1 id="ene"> Built in Bookcase  </h1>
+<h1 id="ikea"> Built in Bookcase  </h1>
  
 We begun the project trying to plan our ideal "Ikea Hack", and soon realized we needed something much more sturdy and resilient for our 3 meter high ceilings, so we ended up with a mixture of solid frames and Ikea objects. We made the built-in bookcase together with my husband <a href="https://jamesunwin.github.io/">James Unwin </a> and it took us about 60 hours, and we are so happy with the final product!
  
@@ -105,4 +105,14 @@ The final details are what made the builtin look amazing when finished, so we le
         {% include figure.html path="assets/img/woodwork/Ikea14.jpg" title="James learning new skills" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<br>
+<hr>
+<span style="font-size:15px">
+<br>
+
+ 
+ 
+ 
+<h1 id="toys"> Wooden Toys  </h1>
 
