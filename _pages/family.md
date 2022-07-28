@@ -22,7 +22,7 @@ My husband [James A. Unwin](https://unwin.people.uic.edu/James_Unwin.html) is a 
 <span style="font-size:15px">
  
 
-Our first son, <b>Nikolay Andrew Unwin Schaposnik</b>, was born on August 22 2018; 
+Our first son, <b>Nikolay Andrew Unwin Schaposnik</b>, was born in 2018; 
 
  
 <div class="row">
@@ -78,7 +78,7 @@ Our first son, <b>Nikolay Andrew Unwin Schaposnik</b>, was born on August 22 201
 <span style="font-size:15px">
  
 
-Our second son, <b>Alexander Ivan Unwin Schaposnik</b>, was born on October 8 2020.
+Our second son, <b>Alexander Ivan Unwin Schaposnik</b>, was born in 2020.
 
  
 <div class="row">
