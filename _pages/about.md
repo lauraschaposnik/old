@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Associate Professor</b> of <a href="https://mscs.uic.edu">Mathematics, Statistics, and Computer Science</a>, University of Illinois Chicago
+subtitle: <b>Professor</b> of <a href="https://mscs.uic.edu">Mathematics, Statistics, and Computer Science</a>, University of Illinois Chicago
 
 profile:
   align: right
