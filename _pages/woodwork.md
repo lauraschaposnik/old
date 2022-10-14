@@ -22,7 +22,7 @@ We begun the project trying to plan our ideal "Ikea Hack", and soon realized we 
  
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/woodwork/IkeaFinal1.jpg" title="Final built in" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/woodwork/IkeaFinal1.jpg" title="Final built in" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -35,7 +35,7 @@ It all started when we bought our family home in June 2022, and had a large room
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/woodwork/Ikea13.jpg" title="How the room started" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/woodwork/Ikea13.jpg" title="How the room started" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -43,7 +43,7 @@ After some drafting we decided to buy the following Billy bookcases and Kallax c
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/woodwork/comp.jpg" title="Final built in" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/woodwork/comp.jpg" title="Final built in" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -51,13 +51,13 @@ Here is a list of what we bought.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/woodwork/buy2.jpg" title="Things we bought" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/woodwork/buy2.jpg" title="Things we bought" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/woodwork/buy3.jpg" title="Things we bought" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/woodwork/buy3.jpg" title="Things we bought" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
         <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/woodwork/buy1.jpg" title="Things we bought" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/woodwork/buy1.jpg" title="Things we bought" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
  
@@ -66,13 +66,13 @@ Here is a list of what we bought.
   
  <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/woodwork/Ikea3.jpg" title="Our new tools" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/woodwork/Ikea3.jpg" title="Our new tools" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/woodwork/Ikea4.jpg" title="Getting things together" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/woodwork/Ikea4.jpg" title="Getting things together" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/woodwork/Ikea8.jpg" title="James learning new skills" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/woodwork/Ikea8.jpg" title="James learning new skills" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
  
@@ -82,13 +82,13 @@ Here is a list of what we bought.
  
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/woodwork/Ikea5.jpg" title="Our new tools" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/woodwork/Ikea5.jpg" title="Our new tools" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/woodwork/Ikea11.jpg" title="Getting things together" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/woodwork/Ikea11.jpg" title="Getting things together" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/woodwork/Ikea12.jpg" title="James learning new skills" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/woodwork/Ikea12.jpg" title="James learning new skills" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -96,13 +96,13 @@ The final details are what made the builtin look amazing when finished, so we le
 
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/woodwork/Ikea6.jpg" title="Our new tools" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/woodwork/Ikea6.jpg" title="Our new tools" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/woodwork/Ikea7.jpg" title="Getting things together" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/woodwork/Ikea7.jpg" title="Getting things together" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/woodwork/Ikea14.jpg" title="James learning new skills" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/woodwork/Ikea14.jpg" title="James learning new skills" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
