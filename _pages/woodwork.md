@@ -116,3 +116,4 @@ The final details are what made the builtin look amazing when finished, so we le
  
 <h1 id="toys"> Wooden Toys  </h1>
 
+I have started making wooden toys with some mathematical inspiration (to teach about series, sums, products, squares). I'll be uploading photos of any successful toy  in the future - likely once we are back in Chicago after our year away. 
