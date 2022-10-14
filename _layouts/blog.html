@@ -1,0 +1,53 @@
+---
+layout: default
+---
+<style>
+  @media only screen and (max-width: 576px) {
+    #mobile{
+    width: 100%;
+    }
+  }
+
+  table td, table td * {
+    vertical-align: top;
+  }
+</style>
+
+<div class="post">
+
+  <header class="post-header">
+    <br>
+    <h1 class="post-title">{{ page.heading }}</h1>
+    <p class="post-description">{{ page.description }}</p>
+  </header>
+
+  <article>
+    {{ content }}
+    
+    
+     {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+          <!-- <h3> -->
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+          <!-- </h3> -->
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+  
+  
+  </article>
+
+</div>
