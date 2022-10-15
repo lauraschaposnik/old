@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: higgs bundles, geometry  # add your own keywords or leave empty
+keywords: higgs bundles, geometry, mathematical physics, branes, spectral data, Langlands program, mirror symmetry, children books, math books  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 url: https://lauraschaposnik.github.io # the base hostname & protocol for your site
@@ -55,7 +55,7 @@ github_username: lauraschaposnik
 gitlab_username: # your GitLab user name
 twitter_username: SchaposnikLaura
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: 5cLd6dIAAAAJ&hl # your Google Scholar ID
 orcid_id: 0000-0003-1417-2201 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -67,6 +67,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
+instagram_id: lauraschaposnik
 
 contact_note: ># ESTO VA ABAJO DE LOS ICONOS SOCIALES
 
