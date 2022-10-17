@@ -5,13 +5,17 @@ date: 2022-10-17 21:01:00
 description: A conversation with Prof. Rafe Mazzeo (Stanford University)
 tags: formatting images
 categories: What Will We
-youtube: https://www.youtube.com/embed/YlwkH_5BsMM
 ---
 
 
 <blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
+    I became very conscious of the beauty of the interactions of maths with physics and more applied areas of mathematics. 
+    —Rafe Mazzeo
+</blockquote>
+
+<blockquote>
+    I want to be more conscious about where it is worth to travel to. 
+    —Rafe Mazzeo
 </blockquote>
 
 
