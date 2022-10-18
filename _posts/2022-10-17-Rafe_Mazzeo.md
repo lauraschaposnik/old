@@ -14,7 +14,7 @@ categories: What Will We
 </blockquote>
 
 <blockquote>
-    I want to be more conscious about where it is worth to travel to. 
+Think more about where it is worth travelling
     —Rafe Mazzeo
 </blockquote>
 
