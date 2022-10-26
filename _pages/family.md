@@ -170,7 +170,7 @@ My mother [Patricia Massolo](https://es.wikipedia.org/wiki/Claudia_Patricia_Mass
 <hr>
 <span style="font-size:15px">
 
-I'm part of the [https://joinallofus.org/](All of Us) project and this is part of what my genomics data.  
+I'm part of the [All of Us](https://joinallofus.org/) project and this is part of what my genomics data.  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
