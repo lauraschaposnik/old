@@ -167,5 +167,17 @@ My mother [Patricia Massolo](https://es.wikipedia.org/wiki/Claudia_Patricia_Mass
 </div>
 
 
+<hr>
+<span style="font-size:15px">
 
+I'm part of the [https://joinallofus.org/](All of Us) project and this is part of what my genomics data.  
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/background.PNG" title="Where I come from" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+All of Us project. 
+</div>
 
