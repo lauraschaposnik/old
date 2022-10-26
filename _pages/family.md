@@ -174,7 +174,7 @@ I'm part of the [All of Us](https://joinallofus.org/) project and this is part o
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/background.PNG" title="Where I come from" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/background.JPEG" title="Where I come from" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
