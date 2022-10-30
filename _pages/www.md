@@ -8,12 +8,10 @@ heading: What Will We
 
 
 <br>
-
- <div class="header-bar">
+ 
  
     <h2>What Will We</h2>
-  </div>
-
+    
 <br>
 
 What Will We… do the same? Or perhaps change? 
