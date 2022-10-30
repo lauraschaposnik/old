@@ -69,10 +69,7 @@ In this series of interviews with mathematicians (and scientists) from around th
 
   {% include pagination.html %}
 
-</div>
-
-<br>
-
+ 
    
 
 
