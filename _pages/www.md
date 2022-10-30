@@ -10,10 +10,11 @@ heading: What Will We
 <br>
 
  <div class="header-bar">
-    <h1>What Will We</h1>
-    <h2>{{ learning from each other}}</h2>
+ 
+    <h2>What Will We</h2>
   </div>
 
+<br>
 
 What Will We… do the same? Or perhaps change? 
 
