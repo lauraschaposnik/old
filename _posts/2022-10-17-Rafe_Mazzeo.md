@@ -7,20 +7,21 @@ tags: travel education seminars
 categories: www
 ---
 
-We spent some time talking to Prof.Rafe Mazzeo from Stanford University, for whom the whom the interactions between mathematics and sciences became more compelling.
+We spent some time talking to Prof.Rafe Mazzeo from Stanford University, for whom the  interactions between mathematics and sciences became more compelling during the last years.
 
 <blockquote>
-    I became very conscious of the beauty of the interactions of maths with physics and more applied areas of mathematics. 
+    I became very conscious of the beauty of the interactions of maths with physics, and also with more applied areas of mathematics. 
     —Rafe Mazzeo
 </blockquote>
 
- Prof. Mazzeo hopes we will all remain more conscious about our air footprint, and is thankful the online education platforms and styles have developed so much, since they are here to stay. 
+Prof. Mazzeo hopes scientists might have become more conscious about their air footprint, and is thankful the online education platforms and styles have developed so much, since he believes they are here to stay. 
  
 <blockquote>
-Think more about where it is worth traveling
+As scientists who travel a lot for work, we'll likely be thinking more about where it is worth traveling to. 
     —Rafe Mazzeo
 </blockquote>
 
+The conversation with Prof. Mazzeo appears in the link below. 
 
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
 	<object data="https://www.youtube.com/embed/YlwkH_5BsMM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
