@@ -8,10 +8,12 @@ heading: What Will We
 
 
 <br>
-  <hr>
-<span style="font-size:15px">
- 
-<h2>What Will We</h2>
+   
+
+  <div class="header-bar">
+    <h2>{{ What Will We }}</h2>
+  </div>
+    
     
 <br>
 
