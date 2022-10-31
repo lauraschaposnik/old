@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: default
 permalink: /www/
 title: What Will We
 nav: false
