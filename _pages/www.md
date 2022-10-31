@@ -65,6 +65,8 @@ In this series of interviews with mathematicians (and scientists) from around th
     {% endfor %}
   </ul>
 
+    <p class="rss-subscribe">subscribe <a href="https://www.youtube.com/c/LauraSchaposnik/channels">via YouTube Channel </a></p>
+
   {% include pagination.html %}
 
  
