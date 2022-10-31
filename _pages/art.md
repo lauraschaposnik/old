@@ -22,10 +22,41 @@ I grew up in a house full of art, and was taken to museums whenever we had a cha
  
 <h1 id="watercolor"> Watercolor  </h1>
  
+ <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+ {% include figure.html path="assets/img/Birds2022/Bird10.png" title="Berkeley Bird" class="img-fluid rounded z-depth-1" zoomable=true %}    </div>
+    <div class="col-sm mt-3 mt-md-0">
+ {% include figure.html path="assets/img/Birds2022/Bird14.png" title="Berkeley Bird" class="img-fluid rounded z-depth-1" zoomable=true %}    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Birds2022/Bird15.png" title="Berkeley Bird" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+2022 Birds whilst visiting Berkeley in collaboration with Nikolay, who made the backgrounds for the birds. 
+</div>
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Books/bird1.jpeg" title="bird" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    Pandemic watercolor following Let's make art's tutorials.
+</div>
+
+
+ <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+ {% include figure.html path="assets/img/Birds2022/Bird1.png" title="Berkeley Bird" class="img-fluid rounded z-depth-1" zoomable=true %}    </div>
+    <div class="col-sm mt-3 mt-md-0">
+ {% include figure.html path="assets/img/Birds2022/Bird2.png" title="Berkeley Bird" class="img-fluid rounded z-depth-1" zoomable=true %}    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Birds2022/Bird3.png" title="Berkeley Bird" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+2022 Birds whilst visiting Berkeley
 </div>
 
 <div class="row">
@@ -33,6 +64,53 @@ I grew up in a house full of art, and was taken to museums whenever we had a cha
         {% include figure.html path="assets/img/Books/bird2.jpeg" title="bird" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    Pandemic watercolor following Let's make art's tutorials.
+</div>
+
+ <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+ {% include figure.html path="assets/img/Birds2022/Bird4.png" title="Berkeley Bird" class="img-fluid rounded z-depth-1" zoomable=true %}    </div>
+    <div class="col-sm mt-3 mt-md-0">
+ {% include figure.html path="assets/img/Birds2022/Bird5.png" title="Berkeley Bird with Alex's hand vanishing" class="img-fluid rounded z-depth-1" zoomable=true %}    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Birds2022/Bird9.png" title="Berkeley Bird with Niko's background" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+2022 Birds whilst visiting Berkeley - in collaboration with Alexander and Nikolay. 
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Birds2022/Bird8.png" title="Kiwi" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+My first attempt at a Kiwi following James' request and comments</div>
+
+<br>
+<hr>
+<span style="font-size:15px">
+<br>
+
+
+ <h1 id="digital"> ATCs  </h1>
+ 
+Artist trading cards (ATCs) are miniature pieces of art that are traded around the world. Artists create, trade and collect art at organized "swap" events, either in person or online. The only official rule for ATCs is the size: 2.5" x 3.5".
+
+(https://www.strathmoreartist.com/cards-atc.html)[How did the movement start?]
+``In 1997, M. Vanci Stirnemann, a Swiss artist, created 1200 cards by hand as part of an exhibit. On the last day, he invited others to create their own cards and trade with him during the closing reception. The movement took off, and today, there are ATC swaps in almost every major city around the world. There are also many online swaps.''
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Birds2022/Bird7.png" title="Kiwi" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+My first attempt at creating an ATC. </div>
+
 
 <br>
 <hr>
