@@ -100,7 +100,7 @@ My first attempt at a Kiwi following James' request and comments</div>
  
 Artist trading cards (ATCs) are miniature pieces of art that are traded around the world. Artists create, trade and collect art at organized "swap" events, either in person or online. The only official rule for ATCs is the size: 2.5" x 3.5".
 
-[How did the movement start?](https://www.strathmoreartist.com/cards-atc.html)
+<a href="https://www.strathmoreartist.com/cards-atc.html"> How did the movement start?</a>
 ``In 1997, M. Vanci Stirnemann, a Swiss artist, created 1200 cards by hand as part of an exhibit. On the last day, he invited others to create their own cards and trade with him during the closing reception. The movement took off, and today, there are ATC swaps in almost every major city around the world. There are also many online swaps.''
 
 <div class="row">
