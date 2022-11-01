@@ -18,8 +18,44 @@ I grew up in a house full of art, and was taken to museums whenever we had a cha
 <br>
 
  
+ <h1 id="AI art"> AI inspired art  </h1>
+
+
+<a href="https://openai.com/dall-e-2/">DALL·E 2</a> <i> is a new AI system that can create realistic images and art from a description in natural language. </i> I have recently started investigating the different results one can gate through varied prompts, and then finishing or editing the illustrations using <a href="https://procreate.art/">Procreate</a>. In particular, I've been interested in creating different types of vintage patterns that can be used for home design. 
  
- 
+ <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+ {% include figure.html path="assets/img/patterns/pattern1.png" title="AI vintage patern" class="img-fluid rounded z-depth-1" zoomable=true %}    </div>
+    <div class="col-sm mt-3 mt-md-0">
+ {% include figure.html path="assets/img/patterns/pattern5.png" title="AI vintage patern" class="img-fluid rounded z-depth-1" zoomable=true %}    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/patterns/pattern9.png" title="AI vintage patern" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+Patterns available in <a href="https://www.spoonflower.com/profiles/schapospublishing?sub_action=designs">Spoonflower</a> </div>
+
+Here are some of the things one can make. 
+  
+ <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+ {% include figure.html path="assets/img/patterns/pattern15.png" title="AI vintage patern" class="img-fluid rounded z-depth-1" zoomable=true %}    </div>
+    <div class="col-sm mt-3 mt-md-0">
+ {% include figure.html path="assets/img/patterns/pattern17.png" title="AI vintage patern" class="img-fluid rounded z-depth-1" zoomable=true %}    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/patterns/pattern18.png" title="AI vintage patern" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+Patterns available in <a href="https://www.spoonflower.com/profiles/schapospublishing?sub_action=designs">Spoonflower</a> </div>
+
+
+
+ <br>
+<hr>
+<span style="font-size:15px">
+<br>
+
 <h1 id="watercolor"> Watercolor  </h1>
  
  <div class="row">
