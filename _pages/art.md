@@ -10,7 +10,7 @@ heading: Art
 I grew up in a house full of art, and was taken to museums whenever we had a chance -- and since I was very little I learned art from my aunt <a href="https://www.instagram.com/viviana_schaposnik/?hl=en">Viviana Schaposnik<a/>, who is an artist and architect, and from her daughters <a href="https://scholar.google.com.ar/citations?user=LnpO2GwAAAAJ&hl=es">Clara Gallardo<a/>, an artist and architect too, and <a href="http://www.paulagallardo.it/">Paula Gallardo<a/>, an artist and musician.  
 
 
- When the COVID-19 pandemic started, I found peace in painting. Below you can see some of my <a href="#watercolors">watercolor</a> done following Sarah Cray's   <a href="https://www.letsmakeart.com/">Let's make art</a>,  and some <a href="#digital">digital</a>. art done on Procreate. 
+ When the COVID-19 pandemic started, I found peace in painting. Below you can see some of my <a href="#watercolors">watercolor</a> done following Sarah Cray's   <a href="https://www.letsmakeart.com/">Let's make art</a>,  and some <a href="#digital">digital</a> art done on Procreate. Finally, I've recently started experimenting with <a href="#AIart">AI inspired art</a>. 
 
 <br>
 <hr>
@@ -18,7 +18,7 @@ I grew up in a house full of art, and was taken to museums whenever we had a cha
 <br>
 
  
- <h1 id="AI art"> AI inspired art  </h1>
+ <h1 id="AIart"> AI inspired art  </h1>
 
 
 <a href="https://openai.com/dall-e-2/">DALL·E 2</a> <i> is a new AI system that can create realistic images and art from a description in natural language. </i> I have recently started investigating the different results one can gate through varied prompts, and then finishing or editing the illustrations using <a href="https://procreate.art/">Procreate</a>. In particular, I've been interested in creating different types of vintage patterns that can be used for home design. 
