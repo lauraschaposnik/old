@@ -7,7 +7,7 @@ tags: travel education seminars
 categories: www
 ---
 
-We spent some time talking to Prof.Rafe Mazzeo from Stanford University, for whom the  interactions between mathematics and sciences became more compelling during the last years.
+We spent some time talking to Prof. Rafe Mazzeo from Stanford University, for whom the  interactions between mathematics and sciences became more compelling during the last years.
 
 <blockquote>
     I became very conscious of the beauty of the interactions of maths with physics, and also with more applied areas of mathematics. 
