@@ -27,8 +27,11 @@ Researchers have studied <i>  job  satisfaction  of academics in times of transf
 Over the years we learn to appreciate collaborations, interactions between areas of mathematics and the physicality of our jobs. 
 </blockquote>
  
+ Already some decades ago researchers were considering different factors that could influence the success of online (or distance) learning <a href="https://doi.org/10.1108/09513540010344731"><b>[2000]</b></a>, and the last couple of years might have been the transformation period needed for online education to be popularized and finally <i> be here to stay</i>. 
 
-
+ <blockquote> 
+Online education is here to stay, and we are quickly learning how to make the most of it. 
+</blockquote>
 
   <ul class="post-list">
     {% for post in paginator.posts %}
@@ -78,8 +81,9 @@ Over the years we learn to appreciate collaborations, interactions between areas
    
 There are a number of resources that have inspired or been used in this notebook, some of which are cited along the way. They are also collected here for reference purposes:
 
+- <b>[2000] </b> Volery, T. and Lord, D. (2000), "Critical success factors in online education", International Journal of Educational Management, Vol. 14 No. 5, <a href="https://doi.org/10.1108/09513540010344731">https://doi.org/10.1108/09513540010344731</a>
+
 
 - <b>[2006] </b> S. Schulze, "Factors influencing the job satisfaction of academics in higher education", <i>Higher Education South Africa (HESA)</i>, 2006 <a href="https://doi.org/10.10520/EJC37233">https://doi.org/10.10520/EJC37233</a>. 
 
-- <b>[2000] </b> Volery, T. and Lord, D. (2000), "Critical success factors in online education", International Journal of Educational Management, Vol. 14 No. 5, <a href="https://doi.org/10.1108/09513540010344731">https://doi.org/10.1108/09513540010344731</a>
 
