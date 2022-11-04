@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 permalink: /mme/
 title: The Math Map Experiment 
 nav: false
