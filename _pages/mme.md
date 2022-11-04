@@ -41,4 +41,23 @@ Which mathematical world maps can we arrive at if we think collectively? As scie
 Starting images
 </div>
 
+<br>
+
+<b>The evolving map. </b> We  started passing along the map in November 2022. We will try and keep this site updated -- and in the meanwhile, if you'd like to contribute to the experiment, please reach out to schapos@uic.edu. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/start1.1.1.png" title="The first evolutions" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+
+<br>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/start2.1.png" title="The first evolutions" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<br>
 
