@@ -33,6 +33,22 @@ Over the years we learn to appreciate collaborations, interactions between areas
 Online education is here to stay, and we are quickly learning how to make the most of it. 
 </blockquote>
 
+That said, whilst the peak interest in an <i> online degree </i> was reached in August 2020 during the COVID-19 pandemic, it would seem the interest is reaching a 5-year low in 2022 and 
+
+
+<br>
+
+ 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Cooking/coco.jpeg" title="Tarta de Coco" class="img-fluid rounded z-depth-1" %}
+    </div>
+     </div>
+
+<br>
+ 
+
+
   <ul class="post-list">
     {% for post in paginator.posts %}
 
