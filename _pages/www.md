@@ -30,7 +30,7 @@ Over the years we learn to appreciate collaborations, interactions between areas
  Already some decades ago researchers were considering different factors that could influence the success of online (or distance) learning <a href="https://doi.org/10.1108/09513540010344731"><b>[2000]</b></a>, and the last couple of years might have been the transformation period needed for online education to be popularized and finally <i> be here to stay</i>. 
 
  <blockquote> 
-Online education is here to stay, and we are quickly learning how to make the most of it. 
+Online education is here to stay, and we are quickly learning how to make the most of it both for research and for education. 
 </blockquote>
 
 That said, whilst the peak interest in an <i> online degree </i> was reached in August 2020 during the COVID-19 pandemic, it would seem the interest is reaching a <a href="https://trends.google.com">5-year low in 2022</a> and thus the "online education" that is here to stay should be thought as some kind of well balanced hybrid academic setting which makes the most of both the online and in person worlds. 
@@ -45,9 +45,8 @@ That said, whilst the peak interest in an <i> online degree </i> was reached in 
     </div>
      </div>
 
-<br>
- 
-
+ <br>
+ <br>
 
   <ul class="post-list">
     {% for post in paginator.posts %}
