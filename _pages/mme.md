@@ -26,3 +26,23 @@ Which mathematical world maps can we arrive at if we think collectively? As scie
 
 <b>The experiment. </b> We will start with an image of a mathematical object, and at each stage, each researcher will be adding a linked concept and a short explanation. This could be a related object,  a result, a correspondence, an open question. As the map grows, more possibilities appear for the next researchers to connect to -- the updated posters will be included here below, with a summarized visual description of how they grew, and a list of relevant sources for those interested in sections of the map.  
 
+<br>
+
+<b>The starting images. </b> We will begin the experiment by considering the three images shown below. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/start1.png" title="Starting image - what does it make you think about?" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/start2.png" title="Starting image - what does it make you think about?" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/start3.png" title="Starting image - what does it make you think about?" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+Starting images
+</div>
+
+
