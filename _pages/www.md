@@ -21,7 +21,7 @@ Since early 2020 scientists across the world begun changing the way they approac
 
 In this series of interviews with mathematicians (and scientists) from around the world, we look at what habits they have developed in the last years which they will nurture in the future, and which activities they think will no longer deserve their time or attention. We will learn from each other with hopes of making our academic life each day more enjoyable and stimulating, and at the same time give a glimpse of why each of us wakes up every morning wanting do do science. 
   
-Researchers have studied <i>  job  satisfaction  of academics in times of transformation </i> from different perspectives -- some decades ago, for instance, academics in South Africa  from departments at a residential and a distance education institution were asked to answer a survey with hopes of identifying factors causing satisfaction and dissatisfaction  and, among other findings, significant correlations between job satisfaction and physical conditions and support  were determined <b>[2006]</b>. In the current times of transformation, among mathematicians we notice a similar perception of sources of satisfaction within an academic job. 
+Researchers have studied <i>  job  satisfaction  of academics in times of transformation </i> from different perspectives -- some decades ago, for instance, academics in South Africa  from departments at a residential and a distance education institution were asked to answer a survey with hopes of identifying factors causing satisfaction and dissatisfaction  and, among other findings, significant correlations between job satisfaction and physical conditions and support  were determined <b> <a href="https://doi.org/10.10520/EJC37233">[2006]</a></b>. In the current times of transformation, among mathematicians we notice a similar perception of sources of satisfaction within an academic job. 
   
  <blockquote> 
 Over the years we learn to appreciate collaborations, interactions between areas of mathematics and the physicality of our jobs. 
@@ -74,7 +74,7 @@ Over the years we learn to appreciate collaborations, interactions between areas
   {% include pagination.html %}
 
  
-   ### <a id="conclusions_resources"> Resources and acknowledgements</a>
+<h3> <a id="conclusions_resources"> Resources and acknowledgements</a></h3>
    
 There are a number of resources that have inspired or been used in this notebook, some of which are cited along the way. They are also collected here for reference purposes:
 
