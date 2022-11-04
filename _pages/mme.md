@@ -7,11 +7,7 @@ heading: The Math Map Experiment
 ---
 
 
-<br>
-   
-<h2> The Math Map Experiment </h2>
-     
-    
+
 <br>
 
 Which mathematical world maps can we arrive at if we think collectively? As scientists we are constantly interacting with our peers, being inspired by others' ideas, and inspiring ourselves with lines of research. But how do our thoughts and perceptions of mathematics shape the directions in which we do research, and how does our surroundings provide a frame in which to classify the importance of research questions and results? 
