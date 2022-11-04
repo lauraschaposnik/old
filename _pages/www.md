@@ -81,3 +81,5 @@ There are a number of resources that have inspired or been used in this notebook
 
 - <b>[2006] </b> S. Schulze, "Factors influencing the job satisfaction of academics in higher education", <i>Higher Education South Africa (HESA)</i>, 2006 <a href="https://doi.org/10.10520/EJC37233">https://doi.org/10.10520/EJC37233</a>. 
 
+- <b>[2000] </b> Volery, T. and Lord, D. (2000), "Critical success factors in online education", International Journal of Educational Management, Vol. 14 No. 5, <a href="https://doi.org/10.1108/09513540010344731">https://doi.org/10.1108/09513540010344731</a>
+
