@@ -13,8 +13,7 @@ children:
       permalink: /collaborators/
     - title: Visitors
       permalink: /visitors/
-    -title: Math Map Experiment
-      permalink: /mme/
+
 ---
 
  
