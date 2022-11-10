@@ -46,9 +46,7 @@ That said, whilst the peak interest in an <i> online degree </i> was reached in 
  
 <h2> Interviews </h2>
 
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Interviews" }}</h2>
-    <ul class="post-list">
+      <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
           <!-- <h3> -->
@@ -57,11 +55,7 @@ That said, whilst the peak interest in an <i> online degree </i> was reached in 
           </a>
           <!-- </h3> -->
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-        
+        <span class="post-meta">{{ post.date | date: date_format }}</span>      
         
         <span id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
 	<object data="{{post.youtube}}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
@@ -72,10 +66,7 @@ That said, whilst the peak interest in an <i> online degree </i> was reached in 
       {%- endfor -%}
     </ul>
     <p class="rss-subscribe">subscribe <a href="https://www.youtube.com/c/LauraSchaposnik">via YouTube Channel </a></p>
-  {%- endif -%}
-
-
-  {% include pagination.html %}
+ 
 <br>
  
 <h3> <a id="conclusions_resources"> Resources and acknowledgements</a></h3>
