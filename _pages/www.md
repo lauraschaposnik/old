@@ -50,7 +50,7 @@ That said, whilst the peak interest in an <i> online degree </i> was reached in 
       {%- for post in site.posts -%}
       <li>
           <!-- <h3> -->
-          <a class="post-link" href="{{ post.url | relative_url }}">
+          <a class="post-link" href="{{ post.place}}">
             {{ post.title | escape }}
           </a>
           <!-- </h3> -->
