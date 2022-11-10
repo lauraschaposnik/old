@@ -13,6 +13,8 @@ children:
       permalink: /events/
     - title: Media
       permalink: /media/
+    - title: Math Map Experiment
+      permalink: /mme/
 ---
 
  
