@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 permalink: /www/
 title: What Will We
 nav: false
@@ -46,7 +46,9 @@ That said, whilst the peak interest in an <i> online degree </i> was reached in 
      </div>
 
  <br>
- <br>
+ 
+<h2> Interviews </h2>
+
 
   <ul class="post-list">
     {% for post in paginator.posts %}
