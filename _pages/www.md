@@ -44,15 +44,50 @@ That said, whilst the peak interest in an <i> online degree </i> was reached in 
 
  <br>
  
+ <hr>
+<span style="font-size:15px">
+
 <h2> Interviews </h2>
 
-<a href="" > Prof. Rafe Mazzeo (</a>
+ 
+
+<a href="https://lauraschaposnik.com/Mazzeo/" > Interview with Prof. Rafe Mazzeo (Stanford University) </a>
+
+<div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
+	<object data="https://www.youtube.com/embed/EtMYl0Q15C0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
+</div> 
+
+<br>
+
+<hr>
+<span style="font-size:15px">
+<br>
+<a href="https://lauraschaposnik.com/Moraru/" > Interview with Prof. Ruxandra Moraru (University of Waterloo) </a>
+
+<div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
+	<object data="https://www.youtube.com/embed/Ht4fKXVi7ts" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
+</div> 
+
+<br>
+
+<hr>
+<span style="font-size:15px">
+<br>
+
+<a href="https://lauraschaposnik.com/McDuff/" > Interview with Prof. Dusa McDuff (Barnard College)</a>
+
+
+<div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
+	<object data="https://www.youtube.com/embed/NAauuZfLeSU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
+</div> 
+
 
 
     
 Subscribe <a href="https://www.youtube.com/c/LauraSchaposnik">via YouTube Channel </a>
  
-<br>
+<hr>
+<span style="font-size:15px">
  
 <h3> <a id="conclusions_resources"> Resources and acknowledgements</a></h3>
    
