@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Prof. Ruxandra Moraru (University of Waterloo)
+permalink: /Moraru/
 date:   2022-10-19 16:40:16
 description:  A conversation with Prof. Ruxandra Moraru (University of Waterloo)
 tags: collaborations discoveries creativity

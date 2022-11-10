@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Prof. Dusa McDuff (Barnard College)
+permalink: /McDuff/
 date:   2022-10-16 16:40:16
 description:  A conversation with Prof.  Dusa McDuff (Barnard College)
 tags: collaborations travel family

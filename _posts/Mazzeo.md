@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /Mazzeo/
 title:  Prof. Rafe Mazzeo (Stanford University)
 date: 2022-10-17 21:01:00
 description: A conversation with Prof. Rafe Mazzeo (Stanford University)
