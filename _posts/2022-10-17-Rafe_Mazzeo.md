@@ -4,6 +4,7 @@ title:  Prof. Rafe Mazzeo (Stanford University)
 date: 2022-10-17 21:01:00
 description: A conversation with Prof. Rafe Mazzeo (Stanford University)
 tags: travel education seminars
+youtube: https://www.youtube.com/embed/EtMYl0Q15C0
 categories: www
 ---
 

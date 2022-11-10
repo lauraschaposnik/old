@@ -3,7 +3,6 @@ layout: blog
 permalink: /www/
 title: What Will We
 nav: false
-youtube: https://www.youtube.com/embed/EtMYl0Q15C0
 heading: What Will We
 ---
 
