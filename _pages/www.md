@@ -42,19 +42,19 @@ That said, whilst the peak interest in an <i> online degree </i> was reached in 
     </div>
      </div>
 
- <br>
+ </br>
  
  
-<h3> Subscribe <a href="https://www.youtube.com/c/LauraSchaposnik">via YouTube Channel </a></h3>
+
  
-      <br>
+ 
 
  <hr>
 <span style="font-size:15px">
 
 <h2> Interviews </h2>
 
- 
+ </br>
 
 <h3><a href="https://lauraschaposnik.com/Mazzeo/" > Interview with Prof. Rafe Mazzeo (Stanford University) </a></h3>
 
@@ -100,5 +100,8 @@ There are a number of resources that have inspired or been used in this notebook
 
 
 - <b>[2006] </b> S. Schulze, "Factors influencing the job satisfaction of academics in higher education", <i>Higher Education South Africa (HESA)</i>, 2006 <a href="https://doi.org/10.10520/EJC37233">https://doi.org/10.10520/EJC37233</a>. 
+
+</br>
+<h2> Subscribe <a href="https://www.youtube.com/c/LauraSchaposnik">via YouTube Channel </a></h2>
 
 
