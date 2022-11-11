@@ -44,6 +44,11 @@ That said, whilst the peak interest in an <i> online degree </i> was reached in 
 
  <br>
  
+ 
+<h3> Subscribe <a href="https://www.youtube.com/c/LauraSchaposnik">via YouTube Channel </a></h3>
+ 
+      <br>
+
  <hr>
 <span style="font-size:15px">
 
@@ -51,7 +56,7 @@ That said, whilst the peak interest in an <i> online degree </i> was reached in 
 
  
 
-<a href="https://lauraschaposnik.com/Mazzeo/" > Interview with Prof. Rafe Mazzeo (Stanford University) </a>
+<h3><a href="https://lauraschaposnik.com/Mazzeo/" > Interview with Prof. Rafe Mazzeo (Stanford University) </a></h3>
 
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
 	<object data="https://www.youtube.com/embed/EtMYl0Q15C0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
@@ -62,7 +67,7 @@ That said, whilst the peak interest in an <i> online degree </i> was reached in 
 <hr>
 <span style="font-size:15px">
 <br>
-<a href="https://lauraschaposnik.com/Moraru/" > Interview with Prof. Ruxandra Moraru (University of Waterloo) </a>
+<h3><a href="https://lauraschaposnik.com/Moraru/" > Interview with Prof. Ruxandra Moraru (University of Waterloo) </a></h3>
 
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
 	<object data="https://www.youtube.com/embed/Ht4fKXVi7ts" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></object>
@@ -74,7 +79,7 @@ That said, whilst the peak interest in an <i> online degree </i> was reached in 
 <span style="font-size:15px">
 <br>
 
-<a href="https://lauraschaposnik.com/McDuff/" > Interview with Prof. Dusa McDuff (Barnard College)</a>
+<h3><a href="https://lauraschaposnik.com/McDuff/" > Interview with Prof. Dusa McDuff (Barnard College)</a></h3>
 
 
 <div id="video-container" style="float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
@@ -83,9 +88,7 @@ That said, whilst the peak interest in an <i> online degree </i> was reached in 
 
 
 
-    
-Subscribe <a href="https://www.youtube.com/c/LauraSchaposnik">via YouTube Channel </a>
- 
+
 <hr>
 <span style="font-size:15px">
  
