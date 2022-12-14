@@ -2,6 +2,8 @@
   - firstname: ["Laura P."]
     url: https://schapos.people.uic.edu/
 
+
+
 "Massolo":
   - firstname: ["Fidel I. Schaposnik"]
     url: https://fidel-schaposnik.github.io/
@@ -13,6 +15,11 @@
 "Schaposnik Massolo":
   - firstname: ["Fidel I.", "F.I.", "FI"]
     url: https://fidel-schaposnik.github.io/
+    
+    "Dunbar":
+  - firstname: ["Robin I.M.", "R.I.M.", "Robin"]
+    url: https://en.wikipedia.org/wiki/Robin_Dunbar
+    
     
 "Schulz":
   - firstname: ["Sebastian"]
