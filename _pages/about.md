@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Professor</b> of <a href="https://mscs.uic.edu">Mathematics, Statistics, and Computer Science</a>, University of Illinois Chicago
+subtitle: <b>Visiting Fellow</b> at <a href="https://www.asc.ox.ac.uk/">All Souls College, Oxford</a> <br>
+<b>Professor</b> of <a href="https://mscs.uic.edu">Mathematics, Statistics, and Computer Science</a>, University of Illinois Chicago
 
 profile:
   align: right
