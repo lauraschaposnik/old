@@ -6,13 +6,35 @@ nav: false
 heading: Children books
 ---
 
-After reading hundreds of children books with my sons, I decided to start writing and illustrating my own children books, in an attempt to combine this with my research and the educator inside me. You can see my work   related to   <a href="#ene">Ene's book series</a>, <a href="#raccoon">Raccoon's book series</a> and <a href="#azul">translation work</a> below.
+After reading hundreds of children books with my sons, I decided to start writing and illustrating my own children books, in an attempt to combine this with my research and the educator inside me. You can see my work   related to   <a href="#ene">Ene's book series</a>, <a href="#raccoon">Raccoon's book series</a> and <a href="#azul">translation work</a> below. The latest book, out in January 2023, is a book for young readers on [Sonia Kovalevsky's life](https://www.amazon.com/Potential-Inspire-Kovalevskys-Mathematical-Journey/dp/B0BRJZ182H?ref_=ast_sto_dp). 
 
 <br>
+
+
 <hr>
 <span style="font-size:15px">
-<br>
+ 
+ 
+ 
+ 
+<h1 id="sonia">[The potential to inspire…](https://www.amazon.com/Potential-Inspire-Kovalevskys-Mathematical-Journey/dp/B0BRJZ182H?ref_=ast_sto_dp)  </h1>
 
+<i>The Potential to Inspire: Sonia Kovalevsky's Mathematical Journey</i> is a poetic tale that takes us through the inspiring path of Sonia Kovalevsky, the first woman to receive a PhD and become a mathematics professor. Sonia Kovalevsky, who lived in the 19th century, became the first woman to obtain a doctorate in mathematics, the first woman appointed to a full professorship in Northern Europe, and one of the first women to work for a scientific journal as an editor. Sonia grew up in Russia, and her name was Со́фья Васи́льевна Ковале́вская, which translates into Sofia/Sofya Vasilyevna Kovalevskaya or Sophie/Sonia Kovalevsky. We have chosen the latter variation of her name since we developed this book inspired by the Sonia Kovalevsky Days for girls in math which originated within the Association of Women in Mathematics of the United States of America.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Books/sonia.jpeg" title="The potential to inspire" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Books/sonia1.jpeg" title="The potential to inspire" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<hr>
+<span style="font-size:15px">
+ 
  
  
  
