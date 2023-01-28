@@ -15,7 +15,7 @@ After reading hundreds of children books with my sons, I decided to start writin
 <span style="font-size:15px">
  
  
- ### [The potential to inspire…](https://www.amazon.com/Potential-Inspire-Kovalevskys-Mathematical-Journey/dp/B0BRJZ182H?ref_=ast_sto_dp)
+### [The potential to inspire…](https://www.amazon.com/Potential-Inspire-Kovalevskys-Mathematical-Journey/dp/B0BRJZ182H?ref_=ast_sto_dp)
 
  
 
