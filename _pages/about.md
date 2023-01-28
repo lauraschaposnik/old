@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Visiting Fellow</b> at <a href="https://www.asc.ox.ac.uk/">All Souls College, Oxford</a>  and <b>Professor</b> of <a href="https://mscs.uic.edu">Mathematics, Statistics, and Computer Science</a>, University of Illinois Chicago
+subtitle: <b>Visiting Fellow</b> at <a href="https://www.asc.ox.ac.uk">All Souls College, Oxford</a>  and <b>Professor</b> of <a href="https://mscs.uic.edu">Mathematics, Statistics, and Computer Science</a>, University of Illinois Chicago
 
 profile:
   align: right
@@ -23,7 +23,7 @@ My research focuses on the study of the geometry and topology of the moduli spac
 <hr>
 <span style="font-size:15px">
 
-During the Spring 2023 I am a <b> Visiting Fellow</b> at <a href="https://www.asc.ox.ac.uk/">All Souls College, Oxford</a> <br>, and a visiting member of the Mathematical Institute, at the University of Oxford. 
+During the Spring 2023 I am a <b> Visiting Fellow</b> at <a href="https://www.asc.ox.ac.uk">All Souls College, Oxford</a> , and a visiting member of the Mathematical Institute, at the University of Oxford. 
 
 <hr>
 <span style="font-size:15px">
