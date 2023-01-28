@@ -25,13 +25,19 @@ After reading hundreds of children books with my sons, I decided to start writin
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Books/sonia.jpeg" title="The potential to inspire" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+ 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Books/sonia1.jpeg" title="The potential to inspire" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Books/sonia2.jpeg" title="The potential to inspire" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Books/sonia3.jpeg" title="The potential to inspire" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-
 <hr>
 <span style="font-size:15px">
  
