@@ -49,7 +49,7 @@ Information about different career talks I have given these last years can be fo
 <span style="font-size:15px">
  
 
-### Sonia Kovalevsky Days
+<h4>Sonia Kovalevsky Days</h4>
 
 These days are part of series of the [Association of Women in Mathematics (AWM)](https://sites.google.com/site/awmmath/home). For more than twenty years Sonia Kovalevsky Days have been organized and sponsored by AWM and held at colleges and universities throughout the country. Sonia Kovalevsky Days (SK Days) consist of a program of workshops, talks, and problem-solving competitions for female high school and middle school students and their teachers, both women and men. At UIC together with [James Unwin](https://unwin.people.uic.edu/) we run anual Sonia Kovalevsky days, for which we have prepared the material listed below which we are currently converting into a book. 
 <br>
@@ -57,7 +57,7 @@ These days are part of series of the [Association of Women in Mathematics (AWM)]
 <span style="font-size:15px">
  
  
-### Material for Sonia Kovalevsky days
+<h4> Material for Sonia Kovalevsky days</h4>
 
 9. [Billiards](https://drive.google.com/file/d/1MwFiFEbUCeWj9VDtDh4BhbAoyoAKikKO/view?usp=sharing), with James A. Unwin (2018).
 8. [Non-orientable surfaces](https://drive.google.com/file/d/1HvY4P5eqB6u4JTL5qkKMiYfP8U4zLS9b/view?usp=sharing), with James A. Unwin (2018).
@@ -74,7 +74,7 @@ These days are part of series of the [Association of Women in Mathematics (AWM)]
 <span style="font-size:15px">
  
  
-###  Sonia Kovalevsky days at UIC
+<h4>  Sonia Kovalevsky days at UIC</h4>
 
 
 <table cellpadding="8" width="100%">
