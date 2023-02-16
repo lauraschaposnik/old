@@ -10,6 +10,40 @@ heading: Outreach
 
 Information about different career talks I have given these last years can be found in  [Talks](https://lauraschaposnik.github.io/talks/), and below is information about outreach days I run annually at UIC. 
 
+
+<hr>
+<span style="font-size:15px">
+ 
+ 
+### [The potential to inspire…](https://www.amazon.com/Potential-Inspire-Kovalevskys-Mathematical-Journey/dp/B0BRJZ182H?ref_=ast_sto_dp)
+
+ 
+
+<i>The Potential to Inspire: Sonia Kovalevsky's Mathematical Journey</i> is a poetic tale that takes us through the inspiring path of Sonia Kovalevsky, the first woman to receive a PhD and become a mathematics professor. Sonia Kovalevsky, who lived in the 19th century, became the first woman to obtain a doctorate in mathematics, the first woman appointed to a full professorship in Northern Europe, and one of the first women to work for a scientific journal as an editor. Sonia grew up in Russia, and her name was Со́фья Васи́льевна Ковале́вская, which translates into Sofia/Sofya Vasilyevna Kovalevskaya or Sophie/Sonia Kovalevsky. We have chosen the latter variation of her name since we developed this book inspired by the Sonia Kovalevsky Days for girls in math which originated within the Association of Women in Mathematics of the United States of America.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Books/sonia.jpeg" title="The potential to inspire" class="img-fluid rounded z-depth-1" %}
+    </div>
+ 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Books/sonia1.jpeg" title="The potential to inspire" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Books/sonia2.jpeg" title="The potential to inspire" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Books/sonia3.jpeg" title="The potential to inspire" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<hr>
+<span style="font-size:15px">
+ 
+ 
+
+
  
 <hr>
 <span style="font-size:15px">
