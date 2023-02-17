@@ -51,23 +51,27 @@ Information about different career talks I have given these last years can be fo
 
 <h4>Sonia Kovalevsky Days</h4>
 
-These days are part of series of the [Association of Women in Mathematics (AWM)](https://sites.google.com/site/awmmath/home). For more than twenty years Sonia Kovalevsky Days have been organized and sponsored by AWM and held at colleges and universities throughout the country. Sonia Kovalevsky Days (SK Days) consist of a program of workshops, talks, and problem-solving competitions for female high school and middle school students and their teachers, both women and men. At UIC together with [James Unwin](https://unwin.people.uic.edu/) we run anual Sonia Kovalevsky days, for which we have prepared the material listed below which we are currently converting into a book. 
-<br>
-<hr>
-<span style="font-size:15px">
+These days are part of series of the <a href="https://sites.google.com/site/awmmath/home"> Association of Women in Mathematics (AWM)</a>. For more than twenty years Sonia Kovalevsky Days have been organized and sponsored by AWM and held at colleges and universities throughout the country. Sonia Kovalevsky Days (SK Days) consist of a program of workshops, talks, and problem-solving competitions for female high school and middle school students and their teachers, both women and men. At UIC together with <a href="https://unwin.people.uic.edu/">James Unwin</a> we run anual Sonia Kovalevsky days, for which we have prepared the material listed below which we are currently converting into a book. 
  
  
-<h4> Material for Sonia Kovalevsky days</h4>
 
-9. [Billiards](https://drive.google.com/file/d/1MwFiFEbUCeWj9VDtDh4BhbAoyoAKikKO/view?usp=sharing), with James A. Unwin (2018).
-8. [Non-orientable surfaces](https://drive.google.com/file/d/1HvY4P5eqB6u4JTL5qkKMiYfP8U4zLS9b/view?usp=sharing), with James A. Unwin (2018).
-7. [Sphere packing](https://drive.google.com/file/d/14X3GQ4cRT5QoGzmDYkwElOPApq0_JdxU/view?usp=sharing), with James A. Unwin (2018).
-6. [Non Transitive Dice](https://drive.google.com/open?id=0B1Bztk_iEJigcnVIZW05bElNclk), with James A. Unwin (2017).
-5. [Sums of Dice](https://drive.google.com/file/d/0B1Bztk_iEJigaWJ6QllNLUxhNzQ/view?usp=sharing), with James A. Unwin (2017).
-4. [The Monty Hall Problem](https://drive.google.com/file/d/0B1Bztk_iEJigMGx4VG56SnItNDg/view?usp=sharing), with James A. Unwin (2017). 
-3. [Graph Coloring](https://drive.google.com/file/d/1MUo3vcEBWmrCIAy5aynzVLL83p7uLowA/view?usp=sharing), with James A. Unwin (2016). 
-2. [Knots](https://drive.google.com/file/d/1T7Yu_CKj4lSxN90LGq8rZoggD69oOJt4/view?usp=sharing), with James A. Unwin (2016). 
-1. [Bridges of Konigsberg](https://drive.google.com/file/d/1WWqKgmSZPW3U7qkErum4ax77o6hRFPfb/view?usp=sharing), with James A. Unwin (2016). 
+9. <a href="https://drive.google.com/file/d/1MwFiFEbUCeWj9VDtDh4BhbAoyoAKikKO/view?usp=sharing">Billiards</a>, with James A. Unwin (2018).
+
+8. <a href="https://drive.google.com/file/d/1HvY4P5eqB6u4JTL5qkKMiYfP8U4zLS9b/view?usp=sharing">Non-orientable surfaces</a>, with James A. Unwin (2018).
+
+7. <a href="https://drive.google.com/file/d/14X3GQ4cRT5QoGzmDYkwElOPApq0_JdxU/view?usp=sharing">Sphere packing</a>, with James A. Unwin (2018).
+
+6. <a href="https://drive.google.com/open?id=0B1Bztk_iEJigcnVIZW05bElNclk">Non Transitive Dice</a>, with James A. Unwin (2017).
+
+5. <a href="https://drive.google.com/file/d/0B1Bztk_iEJigaWJ6QllNLUxhNzQ/view?usp=sharing">Sums of Dice</a>, with James A. Unwin (2017).
+
+4. <a href="https://drive.google.com/file/d/0B1Bztk_iEJigMGx4VG56SnItNDg/view?usp=sharing">The Monty Hall Problem</a>, with James A. Unwin (2017). 
+
+3. <a href="https://drive.google.com/file/d/1MUo3vcEBWmrCIAy5aynzVLL83p7uLowA/view?usp=sharing"Graph Coloring</a>, with James A. Unwin (2016). 
+
+2. <a href="https://drive.google.com/file/d/1T7Yu_CKj4lSxN90LGq8rZoggD69oOJt4/view?usp=sharing">Knots</a>, with James A. Unwin (2016). 
+
+1. <a href="https://drive.google.com/file/d/1WWqKgmSZPW3U7qkErum4ax77o6hRFPfb/view?usp=sharing">Bridges of Konigsberg</a>, with James A. Unwin (2016). 
 
  
 <hr>
