@@ -124,17 +124,37 @@ Ene and the Magic Boxes teaches vocabulary related to mathematics with a three p
 <h1 id="raccoon">Raccoon's adventures  </h1>
  
 
-Together with illustrator [Martina Rusznak](https://tinarusznak.com/) we are working on a couple of projects, the first one of which will lead to our first publication together coming mid 2022.
+Together with illustrator [Martina Rusznak](https://tinarusznak.com/) we are working on a couple of projects, the first one of which will led to our first publication together in 2023.
 
-### Raccoon's difficult day
+### [https://www.amazon.com/dp/B0BXJYJ6HN?ref_=pe_3052080_397514860](A difficult day)
 
-Our first book <b> Raccoon's difficult day</b> is a book about overcoming difficulties that one encounters daily, changing perspective to turn things our way, and building a <i>map to a better day</i> to be used next time a day seems to start in a difficult way. 
+Our first book <b> A difficult day</b> is a book about overcoming difficulties that one encounters daily, changing perspective to turn things our way, and building a <i>map to a better day</i> to be used next time a day seems to start in a difficult way. 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Books/roku1.jpg" title="A Difficult Day" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Books/roku5.jpg" title="A Difficult Day" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Books/roku6.jpg" title="A Difficult Day" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+ 
+Embark on a whimsical adventure with Roku Raccoon navigating the twists and turns of life, where every obstacle is a chance for unexpected beauty and joy. From the gentle pitter-patter of raindrops to the shattered pieces of broken art, Roku discovers that even the most mundane moments can hold magic and wonder. With an open heart and a creative spirit, Roku learns that good things are always within reach and that sharing with others can lead to exciting new journeys. Brace yourself for a heartwarming and uplifting tale that will leave you feeling inspired and charmed. Join Roku Raccoon on this unforgettable journey and discover the magic in every moment!
+
 
  <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Books/rac1.png" title="Magic Tree" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Books/roku4.jpg" title="A Difficult Day" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+ <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Books/roku3.jpg" title="A Difficult Day" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
 <br>
 <hr>
