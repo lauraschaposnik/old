@@ -126,18 +126,18 @@ Ene and the Magic Boxes teaches vocabulary related to mathematics with a three p
 
 Together with illustrator [Martina Rusznak](https://tinarusznak.com/) we are working on a couple of projects, the first one of which will led to our first publication together in 2023.
 
-### [https://www.amazon.com/dp/B0BXJYJ6HN?ref_=pe_3052080_397514860](A difficult day)
+### [A difficult day](https://www.amazon.com/dp/B0BXJYJ6HN?ref_=pe_3052080_397514860)
 
 Our first book <b> A difficult day</b> is a book about overcoming difficulties that one encounters daily, changing perspective to turn things our way, and building a <i>map to a better day</i> to be used next time a day seems to start in a difficult way. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Books/roku1.jpg" title="A Difficult Day" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Books/roku1.JPEG" title="A Difficult Day" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Books/roku5.jpg" title="A Difficult Day" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Books/roku5.JPEG" title="A Difficult Day" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Books/roku6.jpg" title="A Difficult Day" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Books/roku6.JPEG" title="A Difficult Day" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
  
@@ -146,12 +146,12 @@ Embark on a whimsical adventure with Roku Raccoon navigating the twists and turn
 
  <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Books/roku4.jpg" title="A Difficult Day" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Books/roku4.JPEG" title="A Difficult Day" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
  <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Books/roku3.jpg" title="A Difficult Day" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Books/roku3.JPEG" title="A Difficult Day" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
