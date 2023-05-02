@@ -15,6 +15,16 @@ socialcontact: true  # includes social icons under photo
 social: true # includes social icons at the bottom of the page
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FZGCT9KEL3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FZGCT9KEL3');
+</script>
+
 After receiving my degree of Licenciada en Matemáticas from the University of La Plata (here is a [travel guide to La Plata](https://lauraschaposnik.github.io/laplata/) I wrote), I obtained my DPhil from the University of Oxford under the supervision of [Nigel Hitchin](https://people.maths.ox.ac.uk/hitchin/). I was then a post-doctoral researcher at the University of Heidelberg in [Anna Wiennhard's group](https://www.mathi.uni-heidelberg.de/%7Ewienhard/), and the University of Illinois at Urbana Champaign in [Steve Bradlow's group](https://faculty.math.illinois.edu/%7Ebradlow/bradlow_index2.html).  I moved to Chicago to take up a faculty position at the University of Illinois at Chicago (UIC) in 2015, where I  am a Professor in Mathematics.  I live with my [Family](https://lauraschaposnik.github.io/family/) in downtown Chicago. 
 
 My research focuses on the study of the geometry and topology of the moduli spaces of decorated bundles, especially Higgs bundles and Hitchin systems, and geometric structures they parametrize.  Research on  the moduli spaces of Higgs bundles has yielded connections between fundamental areas of mathematics and theoretical physics, blending ideas from algebraic and differential geometry, Lie theory, representation theory, and string theory. My  work has appeared in the Journal of Differential Geometry, Transactions of the AMS, Communications in Mathematical Physics, Advances in Theoretical and Mathematical Physics,  Proceedings of the Royal Society A, among other journals.
