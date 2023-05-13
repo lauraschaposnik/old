@@ -33,7 +33,7 @@ My research focuses on the study of the geometry and topology of the moduli spac
 <hr>
 <span style="font-size:15px">
 
-During the Spring 2023 I am a <b> Visiting Fellow</b> at <a href="https://www.asc.ox.ac.uk">All Souls College, Oxford</a> , and a visiting member of the Mathematical Institute, at the University of Oxford. 
+During the Fall 2022 I was a visiting professor at the Department of Mathematics of the University of California, Berkeley, and a Research Professor at MSRI, Berkeley, USA. During the Spring 2023 I am a <b> Visiting Fellow</b> at <a href="https://www.asc.ox.ac.uk">All Souls College, Oxford</a> , and a visiting member of the Mathematical Institute, at the University of Oxford. During the summer 2023 I'll be in Paris, partly as a visiting member of the Institut Henri Poincaré. 
 
 <hr>
 <span style="font-size:15px">
