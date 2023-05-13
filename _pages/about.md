@@ -28,18 +28,14 @@ social: true # includes social icons at the bottom of the page
 After receiving my degree of Licenciada en Matemáticas from the University of La Plata (here is a [travel guide to La Plata](https://lauraschaposnik.github.io/laplata/) I wrote), I obtained my DPhil from the University of Oxford under the supervision of [Nigel Hitchin](https://people.maths.ox.ac.uk/hitchin/). I was then a post-doctoral researcher at the University of Heidelberg in [Anna Wiennhard's group](https://www.mathi.uni-heidelberg.de/%7Ewienhard/), and the University of Illinois at Urbana Champaign in [Steve Bradlow's group](https://faculty.math.illinois.edu/%7Ebradlow/bradlow_index2.html).  I moved to Chicago to take up a faculty position at the University of Illinois at Chicago (UIC) in 2015, where I  am a Professor in Mathematics.  I live with my [Family](https://lauraschaposnik.github.io/family/) in downtown Chicago. 
 
 My research focuses on the study of geometric properties of different spaces: 
-<!-- Item 1 -->
-    <div class="item">
-        <h2>Moduli spaces of decorated Bundles</h2>
-        <p> the geometry and topology of the moduli spaces of decorated bundles, especially Higgs bundles and Hitchin systems, and geometric structures they parametrize.  Research on  the moduli spaces of Higgs bundles has yielded connections between fundamental areas of mathematics and theoretical physics, blending ideas from algebraic and differential geometry, Lie theory, representation theory, and string theory. </p>
-    </div>
-    
-    <!-- Item 2 -->
-    <div class="item">
-        <h2>Geometric questions within different areas of science</h2>
-        <p> hola</p>
-    </div>
-    My  work has appeared in the Journal of Differential Geometry, Transactions of the AMS, Communications in Mathematical Physics, Advances in Theoretical and Mathematical Physics,  Proceedings of the Royal Society A, among other journals.
+
+        <b>Moduli spaces of decorated Bundles</b>: The geometry and topology of the moduli spaces of decorated bundles, especially Higgs bundles and Hitchin systems, and geometric structures they parametrize.  Research on  the moduli spaces of Higgs bundles has yielded connections between fundamental areas of mathematics and theoretical physics, blending ideas from algebraic and differential geometry, Lie theory, representation theory, and string theory.      
+
+
+        <b>Geometric questions within different areas of science</p> In particular, my current projects lie within the two directions: related to <i>virus</i> and <i>society</i> , with an overall aim of building novel techniques that can be used in a vast array of areas, related to: Geometric insights, in particular symmetries and patterns; Repurposing stock market indicators for time series data in social and natural sciences. Graph and network theoretic approaches. 
+        
+        
+   A driving force behind my research is the idea that when a system is complex, making a small change can cause it to react in unpredictable and uncontrollable ways. But within a simple system, the effects of small changes tend to be clearer. This is one of the reasons why I often focus on seeking simplicity within the initial projects, subsequently building to more complicated applications.   My  work has appeared in the Journal of Differential Geometry, Transactions of the AMS, Communications in Mathematical Physics, Advances in Theoretical and Mathematical Physics,  Proceedings of the Royal Society A, among other journals.
 
 
 <hr>
