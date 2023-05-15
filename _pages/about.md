@@ -29,13 +29,13 @@ After receiving my degree of Licenciada en Matemáticas from the University of L
 
 My research focuses on the study of geometric properties of different spaces: 
 
-        <b>Moduli spaces of decorated Bundles</b>: The geometry and topology of the moduli spaces of decorated bundles, especially Higgs bundles and Hitchin systems, and geometric structures they parametrize.  Research on  the moduli spaces of Higgs bundles has yielded connections between fundamental areas of mathematics and theoretical physics, blending ideas from algebraic and differential geometry, Lie theory, representation theory, and string theory.      
+<b>Moduli spaces of decorated Bundles</b>: The geometry and topology of the moduli spaces of decorated bundles, especially Higgs bundles and Hitchin systems, and geometric structures they parametrize.  Research on  the moduli spaces of Higgs bundles has yielded connections between fundamental areas of mathematics and theoretical physics, blending ideas from algebraic and differential geometry, Lie theory, representation theory, and string theory.      
 
 
-        <b>Geometric questions within different areas of science</p> In particular, my current projects lie within the two directions: related to <i>virus</i> and <i>society</i> , with an overall aim of building novel techniques that can be used in a vast array of areas, related to: Geometric insights, in particular symmetries and patterns; Repurposing stock market indicators for time series data in social and natural sciences. Graph and network theoretic approaches. 
+<b>Geometric questions within different areas of science</b> In particular, my current projects lie within the two directions: related to <i>virus</i> and <i>society</i> , with an overall aim of building novel techniques that can be used in a vast array of areas, related to: Geometric insights, in particular symmetries and patterns; Repurposing stock market indicators for time series data in social and natural sciences. Graph and network theoretic approaches. 
         
         
-   A driving force behind my research is the idea that when a system is complex, making a small change can cause it to react in unpredictable and uncontrollable ways. But within a simple system, the effects of small changes tend to be clearer. This is one of the reasons why I often focus on seeking simplicity within the initial projects, subsequently building to more complicated applications.   My  work has appeared in the Journal of Differential Geometry, Transactions of the AMS, Communications in Mathematical Physics, Advances in Theoretical and Mathematical Physics,  Proceedings of the Royal Society A, among other journals.
+A driving force behind my research is the idea that when a system is complex, making a small change can cause it to react in unpredictable and uncontrollable ways. But within a simple system, the effects of small changes tend to be clearer. This is one of the reasons why I often focus on seeking simplicity within the initial projects, subsequently building to more complicated applications.   My  work has appeared in the Journal of Differential Geometry, Transactions of the AMS, Communications in Mathematical Physics, Advances in Theoretical and Mathematical Physics,  Proceedings of the Royal Society A, among other journals.
 
 
 <hr>
