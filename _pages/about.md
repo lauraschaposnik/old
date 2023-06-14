@@ -25,6 +25,8 @@ social: true # includes social icons at the bottom of the page
   gtag('config', 'G-FZGCT9KEL3');
 </script>
 
+<i> Photo by [Max Telford](https://www.ucl.ac.uk/biosciences/people/max-telford), at All Souls' Visiting Fellows Farewell night,  June 2023. </i>
+
 After receiving my degree of Licenciada en Matemáticas from the University of La Plata (here is a [travel guide to La Plata](https://lauraschaposnik.github.io/laplata/) I wrote), I obtained my DPhil from the University of Oxford under the supervision of [Nigel Hitchin](https://people.maths.ox.ac.uk/hitchin/). I was then a post-doctoral researcher at the University of Heidelberg in [Anna Wiennhard's group](https://www.mathi.uni-heidelberg.de/%7Ewienhard/), and the University of Illinois at Urbana Champaign in [Steve Bradlow's group](https://faculty.math.illinois.edu/%7Ebradlow/bradlow_index2.html).  I moved to Chicago to take up a faculty position at the University of Illinois at Chicago (UIC) in 2015, where I  am a Professor in Mathematics.  I live with my [Family](https://lauraschaposnik.github.io/family/) in downtown Chicago. 
 
 My research focuses on the study of geometric properties of different spaces: 
