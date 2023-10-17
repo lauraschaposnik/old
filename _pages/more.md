@@ -15,6 +15,8 @@ children:
       permalink: /art/
     - title: Woodwork
       permalink: /woodwork/
+    - title: Brickwork
+      permalink: /brickwork/
 ---
 
  
