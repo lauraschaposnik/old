@@ -48,7 +48,7 @@ During the Fall 2022 I was a visiting professor at the Department of Mathematics
 <hr>
 <span style="font-size:15px">
 
-I am on the <b>editorial board</b> of [Geometriae Dedicata](https://www.springer.com/journal/10711/editors), and together with Lara B. Anderson we edited a <a href="https://www.emis.de/journals/SIGMA/hitchin-systems.html">special volume of SIGMA</a> on Hitchin systems.  
+I am on the <b>editorial board</b> of [Notices of the AMS](https://www.ams.org/notices), of  [Nature's Scientific Reports](https://www.nature.com/srep/) and of [Geometriae Dedicata](https://www.springer.com/journal/10711/editors). Together with Lara B. Anderson we edited a <a href="https://www.emis.de/journals/SIGMA/hitchin-systems.html">special volume of SIGMA</a> on Hitchin systems.  Together with Motohico Mulase, Olivia Dumitrescu and Justin Sawon we are editing a volume for WorldScientific on Advances in Complex Lagrangians, Integrable systems and Quantization, and together with Christopher Mahadeo and Mengxue Yang we are co-editing a volume on Lecture Notes on Complex Lagrangians, Integrable systems and Quantization also for WorldScientific. 
 
 <hr>
 <span style="font-size:15px">
