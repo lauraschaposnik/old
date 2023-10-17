@@ -150,8 +150,7 @@ The boys love playing together.
 <hr>
 <span style="font-size:15px">
  
-My brother [Fidel I. Schaposnik](https://fidel-schaposnik.github.io/) and my father [Fidel A. Schaposnik](https://sites.google.com/site/schaposnik/) are physicists. 
-My mother [Patricia Massolo](https://es.wikipedia.org/wiki/Claudia_Patricia_Massolo) was also a physicist. 
+My brother [Fidel I. Schaposnik](https://fidel-schaposnik.github.io/) is a high-energy physicist and artificial intelligence expert. My father [Fidel A. Schaposnik](https://sites.google.com/site/schaposnik/)  and my mother [Patricia Massolo](https://es.wikipedia.org/wiki/Claudia_Patricia_Massolo) were also physicists. 
 
 
  

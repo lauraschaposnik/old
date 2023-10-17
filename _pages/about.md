@@ -52,7 +52,7 @@ I am on the <b>editorial board</b> of [Notices of the AMS](https://www.ams.org/n
 
 <hr>
 <span style="font-size:15px">
-My research at UIC has been supported by the following: [NSF FRG Award DMS- 2152107](<a href="https://sites.google.com/view/frg-ciq/home?authuser=0">PI</a>), 2022-2025; 
+My research at UIC has been supported by the following: [NSF FRG Award DMS- 2152107](https://sites.google.com/view/frg-ciq/home?authuser=0) (<a href="https://sites.google.com/view/frg-ciq/home?authuser=0">PI</a>), 2022-2025; 
   [Simons Fellowship](https://www.simonsfoundation.org/mathematics-physical-sciences/simons-fellows/
 ) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2022-2023;
  [NSF CAREER Award DMS 1749013](https://nsf.gov/awardsearch/showAward?AWD_ID=1749013) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2018-2023;
