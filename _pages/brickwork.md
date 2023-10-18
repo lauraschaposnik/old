@@ -16,9 +16,9 @@ I grew up watching my father and my brother building things, sometimes helping m
  
  
  
-<h1 id="base"> Built in Bookcase  </h1>
+<h1 id="base"> Building a Solid Foundation  </h1>
  
-We begun the project trying to plan our ideal "Ikea Hack", and soon realized we needed something much more sturdy and resilient for our 3 meter high ceilings, so we ended up with a mixture of solid frames and Ikea objects. We made the built-in bookcase together with my husband <a href="https://jamesunwin.github.io/">James Unwin </a> and it took us about 60 hours, and we are so happy with the final product!
+We decided to build a shed in our front yard, and so we needed a solid foundation to put it on.  Excavate a trench of undisturbed soil or required bearing
  
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
