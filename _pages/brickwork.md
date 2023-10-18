@@ -6,7 +6,25 @@ nav: false
 heading: Brickwork
 ---
 
-I grew up watching my father and my brother building things, sometimes helping myself, but mostly just admiring them. Now that we have our own home, we have started learning how to build thinks ourselves. We first learned how to set  <a href="#base"> a foundation </a> for a shed, which then became very useful at the time of building  <a href="#grill"> an Argentinian grill with bricks </a> in our back yard in Lincoln Park. 
+I grew up watching my father and my brother building things, sometimes helping myself, but mostly just admiring them.
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/brick/work1.jpeg" title="Things we bought" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/brick/work2.jpeg" title="Things we bought" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+        <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/brick/work3.jpeg" title="Things we bought" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+ Now that we have our own home, we have started learning how to build thinks ourselves. We first learned how to set  <a href="#base"> a foundation </a> for a shed, which then became very useful at the time of building  <a href="#grill"> an Argentinian grill with bricks </a> in our back yard in Lincoln Park. 
+
+
+
 
 <br>
 <hr>
