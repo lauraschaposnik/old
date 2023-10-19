@@ -6,7 +6,7 @@ nav: false
 heading: Brickwork
 ---
 
-I grew up watching my father and my brother building things, sometimes helping myself, but mostly just admiring them.
+I grew up watching my father and my brother building things, sometimes helping myself, but mostly just admiring them. Here are some photos from the last 20 years:
 
 
 <div class="row">
