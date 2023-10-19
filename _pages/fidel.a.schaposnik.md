@@ -30,4 +30,12 @@ del Conocimiento Científico](https://drive.google.com/file/d/12x3c2ijrgWEtS9-1C
   <li>The stories that my father told my children always kept them so entertained. Since I recorded most of them, together with my illustrator [Cecilia La Rosa](https://www.instagram.com/cecilialarosa.ilus/?hl=en) we will be working on a children's book <i>"Historias del abuelo</i> to be finished in 2024.  </li>
 </ul>
 
+  <li>My father's library comprised over 100000 books and so we have donated most of his physics and mathematics books to Universidad Nacional de La Plata, and a new portion of the library of the Physics Department will now be named after him and showcase his books. We found good homes for many other books, and many others are staying within family members, to endure the love for reading among our future generations </li>
+
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/sello.jpeg" title="Biblioteca Fidel A. Schaposnik" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
 My father's website is still going on at [https://sites.google.com/site/schaposnik/](https://sites.google.com/site/schaposnik/), and I will be fixing all the links that don't work before too long. 
