@@ -11,13 +11,13 @@ I grew up watching my father and my brother building things, sometimes helping m
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/brick/work1.jpeg" title="Things we bought" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/brick/work1.jpeg" title="My brother making a Christmas tree" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/brick/work2.jpeg" title="Things we bought" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/brick/work2.jpeg" title="Tools when growing up" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
         <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/brick/work3.jpeg" title="Things we bought" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/brick/work3.jpeg" title="James and my father building a Christmas tree" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
