@@ -19,23 +19,27 @@ Thirty years later, he rests in peace next to his beloved Patricia, our mother.
 <span style="font-size:15px">
 <br>
 
-As time passes, his friends, colleagues and family will be finding different ways in which they want to honor my father's life. Her are a few things that will be going on.  
+As time passes, his friends, colleagues and family will be finding different ways in which they want to honor my father's life. Here are a few things that will be going on.  
 
 <ul>
-  <li>Together with Paula Bergero, we will be editing the lecture notes set <b> [Introducción a los Métodos
-del Conocimiento Científico](https://drive.google.com/file/d/12x3c2ijrgWEtS9-1CEpIH16kfKPJcQAX/view)</b></li> to be published as a book soon with an Argentinian publisher. 
+  <li>Together with Paula Bergero, we will be editing the lecture notes set <b> <a href="https://drive.google.com/file/d/12x3c2ijrgWEtS9-1CEpIH16kfKPJcQAX/view"> Introducción a los Métodos
+del Conocimiento Científico </a></b> to be published as a book soon with an Argentinian publisher. </li>
   
   <li>There will be a workshop in his memory to take place in La Plata in December 2024. Reach out if you'd like to be added to an email list to get updates. </li>
   
-  <li>The stories that my father told my children always kept them so entertained. Since I recorded most of them, together with my illustrator [Cecilia La Rosa](https://www.instagram.com/cecilialarosa.ilus/?hl=en) we will be working on a children's book <i>"Historias del abuelo</i> to be finished in 2024.  </li>
-</ul>
+  <li>The stories that my father told my children always kept them so entertained. Since I recorded most of them, together with my illustrator  <a href="https://www.instagram.com/cecilialarosa.ilus/?hl=en"> Cecilia La Rosa </a>we will be working on a children's book <i>"Historias del abuelo</i> to be finished in 2024.  </li>
+
 
   <li>My father's library comprised over 100000 books and so we have donated most of his physics and mathematics books to Universidad Nacional de La Plata, and a new portion of the library of the Physics Department will now be named after him and showcase his books. We found good homes for many other books, and many others are staying within family members, to endure the love for reading among our future generations </li>
+
+<br>
 
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/sello.jpeg" title="Biblioteca Fidel A. Schaposnik" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+</ul>
+<br>
 
 My father's website is still going on at [https://sites.google.com/site/schaposnik/](https://sites.google.com/site/schaposnik/), and I will be fixing all the links that don't work before too long. 
