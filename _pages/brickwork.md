@@ -83,7 +83,7 @@ We have a beautiful back yard (not so common in Lincoln Park, we're indeed very 
     </div>
 </div>
 
-To honor our Argentinian heritage, and to continue my father's tradition of Sunday Asados, we needed to build and Argentinian Parrilla there. 
+To honor our Argentinian heritage, and to continue my father's tradition of Sunday Asados, we needed to build an Argentinian Parrilla there. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
