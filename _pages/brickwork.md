@@ -59,7 +59,7 @@ We had to excavate a trench of undisturbed soil for the required bearing, lay th
     </div>
 </div>
  
-We set up things to make the foundation during on day. A beach tent kept Nikolay entertained with toys, and allowed him to watch ups build things from scrach. He now wants to be an Architect and a builder! (and a scientist and a painter and so much more!). 
+We set up things to make the foundation during one day. A beach tent kept Nikolay entertained with toys, and allowed him to watch ups build things from scratch. He now wants to be an Architect and a builder! (and a scientist and a painter and so much more!). 
    
 
 
@@ -71,7 +71,7 @@ We set up things to make the foundation during on day. A beach tent kept Nikolay
  
  
  
-<h1 id="grill"> Argentinian Grill  </h1>
+<h1 id="grill"> Parrilla Argentinian    </h1>
 
  
 We have a beautiful back yard (not so common in Lincoln Park, we're indeed very lucky!
@@ -83,7 +83,7 @@ We have a beautiful back yard (not so common in Lincoln Park, we're indeed very 
     </div>
 </div>
 
-To honor our Argentinian heritage, and to continue my father's tradition of Sunday Asados, we needed to build and Argentinian Parilla there. 
+To honor our Argentinian heritage, and to continue my father's tradition of Sunday Asados, we needed to build and Argentinian Parrilla there. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
