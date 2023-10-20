@@ -30,7 +30,7 @@ del Conocimiento Científico </a></b> to be published as a book soon with an Arg
   <li>The stories that my father told my children always kept them so entertained. Since I recorded most of them, together with my illustrator  <a href="https://www.instagram.com/cecilialarosa.ilus/?hl=en"> Cecilia La Rosa </a>we will be working on a children's book <i>"Historias del abuelo"</i> to be finished in 2024.  </li>
 
 
-  <li>My father's library comprised over 100000 books and so we have donated most of his physics and mathematics books to Universidad Nacional de La Plata, and a new portion of the library of the Physics Department will now be named after him and showcase his books. We found good homes for many other books, and many others are staying within family members, to endure the love for reading among our future generations </li>
+  <li>My father's library likely had over 100.000 books, and so we made a beautiful stamp to mark each of them, and now have donated most of his physics and mathematics books to Universidad Nacional de La Plata: a new portion of the library of the Physics Department will now be named after him and showcase his books. We found good homes for many other books, and many others are staying within family members, to endure the love for reading among our future generations </li>
 
 <br>
 
