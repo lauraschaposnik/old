@@ -7,7 +7,7 @@ dropdown: true
 children: 
     - title: Publications
       permalink: /publications/
-    - title: Talks
+    - title: Talks and Trips
       permalink: /talks/
     - title: Events
       permalink: /events/
