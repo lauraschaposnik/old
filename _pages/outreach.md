@@ -52,25 +52,55 @@ Information about different career talks I have given these last years can be fo
 <h4>Sonia Kovalevsky Days</h4>
 
 These days are part of series of the <a href="https://sites.google.com/site/awmmath/home"> Association of Women in Mathematics (AWM)</a>. For more than twenty years Sonia Kovalevsky Days have been organized and sponsored by AWM and held at colleges and universities throughout the country. Sonia Kovalevsky Days (SK Days) consist of a program of workshops, talks, and problem-solving competitions for female high school and middle school students and their teachers, both women and men. At UIC together with <a href="https://unwin.people.uic.edu/">James Unwin</a> we run anual Sonia Kovalevsky days, for which we have prepared the material listed below which we are currently converting into a book. 
+
+<br>
+
  
  
 
 9. <a href="https://drive.google.com/file/d/1MwFiFEbUCeWj9VDtDh4BhbAoyoAKikKO/view?usp=sharing">Billiards</a>, with James A. Unwin (2018).
 
+<br>
+
+ 
+
 8. <a href="https://drive.google.com/file/d/1HvY4P5eqB6u4JTL5qkKMiYfP8U4zLS9b/view?usp=sharing">Non-orientable surfaces</a>, with James A. Unwin (2018).
+
+
+<br>
+
+ 
 
 7. <a href="https://drive.google.com/file/d/14X3GQ4cRT5QoGzmDYkwElOPApq0_JdxU/view?usp=sharing">Sphere packing</a>, with James A. Unwin (2018).
 
+<br>
+
+ 
 6. <a href="https://drive.google.com/open?id=0B1Bztk_iEJigcnVIZW05bElNclk">Non Transitive Dice</a>, with James A. Unwin (2017).
 
+<br>
+
+ 
 5. <a href="https://drive.google.com/file/d/0B1Bztk_iEJigaWJ6QllNLUxhNzQ/view?usp=sharing">Sums of Dice</a>, with James A. Unwin (2017).
 
+<br>
+
+ 
 4. <a href="https://drive.google.com/file/d/0B1Bztk_iEJigMGx4VG56SnItNDg/view?usp=sharing">The Monty Hall Problem</a>, with James A. Unwin (2017). 
 
-3. <a href="https://drive.google.com/file/d/1MUo3vcEBWmrCIAy5aynzVLL83p7uLowA/view?usp=sharing"Graph Coloring</a>, with James A. Unwin (2016). 
+<br>
 
+ 
+3. <a href="https://drive.google.com/file/d/1MUo3vcEBWmrCIAy5aynzVLL83p7uLowA/view?usp=sharing">Graph Coloring</a>, with James A. Unwin (2016). 
+
+<br>
+
+ 
 2. <a href="https://drive.google.com/file/d/1T7Yu_CKj4lSxN90LGq8rZoggD69oOJt4/view?usp=sharing">Knots</a>, with James A. Unwin (2016). 
 
+<br>
+
+ 
 1. <a href="https://drive.google.com/file/d/1WWqKgmSZPW3U7qkErum4ax77o6hRFPfb/view?usp=sharing">Bridges of Konigsberg</a>, with James A. Unwin (2016). 
 
  
