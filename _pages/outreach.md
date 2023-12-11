@@ -113,6 +113,25 @@ These days are part of series of the <a href="https://sites.google.com/site/awmm
 
 <table cellpadding="8" width="100%">
 
+
+
+
+<tr>
+<td width="20%">
+<img src="/assets/img/2023_Sonia.png" height="200px" width="150px">
+</td>
+
+<td width="60%">
+<h5><a href="https://sites.google.com/view/sonia2023/home"><b>Sonia Kovalevsky day VII
+</b></a></h5>
+Mathematics in Nature<br>
+</td>
+
+<td width="10%"> 2023
+</td>
+</tr>
+
+
 <tr>
 <td width="20%">
 <img src="/assets/img/sonia2020.png" height="200px" width="150px">
