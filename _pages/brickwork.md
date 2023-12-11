@@ -156,7 +156,7 @@ Once the the foundation was dry, we were ready to start making the legs and the 
 After the upper level was done, we waited for a warmish December day to add the fire bricks that should make the grill ready to be used next spring! 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/brick/grillnew.jpeg" title="Fire bricks set" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/brick/grillnew.png" title="Fire bricks set" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -165,4 +165,4 @@ After the upper level was done, we waited for a warmish December day to add the 
         {% include figure.html path="assets/img/brick/grillnew-d.jpg" title="Niko proud of the new grill" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-grillnew-a
+ 
