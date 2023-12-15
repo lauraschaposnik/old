@@ -173,7 +173,7 @@ We used some pine wall cabinets from Home Depot, some base boards, 2x4's for the
         {% include figure.html path="assets/img/piano/Last3.jpeg" title="Our new tools" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/piano/Last4.jpeg title="Getting things together" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/piano/Last4.jpeg" title="Getting things together" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/piano/Done3.jpeg" title="James learning new skills" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -209,6 +209,8 @@ We used a couple of solid pine bridge wall cabinets in the bottom, and calculate
         {% include figure.html path="assets/img/TV/Last2.jpeg" title="Making a base" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
+
   <br>
 <hr>
 <span style="font-size:15px">
