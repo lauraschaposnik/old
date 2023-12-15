@@ -112,7 +112,7 @@ The final details are what made the builtin look amazing when finished, so we le
 <br>
 
  
- <h1 id="ikea"> Built in Bookcase #2 The Piano Room </h1>
+ <h1 id="ikea2"> Built in Bookcase #2 The Piano Room </h1>
  
 The second built-in bookcase we built together with my husband <a href="https://jamesunwin.github.io/">James Unwin </a> took much less time, just a few days work, and we are so happy with the final built in! Here is our bookcase with the floor mid way to be re finished. 
  
@@ -181,6 +181,35 @@ We used some pine wall cabinets from Home Depot, some base boards, 2x4's for the
 </div>
  
 <br>
+<hr>
+<span style="font-size:15px">
+<br>
+
+ <h1 id="tv"> Built in Bookcase #3 The Hidden Media built in </h1>
+ 
+The third built-in bookcase/media modular we built together with my husband <a href="https://jamesunwin.github.io/">James Unwin </a> is still on the way, since we're learning how to make double bi-folding doors from scratch to hide our new TV in our new living room. Here is the almost finished space with James' father admiring it. 
+ 
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/TV/Last1.jpeg" title="Almost there" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+
+We used a couple of solid pine bridge wall cabinets in the bottom, and calculated spaces so that the middle of the TV would lie in the middle of our eyesight. The planning of sizes and positions was the most overwhelming. We  then made the two side bookcases out of solid pine, and the top shelving independently - and placed them in place before securing them to the studs and to eachother. 
+ 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/TV/plan1.jpeg" title="Planning" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/TV/plan2.jpeg" title="Pine slabs to make the three bookcases" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+        <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/TV/Last2.jpeg" title="Making a base" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+  <br>
 <hr>
 <span style="font-size:15px">
 <br>
