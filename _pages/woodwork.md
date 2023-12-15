@@ -157,10 +157,10 @@ We used some pine wall cabinets from Home Depot, some base boards, 2x4's for the
         {% include figure.html path="assets/img/piano/book1.jpeg" title="Making the bookcases" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/piano/book1.jpeg" title="Making the bookcases" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/piano/book2.jpeg" title="Making the bookcases" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/piano/book1.jpeg" title="Making the bookcases" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/piano/book3.jpeg" title="Making the bookcases" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
  
@@ -185,7 +185,7 @@ We used some pine wall cabinets from Home Depot, some base boards, 2x4's for the
 <span style="font-size:15px">
 <br>
 
- <h1 id="tv"> Built in Bookcase #3 The Hidden Media built in </h1>
+ <h1 id="tv"> The Hidden Media built in </h1>
  
 The third built-in bookcase/media modular we built together with my husband <a href="https://jamesunwin.github.io/">James Unwin </a> is still on the way, since we're learning how to make double bi-folding doors from scratch to hide our new TV in our new living room. Here is the almost finished space with James' father admiring it. 
  
