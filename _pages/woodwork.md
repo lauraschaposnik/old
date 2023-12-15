@@ -16,7 +16,7 @@ I started doing small woodwork projects as a child, during woodwork projects at 
  
  
  
-<h1 id="ikea"> Built in Bookcase  </h1>
+<h1 id="ikea"> Built in Bookcase #1 Playroom </h1>
  
 We begun the project trying to plan our ideal "Ikea Hack", and soon realized we needed something much more sturdy and resilient for our 3 meter high ceilings, so we ended up with a mixture of solid frames and Ikea objects. We made the built-in bookcase together with my husband <a href="https://jamesunwin.github.io/">James Unwin </a> and it took us about 60 hours, and we are so happy with the final product!
  
@@ -112,7 +112,82 @@ The final details are what made the builtin look amazing when finished, so we le
 <br>
 
  
+ <h1 id="ikea"> Built in Bookcase #2 The Piano Room </h1>
  
+The second built-in bookcase we built together with my husband <a href="https://jamesunwin.github.io/">James Unwin </a> took much less time, just a few days work, and we are so happy with the final built in! Here is our bookcase with the floor mid way to be re finished. 
+ 
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/piano/Done2.jpeg" title="Final built in" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+
+
+
+We will eventually turn this into a piano room, but for now, it will be our library next to the playroom, and it shall host half of the books I inherited from my father <a href="https://lauraschaposnik.com/fidel.a.schaposnik/">Fidel A. Schaposnik </a> and which recently arrived from Argentina. 
+ 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/piano/Last1.jpeg" title="Our latin-american library" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+We used some pine wall cabinets from Home Depot, some base boards, 2x4's for the base, and billy bookcases for the big shelving structure. Here is our starting point with the base, and the wall cabinets that would later on be painted. 
+ 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/piano/Base1.jpeg" title="Making a base" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/piano/Base2.jpeg" title="Making a base" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+        <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/piano/Base3.jpeg" title="Making a base" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+ 
+ 
+ Once that was done we made the bookcases and re-drilled holes to make sure that the shelves were separated as much as we wished. 
+  
+ <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/piano/book1.jpeg" title="Making the bookcases" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/piano/book1.jpeg" title="Making the bookcases" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/piano/book1.jpeg" title="Making the bookcases" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+ 
+ 
+ 
+ This time we didn't make a frame but rather attached the bookcases directly to the studs.  
+ 
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/piano/Last3.jpeg" title="Our new tools" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/piano/Last4.jpeg title="Getting things together" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/piano/Done3.jpeg" title="James learning new skills" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+ 
+<br>
+<hr>
+<span style="font-size:15px">
+<br>
+
+ 
+ 
+
  
 <h1 id="toys"> Wooden Toys  </h1>
 
