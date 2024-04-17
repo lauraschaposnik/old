@@ -26,7 +26,7 @@ Could we ask participants for suggestions of names of people who. might be inter
 <br>
 
 
-Could we, as a community, keep track of our community and how it evolves and grows? 
+Could we, as a community, keep track of our community and how it evolves and grows? For instance, keeping an eye on lists like this one of [women geometers](https://docs.google.com/spreadsheets/d/1R349WYFQIpuVW7eDF1m3i06zMxVYP9IjGzdLSp_uVFo/edit#gid=0)?
 
 <br>
 
