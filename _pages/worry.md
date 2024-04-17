@@ -10,12 +10,30 @@ As decades pass, there is a critical issue that requires our attention and actio
 Inclusivity and equity shouldn’t just be ideals we sometimes think about, or we sometimes talk about; they require our active effort. This isn't just about the people in the seminar room you might be at —it extends to whom we invite and include. As organizers we sometimes do commendable attempts to include women, but very often, noticeably absent are younger women and early-career researchers.
 This situation sheds light on broader issues. It's not only about who’s missing but why they're missing. It reveals the structural barriers built into how we organize and promote these events. I really think we need to move beyond merely acknowledging these issues to actively addressing them. We must challenge our assumptions, reevaluate our methods, and ensure we’re truly opening doors to everyone. As a community, we need to discuss how we can better support all potential members of our community, through mentorship, sponsorship, and practical support.  
 
+<br>
+
 Could more senior speakers, when invited to speak, bring along their younger students? 
+
+<br>
+
 Could they suggest their female collaborators to give seminars?
+
+<br>
+
+
 Could we ask participants for suggestions of names of people who. might be interested in the topics of choice? 
+
+<br>
+
+
 Could we, as a community, keep track of our community and how it evolves and grows? 
 
-Much like Sir Michael Atiyah reached out to Ed Witten, fostering interactions between fields,  will not only push our research forward but will likely  also open up new pathways of thinking and problem-solving. We can further our efforts towards equity, for instance, bringing along young minds in different areas together.
+<br>
+
+Much like Sir Michael Atiyah reached out to Ed Witten, fostering interactions between fields,  will not only push our research forward but will likely  also open up new pathways of thinking and problem-solving. Could we further our efforts towards equity, for instance, bringing along young minds in different areas together.
+
+
+<br>
 
 
 
