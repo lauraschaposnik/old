@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Visiting Fellow</b> at <a href="https://www.asc.ox.ac.uk">All Souls College, Oxford</a>  and <b>Professor</b> of <a href="https://mscs.uic.edu">Mathematics, Statistics, and Computer Science</a>, University of Illinois Chicago
+subtitle:  <b>Professor</b> of <a href="https://mscs.uic.edu">Mathematics, Statistics, and Computer Science</a>, University of Illinois Chicago
 
 profile:
   align: right
@@ -43,7 +43,7 @@ A driving force behind my research is the idea that when a system is complex, ma
 <hr>
 <span style="font-size:15px">
 
-During the Fall 2022 I was a visiting professor at the Department of Mathematics of the University of California, Berkeley, and a Research Professor at MSRI, Berkeley, USA. During the Spring 2023 I am a <b> Visiting Fellow</b> at <a href="https://www.asc.ox.ac.uk">All Souls College, Oxford</a> , and a visiting member of the Mathematical Institute, at the University of Oxford. During the summer 2023 I'll be in Paris, partly as a visiting member of the Institut Henri Poincaré. 
+During the Fall 2022 I was a visiting professor at the Department of Mathematics of the University of California, Berkeley, and a Research Professor at MSRI, Berkeley, USA. During the Spring 2023 I was a <b> Visiting Fellow</b> at <a href="https://www.asc.ox.ac.uk">All Souls College, Oxford</a> , and a visiting member of the Mathematical Institute, at the University of Oxford. During the summer 2023 was in Paris, partly as a visiting member of the Institut Henri Poincaré. 
 
 <hr>
 <span style="font-size:15px">
