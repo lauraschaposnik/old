@@ -23,6 +23,8 @@ group :jekyll_plugins do
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
     gem 'webrick'
+    gem 'rails', '~> 6.0.3'
+    gem 'pg', '~> 1.2'
 end
 group :other_plugins do
     gem 'css_parser'
