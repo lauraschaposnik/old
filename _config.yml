@@ -19,6 +19,10 @@ baseurl:   # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
+
+
+github_token: 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
+
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
