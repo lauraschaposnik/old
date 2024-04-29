@@ -23,6 +23,9 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 
 github_token: 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
 
+repository: lauraschaposnik/lauraschaposnik.github.io
+
+
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
