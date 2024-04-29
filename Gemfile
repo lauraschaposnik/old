@@ -25,6 +25,7 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'rails', '~> 6.0.3'
     gem 'pg', '~> 1.2'
+    gem 'jekyll-diagrams' 
 end
 group :other_plugins do
     gem 'css_parser'
