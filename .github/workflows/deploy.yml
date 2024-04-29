@@ -19,7 +19,11 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.0.2'
+      ruby-version: '3.0.2'
+     - name: Set up environment variables
+    run: echo "Setting up environment variables"
+    env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Enable bundler cache
       uses: actions/cache@v2
       with:
@@ -49,7 +53,3 @@ jobs:
       run:  yes | bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
                     --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
-	- name: Set up environment variables
- 	 run: echo "Setting up environment variables"
-	  env:
- 	   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
