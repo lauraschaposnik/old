@@ -21,9 +21,9 @@ jobs:
         with:
           ruby-version: '3.0.2'
       - name: Set up environment variables
-        run: echo "Setting up environment variables"
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  run: echo "Setting up environment variables"
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Enable bundler cache
         uses: actions/cache@v2
         with:
