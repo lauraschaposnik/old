@@ -21,6 +21,7 @@ group :jekyll_plugins do
     gem 'htmlbeautifier'
     gem 'jekyll-diagrams' 
     gem 'jekyll-github-metadata' 
+    gem 'jekyll-target-blank' 
 end
 group :other_plugins do
     gem 'css_parser'
