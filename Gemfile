@@ -19,8 +19,11 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem 'htmlbeautifier'
+<<<<<<< HEAD
     gem 'jekyll-diagrams' 
     gem 'jekyll-github-metadata' 
+=======
+>>>>>>> parent of 16d8aa8 (Update Gemfile)
 end
 group :other_plugins do
     gem 'css_parser'
